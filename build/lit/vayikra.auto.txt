@@ -1,0 +1,2074 @@
+# Draft made by lit_auto.py from the glossary. Do not edit: put corrections in vayikra.txt (it wins clause by clause).
+@ 1:1.0
+וּקְרָא | and he called
+לְמשֶׁה | to Moshe
+@ 1:1.1
+וּמַלֵּיל | and he spoke
+יְיָ | Hashem
+עִמֵּיהּ | with him
+@ 1:1.2
+מִמַּשְׁכַּן | from the Tent of
+זִמְנָא | Meeting (lit. appointment)
+לְמֵימָר | saying (lit. “to say”)
+@ 1:2.0
+מַלֵּיל | spoke
+עִם | with
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+וְתֵימַר | and you will say
+לְהוֹן | to them
+@ 1:2.1
+אֱנַשׁ | each person (lit. a man)
+אֲרֵי | that
+יְקָרֵיב | brings near
+מִנְּכוֹן | from you
+קֻרְבָּנָא | the offering
+קֳדָם | before
+יְיָ | Hashem
+@ 1:2.2
+מִן | from
+בְּעִירָא | the cattle
+מִן | from
+תּוֹרֵי | of cattle
+וּמִן | and from
+עָנָא | sheep, flock
+@ 1:2.3
+תְּקָרְבוּן | you shall offer
+יָת | (sign of the object)
+קֻרְבַּנְכוֹן | your offering
+@ 1:3.0
+אִם | if
+עֲלָתָא | a burnt offering
+קֻרְבָּנֵיהּ | his offering
+מִן | from
+תּוֹרֵי | of cattle
+@ 1:3.1
+דְּכַר | male
+שְׁלִים | unblemished, perfect (lit. complete)
+יְקָרְבִנֵּיהּ | he shall offer it
+@ 1:3.2
+לִתְרַע | to the gate of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+יְקָרֵב | he shall offer
+יָתֵיהּ | him
+@ 1:3.3
+לְרַעֲוָא | to favour, acceptance
+לֵיהּ | to him
+קֳדָם | before
+יְיָ | Hashem
+@ 1:4.0
+וְיִסְמוֹךְ | and shall lean
+יְדֵיהּ | his hand
+@ 1:4.1
+עַל | on, over
+רֵישׁ | the beginning of (lit. the head of)
+עֲלָתָא | a burnt offering
+@ 1:4.2
+וְיִתְרְעֵי | and it shall be accepted (lit. found pleasing)
+לֵיהּ | to him
+לְכַפָּרָא | to atone
+עֲלוֹהִי | for him (lit. upon him)
+@ 1:5.0
+וְיִכּוֹס | and he shall slaughter
+יָת | (sign of the object)
+בַּר תּוֹרֵי | a calf (lit. a son of cattle)
+קֳדָם | before
+יְיָ | Hashem
+@ 1:5.1
+וִיקָרְבוּן | and they shall offer
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+כָּהֲנַיָּא | the priests
+יָת | (sign of the object)
+דְּמָא | the blood
+@ 1:5.2
+וְיִזְרְקוּן | and they shall sprinkle
+יָת | (sign of the object)
+דְּמָא | the blood
+עַל | on, over
+מַדְבְּחָא | an altar
+סְחוֹר | around
+סְחוֹר | around
+@ 1:5.3
+דִּי | that, which
+בִתְרַע | at the entrance of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 1:6.0
+וְיַשְׁלַח | and he shall flay (lit. strip off)
+יָת | (sign of the object)
+עֲלָתָא | a burnt offering
+@ 1:6.1
+וִיפַלֵּג | and he shall cut up
+יָתַהּ | it
+לְאֶבְרָהָא | into its pieces
+@ 1:7.0
+וְיִתְּנוּן | and they shall put
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+כַּהֲנָא | the priest
+אֶשָּׁתָא | the fire
+עַל | on, over
+מַדְבְּחָא | an altar
+@ 1:7.1
+וִיסַדְּרוּן | and they shall arrange
+אָעַיָּא | the wood
+עַל | on, over
+אֶשָּׁתָא | the fire
+@ 1:8.0
+וִיסַדְּרוּן | and they shall arrange
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+כָּהֲנַיָּא | the priests
+@ 1:8.1
+יָת | (sign of the object)
+אֶבְרַיָּא | the pieces
+@ 1:8.2
+יָת | (sign of the object)
+רֵישָׁא | the head of
+וְיָת | and (sign of the object)
+תַּרְבָּא | the fat
+@ 1:8.3
+עַל | on, over
+אָעַיָּא | the wood
+דִּי | that, which
+עַל | on, over
+אֶשָׁתָא | the fire
+@ 1:8.4
+דִּי | that, which
+עַל | on, over
+מַדְבְּחָא | an altar
+@ 1:9.0
+וְגַוֵיהּ | and its innards
+וּכְרָעוֹהִי | and its legs
+יְחַלֵּל | he shall rinse
+בְּמַיָּא | in the water
+@ 1:9.1
+וְיַסֵּק | and shall burn (lit. bring up)
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+כּוֹלָא | the whole of it
+לְמַדְבְּחָא | to an altar
+@ 1:9.2
+עֲלָתָא | a burnt offering
+קֻרְבַּן | an offering of
+דְּמִתְקַבֵּל | that is accepted
+בְּרַעֲוָא | in favour, acceptance
+קֳדָם | before
+יְיָ | Hashem
+@ 1:10.0
+וְאִם | and if
+מִן | from
+עָנָא | sheep, flock
+קֻרְבָּנֵיהּ | his offering
+מִן | from
+אִמְּרַיָּא | the sheep
+אוֹ | or
+מִן | from
+בְּנֵי | the children of
+עִזַיָּא | the goats
+לַעֲלָתָא | as a burnt offering
+@ 1:10.1
+דְּכַר | male
+שְׁלִים | unblemished, perfect (lit. complete)
+יְקָרְבִינֵיהּ | he shall offer it
+@ 1:11.0
+וְיִכּוֹס | and he shall slaughter
+יָתֵיהּ | him
+עַל | on, over
+צִדָּא | the side
+דְמַדְבְּחָא | of the altar
+צִפּוּנָא | the north
+קֳדָם | before
+יְיָ | Hashem
+@ 1:11.1
+וְיִזְרְקוּן | and they shall sprinkle
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+כָּהֲנַיָּא | the priests
+יָת | (sign of the object)
+דְּמֵיהּ | his blood
+עַל | on, over
+מַדְבְּחָא | an altar
+סְחוֹר | around
+סְחוֹר | around
+@ 1:12.0
+וִיפַלֵּג | and he shall cut up
+יָתֵיהּ | him
+לְאֵבָרוֹהִי | into its pieces
+@ 1:12.1
+וְיָת | and (sign of the object)
+רֵישֵׁיהּ | his head
+וְיָת | and (sign of the object)
+תַּרְבֵּיהּ | its fat
+@ 1:12.2
+וְיַסְדַּר | and he shall arrange
+כַּהֲנָא | the priest
+יָתְהוֹן | them
+@ 1:12.3
+עַל | on, over
+אָעַיָּא | the wood
+דִּי | that, which
+עַל | on, over
+אֶשָּׁתָא | the fire
+@ 1:12.4
+דִּי | that, which
+עַל | on, over
+מַדְבְּחָא | an altar
+@ 1:13.0
+וְגַוָּא | and the innards (lit. the inside)
+וּכְרָעַיָּא | and the legs
+יְחַלֵּל | he shall rinse
+בְּמַיָּא | in the water
+@ 1:13.1
+וִיקָרֵב | and he shall offer
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+כּוֹלָא | the whole of it
+וְיַסֵּק | and shall burn (lit. bring up)
+לְמַדְבְּחָא | to an altar
+@ 1:13.2
+עֲלָתָא | a burnt offering
+הוּא | it
+קֻרְבַּן | an offering of
+דְּמִתְקַבֵּל | that is accepted
+בְּרַעֲוָא | in favour, acceptance
+קֳדָם | before
+יְיָ | Hashem
+@ 1:14.0
+וְאִם | and if
+מִן | from
+עוֹפָא | birds
+עֲלָתָא | a burnt offering
+קֻרְבָּנֵיהּ | his offering
+קֳדָם | before
+יְיָ | Hashem
+@ 1:14.1
+וִיקָרֵב | and he shall offer
+מִן | from
+שַׁפְנִינַיָּא | the young doves
+אוֹ | or
+מִן | from
+בְּנֵי | the children of
+יוֹנָה | the dove
+יָת | (sign of the object)
+קֻרְבָּנֵיהּ | his offering
+@ 1:15.0
+וִיקָרְבִנֵיהּ | and he shall offer it
+כַּהֲנָא | the priest
+לְמַדְבְּחָא | to an altar
+@ 1:15.1
+וְיִמְלוֹק | and he shall pinch off
+יָת | (sign of the object)
+רֵישֵׁיהּ | his head
+@ 1:15.2
+וְיַסֵּק | and shall burn (lit. bring up)
+לְמַדְבְּחָא | to an altar
+@ 1:15.3
+וְיִתִּמְצֵי | and shall be drained out
+דְמֵיהּ | his blood
+@ 1:15.4
+עַל | on, over
+כּוֹתֶל | the wall of
+מַדְבְּחָא | an altar
+@ 1:16.0
+וְיַעֲדֵּי | and he shall remove
+יָת | (sign of the object)
+זְפָקֵיהּ | its crop
+בְּאוּכְלֵיהּ | in its dung
+@ 1:16.1
+וְיִרְמֵי | and he shall throw
+יָתַהּ | it
+לִסְטַר | to the side of
+מַדְבְּחָא | an altar
+קִידוּמָא | eastward
+@ 1:16.2
+לַאֲתַר | to one place
+דְּמוֹשְׁדִין | where they pour out
+קִטְמָא | the ashes
+@ 1:17.0
+וִיפָרֵיק | and he shall tear it open
+יָתֵיהּ | him
+בְּגַדְפוֹהִי | by its wings
+לָא | not
+יַפְרֵישׁ | he shall separate
+@ 1:17.1
+וְיַסֵּק | and shall burn (lit. bring up)
+יָתֵיהּ | him
+כַּהֲנָא | the priest
+לְמַדְבְּחָא | to an altar
+@ 1:17.2
+עַל | on, over
+אָעַיָּא | the wood
+דִּי | that, which
+עַל | on, over
+אֶשָּׁתָא | the fire
+@ 1:17.3
+עֲלָתָא | a burnt offering
+הוּא | it
+קֻרְבָּן | an offering
+דְּמִתְקַבֵּל | that is accepted
+בְּרַעֲוָא | in favour, acceptance
+קֳדָם | before
+יְיָ | Hashem
+@ 2:1.0
+וֶאֱנַשׁ | and each person (lit. a man)
+אֲרֵי | that
+יְקָרֵב | he shall offer
+קֻרְבַּן | an offering of
+מִנְחָתָא | the meal offering
+קֳדָם | before
+יְיָ | Hashem
+@ 2:1.1
+סוּלְתָּא | fine flour
+יְהֵי | will be
+קֻרְבָּנֵיהּ | his offering
+@ 2:1.2
+וִירִיק | and he shall pour
+עֲלָהּ | on it
+מִשְׁחָא | oil
+@ 2:1.3
+וְיִתֵּן | and he shall put
+עֲלָהּ | on it
+לְבוֹנְתָּא | frankincense
+@ 2:2.0
+וְיַיְתִנָּהּ | and he shall bring it
+לְוָת | to
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+כָּהֲנַיָּא | the priests
+@ 2:2.1
+וְיִקְמוֹץ | and he shall take a handful
+מִתַּמָּן | from there
+מְלֵי | the full of
+קֻמְצֵיהּ | his handful
+מִסֻּלְתָּא | from fine flour
+וּמִמִּשְׁחַהּ | and of its oil
+@ 2:2.2
+עַל | on, over
+כָּל | every, all
+לְבוֹנְתָּהּ | its frankincense
+@ 2:2.3
+וְיַסֵּק | and shall burn (lit. bring up)
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+אַדְכַּרְתָּהּ | its memorial portion
+לְמַדְבְּחָא | to an altar
+@ 2:2.4
+קֻרְבַּן | an offering of
+דְּמִתְקַבֵּל | that is accepted
+בְּרַעֲוָא | in favour, acceptance
+קֳדָם | before
+יְיָ | Hashem
+@ 2:3.0
+וּדְאִשְׁתָּאַר | and that is left
+מִן | from
+מִנְחָתָא | the meal offering
+@ 2:3.1
+לְאַהֲרֹן | to Aharon
+וְלִבְנוֹהִי | and to his sons
+@ 2:3.2
+קוֹדֶשׁ | the holy of
+קוּדְשִׁין | holy things
+מִקֻּרְבָּנַיָּא | from the offerings
+דַיְיָ | of Hashem
+@ 2:4.0
+וַאֲרֵי | and that
+תְּקָרֵיב | you offer
+קֻרְבַּן | an offering of
+מִנְחָתָא | the meal offering
+מַאֲפֵה | baked
+תַנּוּרָא | an oven
+@ 2:4.1
+סוּלְתָּא | fine flour
+גְּרִיצָן | cakes
+פַּטִּירָן | unleavened
+דְּפִילָן | mixed
+בִּמְשַׁח | with oil of
+@ 2:4.2
+וְאַסְפּוֹגִין | and wafers
+פַּטִּירִין | unleavened
+דִּמְשִׁיחִין | anointed
+בִּמְשָׁח | with oil
+@ 2:5.0
+וְאִם | and if
+מִנְחָתָא | the meal offering
+עַל | on, over
+מַסְרֵיתָא | a griddle
+קֻרְבָּנָךְ | your offering
+@ 2:5.1
+סוּלְתָּא | fine flour
+דְּפִילָא | mixed
+בִמְשַׁח | with oil of
+פַּטִּיר | matzah (lit. unleavened)
+תְּהֵי | shall be
+@ 2:6.0
+בְּצַע | break!
+יָתָהּ | it
+בִּיצוּעִין | pieces
+@ 2:6.1
+וּתְרִיק | and you shall pour
+עֲלָהּ | on it
+מִשְׁחָא | oil
+@ 2:6.2
+מִנְחָתָא | the meal offering
+הִיא | she
+@ 2:7.0
+וְאִם | and if
+מִנְחָתָא | the meal offering
+דְרַדְתָּא | of the deep pan
+קֻרְבָּנָךְ | your offering
+@ 2:7.1
+סוּלְתָּא | fine flour
+בִמְשַׁח | with oil of
+תִּתְעֲבֵד | shall be made
+@ 2:8.0
+וְתַיְתֵי | and you shall bring
+יָת | (sign of the object)
+מִנְחָתָא | the meal offering
+דִּי | that, which
+יִתְעֲבֵד | shall be done, shall be made
+מֵאִלֵּין | from these
+קֳדָם | before
+יְיָ | Hashem
+@ 2:8.1
+וִיקַרְבִינָה | and he shall bring it
+לְוָת | to
+כַּהֲנָא | the priest
+@ 2:8.2
+וִיקַרְבִנַּהּ | and he shall bring it near
+לְמַדְבְּחָא | to an altar
+@ 2:9.0
+וְיַפְרֵישׁ | and he shall separate
+כַּהֲנָא | the priest
+מִן | from
+מִנְחָתָא | the meal offering
+יָת | (sign of the object)
+אַדְכַּרְתָּה | its memorial portion
+@ 2:9.1
+וְיַסֵּק | and shall burn (lit. bring up)
+לְמַדְבְּחָא | to an altar
+@ 2:9.2
+קֻרְבַּן | an offering of
+דְּמִתְקַבֵּל | that is accepted
+בְּרַעֲוָא | in favour, acceptance
+קֳדָם | before
+יְיָ | Hashem
+@ 2:10.0
+וּדְאִשְׁתָּאַר | and that is left
+מִן | from
+מִנְחָתָא | the meal offering
+@ 2:10.1
+לְאַהֲרֹן | to Aharon
+וְלִבְנוֹהִי | and to his sons
+@ 2:10.2
+קוֹדֶשׁ | the holy of
+קוּדְשִׁין | holy things
+מִקֻּרְבָּנַיָּא | from the offerings
+דַיְיָ | of Hashem
+@ 2:11.0
+כָּל | every, all
+מִנְחָתָא | the meal offering
+דִּי | that, which
+תְקָרְבוּן | you shall offer
+קֳדָם | before
+יְיָ | Hashem
+@ 2:11.1
+לָא | not
+תִתְעֲבֵד | shall be made
+חֲמִיעַ | leavened food
+@ 2:11.2
+אֲרֵי | that
+כָל | all of
+חֲמִיר | leaven
+וְכָל | and all
+דְּבַשׁ | honey
+@ 2:11.3
+לָא | not
+תַסְּקוּן | you shall offer (lit. bring up)
+מִנֵּיהּ | of him
+קֻרְבָּנָא | the offering
+קֳדָם | before
+יְיָ | Hashem
+@ 2:12.0
+קֻרְבַּן | an offering of
+קַדְמַי | the first
+תְּקָרְבוּן | you shall offer
+יָתְהוֹן | them
+קֳדָם | before
+יְיָ | Hashem
+@ 2:12.1
+וּלְמַדְבְּחָא | and to an altar
+לָא | not
+יִתַּסְּקוּן | they shall be offered (lit. brought up)
+לְאִתְקַבָּלָא | to be accepted
+בְרַעֲוָא | in favour, acceptance
+@ 2:13.0
+וְכָל | and all
+קֻרְבַּן | an offering of
+מִנְחָתָךְ | your meal offering
+בְּמִלְחָא | with salt
+תִמְלַח | you shall salt
+@ 2:13.1
+וְלָא | and not
+תְבַטֵּל | you shall omit (lit. make cease)
+מְלַח | salt
+קְיַם | the covenant of
+אֱלָהָךְ | your God
+@ 2:13.2
+מֵעַל | from upon
+מִנְחָתָךְ | your meal offering
+@ 2:13.3
+עַל | on, over
+כָּל | every, all
+קֻרְבָּנָךְ | your offering
+תְּקָרֵב | you shall bring near
+מִלְחָא | the salt of
+@ 2:14.0
+וְאִם | and if
+תְּקָרֵב | you shall bring near
+מִנְחַת | a meal offering of
+בִּכּוּרִין | first fruits
+קֳדָם | before
+יְיָ | Hashem
+@ 2:14.1
+אָבִיב | ripe
+קְלֵי | parched
+בְנוּר | in fire
+פֵּירוֹכָן | groats
+רַכִּיכָן | tender ones
+@ 2:14.2
+תְּקָרֵיב | you offer
+יָת | (sign of the object)
+מִנְחַת | a meal offering of
+בִּכּוּרָךְ | your first fruits
+@ 2:15.0
+וְתִתֵּן | and you shall give
+עֲלַהּ | over it
+מִשְׁחָא | oil
+@ 2:15.1
+וּתְשַׁוֵּי | and you shall put
+עֲלַהּ | over it
+לְבוֹנְתָּא | frankincense
+@ 2:15.2
+מִנְחָתָא | the meal offering
+הִיא | she
+@ 2:16.0
+וְיַסֵּק | and shall burn (lit. bring up)
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+אִדְכַּרְתַּהּ | its memorial portion
+מִפֵּרוּכַהּ | from its groats
+וּמִמִּשְׁחַהּ | and of its oil
+@ 2:16.1
+עַל | on, over
+כָּל | every, all
+לְבוֹנְתָּהּ | its frankincense
+@ 2:16.2
+קֻרְבָּנָא | the offering
+קֳדָם | before
+יְיָ | Hashem
+@ 3:1.0
+וְאִם | and if
+נִכְסַת | sacrifices (lit. slaughtered animals) of
+קוּדְשַׁיָּא | the holies
+קֻרְבָּנֵיהּ | his offering
+@ 3:1.1
+אִם | if
+מִן | from
+תּוֹרֵי | of cattle
+הוּא | it
+מְקָרֵב | offers (lit. brings near)
+@ 3:1.2
+אִם | if
+דְּכַר | male
+אִם | if
+נוּקְבָא | female
+@ 3:1.3
+שְׁלִים | unblemished, perfect (lit. complete)
+יְקָרְבִינֵיהּ | he shall offer it
+קֳדָם | before
+יְיָ | Hashem
+@ 3:2.0
+וְיִסְמוֹךְ | and shall lean
+יְדֵיהּ | his hand
+עַל | on, over
+רֵישׁ | the beginning of (lit. the head of)
+קֻרְבָּנֵיהּ | his offering
+@ 3:2.1
+וְיִכְּסִנֵּיהּ | and he shall slaughter it
+בִּתְרַע | at the entrance of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 3:2.2
+וְיִזְרְקוּן | and they shall sprinkle
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+כָּהֲנַיָּא | the priests
+יָת | (sign of the object)
+דְּמָא | the blood
+עַל | on, over
+מַדְבְּחָא | an altar
+סְחוֹר | around
+סְחוֹר | around
+@ 3:3.0
+וִיקָרֵב | and he shall offer
+מִנִּכְסַת | from sacrifices (lit. slaughtered animals) of
+קוּדְשַׁיָּא | the holies
+@ 3:3.1
+קֻרְבָּנָא | the offering
+קֳדָם | before
+יְיָ | Hashem
+@ 3:3.2
+יָת | (sign of the object)
+תַּרְבָּא | the fat
+דְּחָפֵי | that covers
+יָת | (sign of the object)
+גַּוָּא | the innards (lit. the inside)
+@ 3:3.3
+וְיָת | and (sign of the object)
+כָּל | every, all
+תַּרְבָּא | the fat
+@ 3:3.4
+דִּי | that, which
+עַל | on, over
+גַּוָּא | the innards (lit. the inside)
+@ 3:4.0
+וְיָת | and (sign of the object)
+תַּרְתֵּין | two
+כָּלְיָן | kidneys
+@ 3:4.1
+וְיָת | and (sign of the object)
+תַּרְבָּא | the fat
+דִי | that, which
+עֲלֵיהֶן | on them
+@ 3:4.2
+דִּי | that, which
+עַל | on, over
+גִּסְסַיָּא | the flanks
+@ 3:4.3
+וְיָת | and (sign of the object)
+חַצְרָא | the lobe
+דְּעַל | that is by
+כַּבְדָא | the liver
+@ 3:4.4
+עַל | on, over
+כָּלְיֵתָא | the kidneys
+יַעֲדִּנָּהּ | he shall remove it
+@ 3:5.0
+וְיַסְקוּן | and they shall burn (lit. bring up)
+יָתֵיהּ | him
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+לְמַדְבְּחָא | to an altar
+@ 3:5.1
+עַל | on, over
+עֲלָתָא | a burnt offering
+דִּי | that, which
+עַל | on, over
+אָעַיָּא | the wood
+דִּי | that, which
+עַל | on, over
+אֶשָּׁתָא | the fire
+@ 3:5.2
+קֻרְבַּן | an offering of
+דְּמִתְקַבֵּל | that is accepted
+בְּרַעֲוָא | in favour, acceptance
+קֳדָם | before
+יְיָ | Hashem
+@ 3:6.0
+וְאִם | and if
+מִן | from
+עָנָא | sheep, flock
+קֻרְבָּנֵיהּ | his offering
+לְנִכְסַת | to sacrifices (lit. slaughtered animals) of
+קוּדְשַׁיָּא | the holies
+קֳדָם | before
+יְיָ | Hashem
+@ 3:6.1
+דְּכַר | male
+אוֹ | or
+נֻקְבָּא | female
+שְׁלִים | unblemished, perfect (lit. complete)
+יְקָרְבִנֵּיהּ | he shall offer it
+@ 3:7.0
+אִם | if
+אִימָר | a lamb
+הוּא | it
+מְקָרֵב | offers (lit. brings near)
+יָת | (sign of the object)
+קֻרְבָּנֵיהּ | his offering
+@ 3:7.1
+וִיקָרֵיב | and he shall offer
+יָתֵיהּ | him
+קֳדָם | before
+יְיָ | Hashem
+@ 3:8.0
+וְיִסְמוֹךְ | and shall lean
+יָת | (sign of the object)
+יְדֵיהּ | his hand
+עַל | on, over
+רֵישׁ | the beginning of (lit. the head of)
+קֻרְבָּנֵיהּ | his offering
+@ 3:8.1
+וְיִכּוֹס | and he shall slaughter
+יָתֵיהּ | him
+@ 3:8.2
+קֳדָם | before
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 3:8.3
+וְיִזְרְקוּן | and they shall sprinkle
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+יָת | (sign of the object)
+דְּמֵיהּ | his blood
+עַל | on, over
+מַדְבְּחָא | an altar
+סְחוֹר | around
+סְחוֹר | around
+@ 3:9.0
+וִיקָרֵב | and he shall offer
+מִנִּכְסַת | from sacrifices (lit. slaughtered animals) of
+קוּדְשַׁיָּא | the holies
+קֻרְבָּנָא | the offering
+קֳדָם | before
+יְיָ | Hashem
+@ 3:9.1
+תַּרְבֵּיהּ | its fat
+אֲלִיתָא | the fat tail
+שְׁלִימְתָּא | whole
+@ 3:9.2
+לָקֳבֵל | opposite
+שְׁזַרְתָּא | the backbone
+יֶעְדִנַּהּ | he shall remove it
+@ 3:9.3
+וְיָת | and (sign of the object)
+תַּרְְבָּא | the fat
+דְּחָפֵי | that covers
+יָת | (sign of the object)
+גַּוָּא | the innards (lit. the inside)
+@ 3:9.4
+וְיָת | and (sign of the object)
+כָּל | every, all
+תַּרְבָּא | the fat
+@ 3:9.5
+דִּי | that, which
+עַל | on, over
+גַּוָּא | the innards (lit. the inside)
+@ 3:10.0
+וְיָת | and (sign of the object)
+תַּרְתֵּין | two
+כָּלְיָן | kidneys
+@ 3:10.1
+וְיָת | and (sign of the object)
+תַּרְבָּא | the fat
+דִּי | that, which
+עֲלֵיהֶן | on them
+@ 3:10.2
+דִּי | that, which
+עַל | on, over
+גִּסְסַיָּא | the flanks
+@ 3:10.3
+וְיָת | and (sign of the object)
+חַצְרָא | the lobe
+דְּעַל | that is by
+כַּבְדָּא | the liver
+@ 3:10.4
+עַל | on, over
+כָּלְיֵתָא | the kidneys
+יֶעְדִּנַּהּ | he shall remove it
+@ 3:11.0
+וְיַסְּקִנֵּיהּ | and he shall burn it (lit. bring it up)
+כַּהֲנָא | the priest
+לְמַדְבְּחָא | to an altar
+@ 3:11.1
+לְחֵם | bread
+קֻרְבָּנָא | the offering
+קֳדָם | before
+יְיָ | Hashem
+@ 3:12.0
+וְאִם | and if
+מִן | from
+בְּנֵי | the children of
+עִזַּיָּא | the goats
+קֻרְבָּנֵיהּ | his offering
+@ 3:12.1
+וִיקָרְבִנֵּיהּ | and he shall offer it
+קֳדָם | before
+יְיָ | Hashem
+@ 3:13.0
+וְיִסְמוֹךְ | and shall lean
+יָת | (sign of the object)
+יְדֵיהּ | his hand
+עַל | on, over
+רֵישֵׁיהּ | his head
+@ 3:13.1
+וְיִכּוֹס | and he shall slaughter
+יָתֵיהּ | him
+@ 3:13.2
+קֳדָם | before
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 3:13.3
+וְיִזְרְקוּן | and they shall sprinkle
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+יָת | (sign of the object)
+דְּמֵיהּ | his blood
+עַל | on, over
+מַדְבְּחָא | an altar
+סְחוֹר | around
+סְחוֹר | around
+@ 3:14.0
+וִיקָרֵב | and he shall offer
+מִנֵּיהּ | of him
+קֻרְבָּנֵיהּ | his offering
+@ 3:14.1
+קֻרְבָּן | an offering
+קֳדָם | before
+יְיָ | Hashem
+@ 3:14.2
+יָת | (sign of the object)
+תַּרְבָּא | the fat
+דְּחָפֵי | that covers
+יָת | (sign of the object)
+גַּוָּא | the innards (lit. the inside)
+@ 3:14.3
+וְיָת | and (sign of the object)
+כָּל | every, all
+תַּרְבָּא | the fat
+@ 3:14.4
+דִּי | that, which
+עַל | on, over
+גַּוָּא | the innards (lit. the inside)
+@ 3:15.0
+וְיָת | and (sign of the object)
+תַּרְתֵּין | two
+כָּלְיָן | kidneys
+@ 3:15.1
+וְיָת | and (sign of the object)
+תַּרְבָּא | the fat
+דִּי | that, which
+עֲלֵיהֶן | on them
+@ 3:15.2
+דִּי | that, which
+עַל | on, over
+גִּסְסַיָּא | the flanks
+@ 3:15.3
+וְיָת | and (sign of the object)
+חַצְרָא | the lobe
+דִּי | that, which
+עַל | on, over
+כַּבְדָא | the liver
+@ 3:15.4
+עַל | on, over
+כָּלְיֵתָא | the kidneys
+יֶעְדִּנַּהּ | he shall remove it
+@ 3:16.0
+וְיַסְּקִנּוּן | and he shall burn them (lit. bring them up)
+כַּהֲנָא | the priest
+לְמַדְבְּחָא | to an altar
+@ 3:16.1
+לְחֵם | bread
+קֻרְבָּנָא | the offering
+לְאִתְקַבָּלָא | to be accepted
+בְרַעֲוָא | in favour, acceptance
+@ 3:16.2
+כָּל | every, all
+תַּרְבָּא | the fat
+קֳדָם | before
+יְיָ | Hashem
+@ 3:17.0
+קְיָם | the covenant
+עָלָם | eternal (lit. of eternity)
+לְדָרָתֵיכוֹן | for your generations
+@ 3:17.1
+בְּכֹל | in all, every
+מוֹתְבָנֵיכוֹן | your dwellings
+@ 3:17.2
+כָּל | every, all
+תַּרְבָּא | the fat
+וְכָל | and all
+דְּמָא | the blood
+לָא | not
+תֵיכְלוּן | you shall eat
+@ 4:1.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 4:2.0
+מַלֵּל | speak!
+עִם | with
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+לְמֵימָר | saying (lit. “to say”)
+@ 4:2.1
+אֱנַשׁ | each person (lit. a man)
+אֲרֵי | that
+יֵחוֹב | sins
+בְּשָׁלוּ | in an oversight
+מִכָּל | from all
+פִּקּוּדַיָּא | the commandments
+דַיְיָ | of Hashem
+@ 4:2.2
+דִּי | that, which
+לָא | not
+כַשְׁרִין | proper
+לְאִתְעֲבָדָא | to be done
+@ 4:2.3
+וְיַעְבֵּד | and he shall do
+מִן | from
+חַד | one
+מִנְּהוֹן | from them
+@ 4:3.0
+אִם | if
+כַּהֲנָא | the priest
+רַבָּא | the great one
+יֵחוֹב | sins
+לְחוֹבַת | for the guilt of
+עַמָּא | a people
+@ 4:3.1
+וִיקָרֵב | and he shall offer
+עַל | on, over
+חוֹבְתֵיהּ | his sin
+דִּי | that, which
+חָב | he sinned
+תּוֹר | an ox
+בַּר תּוֹרֵי | a calf (lit. a son of cattle)
+שְׁלִים | unblemished, perfect (lit. complete)
+קֳדָם | before
+יְיָ | Hashem
+לְחַטָּאתָא | to a sin offering
+@ 4:4.0
+וְיַיְתִי | and let him bring
+יָת | (sign of the object)
+תּוֹרָא | an ox
+לִתְרַע | to the gate of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+לָקֳדָם | to before
+יְיָ | Hashem
+@ 4:4.1
+וְיִסְמוֹךְ | and shall lean
+יָת | (sign of the object)
+יְדֵיהּ | his hand
+עַל | on, over
+רֵישׁ | the beginning of (lit. the head of)
+תּוֹרָא | an ox
+@ 4:4.2
+וְיִכּוֹס | and he shall slaughter
+יָת | (sign of the object)
+תּוֹרָא | an ox
+קָדֳם | before
+יְיָ | Hashem
+@ 4:5.0
+וְיִסַּב | and he will take
+כַּהֲנָא | the priest
+רַבָּא | the great one
+מִדְּמָא | from the blood
+דְתוֹרָא | of the ox
+@ 4:5.1
+וְיָעֵל | and he shall bring in
+יָתֵיהּ | him
+לְמַשְׁכַּן | to the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:6.0
+וְיִטְבּוֹל | and he shall dip
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+אֶצְבְּעֵיהּ | his finger
+בִּדְמָא | in the blood
+@ 4:6.1
+וְיַדִּי | and he shall sprinkle
+מִן | from
+דְּמָא | the blood
+שְׁבַע | seven
+זִמְנִין | times
+קֳדָם | before
+יְיָ | Hashem
+@ 4:6.2
+קֳדָם | before
+פָּרוּכְתָּא | the dividing curtain
+דְקוּדְשָׁא | of holiness
+@ 4:7.0
+וְיִתֵּן | and he shall give
+כַּהֲנָא | the priest
+מִן | from
+דְּמָא | the blood
+עַל | on, over
+קַרְנַת | the horns of
+מַדְבַּח | an altar of
+דִקְטוֹרֶת | of incense
+בּוּסְמַיָא | spices
+קֳדָם | before
+יְיָ | Hashem
+@ 4:7.1
+דִּי | that, which
+בְּמַשְׁכַּן | in the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:7.2
+וְיָת | and (sign of the object)
+כָּל | every, all
+דְּמָא | the blood
+דְתוֹרָא | of the ox
+יֵשׁוּד | he shall pour
+לִיסוֹדָא | at the base
+דְּמַדְבְּחָא | of the altar
+דַעֲלָתָא | of the burnt offering
+@ 4:7.3
+דִּי | that, which
+בִתְרַע | at the entrance of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:8.0
+וְיָת | and (sign of the object)
+כָּל | every, all
+תְּרַב | the fat of
+תּוֹרָא | an ox
+דְחַטָּאתָא | of the sin offering
+יַפְרֵשׁ | he shall separate
+מִנֵּיהּ | of him
+@ 4:8.1
+יָת | (sign of the object)
+תַּרְבָּא | the fat
+דְּחָפֵי | that covers
+עַל | on, over
+גַּוָּא | the innards (lit. the inside)
+@ 4:8.2
+וְיָת | and (sign of the object)
+כָּל | every, all
+תַּרְבָּא | the fat
+@ 4:8.3
+דִּי | that, which
+עַל | on, over
+גַּוָּא | the innards (lit. the inside)
+@ 4:9.0
+וְיָת | and (sign of the object)
+תַּרְתֵּין | two
+כָּלְיָן | kidneys
+@ 4:9.1
+וְיָת | and (sign of the object)
+תַּרְבָּא | the fat
+דִּי | that, which
+עֲלֵיהוֹן | upon them, over them
+@ 4:9.2
+דִּי | that, which
+עַל | on, over
+גִּסְסַיָּא | the flanks
+@ 4:9.3
+וְיָת | and (sign of the object)
+חִצְרָא | the lobe
+דְּעַל | that is by
+כַּבְדָא | the liver
+@ 4:9.4
+עַל | on, over
+כָּלְיֵתָא | the kidneys
+יֶעְדִּנַּהּ | he shall remove it
+@ 4:10.0
+כְּמָא דִי | as
+@ 4:10.1
+מִתַּפְרַשׁ | is separated
+מִתּוֹר | from an ox
+נִכְסַת | sacrifices (lit. slaughtered animals) of
+קוּדְשַׁיָּא | the holies
+@ 4:10.2
+וְיַסֵּקִנּוּן | and he shall burn them (lit. bring them up)
+כַּהֲנָא | the priest
+@ 4:10.3
+עַל | on, over
+מַדְבְּחָא | an altar
+דַעֲלָתָא | of the burnt offering
+@ 4:11.0
+וְיָת | and (sign of the object)
+מְשַׁךְ | the skin of
+תּוֹרָא | an ox
+וְיָת | and (sign of the object)
+כָּל | every, all
+בִּסְרֵיהּ | its meat
+@ 4:11.1
+עַל | on, over
+רֵישֵׁיהּ | his head
+וְעַל | and on
+כְּרָעוֹהִי | its legs
+@ 4:11.2
+וְגַוֵּיהּ | and its innards
+וְאוּכְלֵיהּ | and its dung
+@ 4:12.0
+וְיַפֵּק | and he shall take out
+יָת | (sign of the object)
+כָּל | every, all
+תּוֹרָא | an ox
+מִבָּרָא | from the field (lit. the outside)
+לְמַשְׁרִיתָא | at the camp
+לַאֲתַר | to one place
+דְּכֵי | pure, clean
+לַאֲתַר | to one place
+בֵּית | the house of
+מֵישַׁד | at the pouring place of
+קִטְמָא | the ashes
+@ 4:12.1
+וְיוֹקִיד | and he shall burn
+יָתֵיהּ | him
+עַל | on, over
+אָעַיָּא | the wood
+בְּאֶשָּׁתָא | in the fire
+@ 4:12.2
+עַל | on, over
+אֲתַר | the place of
+בֵּית | the house of
+מֵישַׁד | at the pouring place of
+קִטְמָא | the ashes
+יִתּוֹקָד | it shall be burned
+@ 4:13.0
+וְאִם | and if
+כָּל | every, all
+כְּנִשְׁתָּא | the congregation
+דְיִשְׂרָאֵל | of Yisrael
+יִשְׁתְּלוּן | errs
+@ 4:13.1
+וִיהֵי | and will be
+מְכַסָּא | is hidden
+פִתְגָּמָא | the word
+@ 4:13.2
+מֵעֵינֵי | from the eyes of
+קְהָלָא | the assembly of
+@ 4:13.3
+וְיַעְבְּדוּן | and they shall do
+חָד | one
+מִכָּל | from all
+פִּקּוּדַיָּא | the commandments
+דַיְיָ | of Hashem
+דִּי | that, which
+לָא | not
+כָשְׁרִין | fit
+לְאִתְעֲבָדָא | to be done
+וִיחוֹבוּן | and they sin
+@ 4:14.0
+וְתִתְיְדַע | and becomes known
+חוֹבְתָא | the sin
+@ 4:14.1
+דִּי | that, which
+חָבוּ | they sinned
+עֲלַהּ | over it
+@ 4:14.2
+וִיקַרְבוּן | and they shall offer
+קְהָלָא | the assembly of
+תּוֹר | an ox
+בַּר תּוֹרֵי | a calf (lit. a son of cattle)
+לְחַטָּאתָא | to a sin offering
+@ 4:14.3
+וְיַיְתוּן | and they shall bring
+יָתֵיהּ | him
+@ 4:14.4
+לָקֳדָם | to before
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:15.0
+וְיִסְמְכוּן | and they shall lean
+סָבֵי | the elders of
+כְנִשְׁתָּא | the congregation
+יָת | (sign of the object)
+יְדֵיהוֹן | their hands
+עַל | on, over
+רֵישׁ | the beginning of (lit. the head of)
+תּוֹרָא | an ox
+קֳדָם | before
+יְיָ | Hashem
+@ 4:15.1
+וְיִכּוֹס | and he shall slaughter
+יָת | (sign of the object)
+תּוֹרָא | an ox
+קֳדָם | before
+יְיָ | Hashem
+@ 4:16.0
+וְיָעֵל | and he shall bring in
+כַּהֲנָא | the priest
+רַבָּא | the great one
+מִן | from
+דְּמָא | the blood
+דְתוֹרָא | of the ox
+@ 4:16.1
+לְמַשְׁכַּן | to the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:17.0
+וְיִטְבּוֹל | and he shall dip
+כַּהֲנָא | the priest
+אִצְבְּעֵיהּ | his finger
+מִן | from
+דְּמָא | the blood
+@ 4:17.1
+וְיַדִּי | and he shall sprinkle
+שְׁבַע | seven
+זִמְנִין | times
+קֳדָם | before
+יְיָ | Hashem
+@ 4:17.2
+קֳדָם | before
+פָּרֻכְתָּא | the dividing curtain
+@ 4:18.0
+וּמִן | and from
+דְּמָא | the blood
+יִתֵּן | will give, will put
+עַל | on, over
+קַרְנַת | the horns of
+מַדְבְּחָא | an altar
+דִּי | that, which
+קֳדָם | before
+יְיָ | Hashem
+@ 4:18.1
+דִּי | that, which
+בְּמַשְׁכַּן | in the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:18.2
+וְיָת | and (sign of the object)
+כָּל | every, all
+דְּמָא | the blood
+יֵשׁוֹד | he shall pour
+לִיסוֹדָא | at the base
+דְּמַדְבְּחָא | of the altar
+דַעֲלָתָא | of the burnt offering
+@ 4:18.3
+דִּי | that, which
+בִתְרַע | at the entrance of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:19.0
+וְיָת | and (sign of the object)
+כָּל | every, all
+תַּרְבֵּיהּ | its fat
+יַפְרֵשׁ | he shall separate
+מִנֵּיהּ | of him
+@ 4:19.1
+וְיַסֵּק | and shall burn (lit. bring up)
+לְמַדְבְּחָא | to an altar
+@ 4:20.0
+וְיַעְבֵּד | and he shall do
+לְתוֹרָא | with the bull
+@ 4:20.1
+כְּמָא דִי | as
+עֲבַד | he made
+לְתוֹרָא | with the bull
+דְחַטָּאתָא | of the sin offering
+@ 4:20.2
+כֵּן | so
+יַעְבֵּד | will do
+לֵיהּ | to him
+@ 4:20.3
+וִיכַפֵּר | and he shall atone
+עֲלֵיהוֹן | upon them, over them
+כַּהֲנָא | the priest
+וְיִשְׁתְּבֵק | and it will be forgiven
+לְהוֹן | to them
+@ 4:21.0
+וְיַפֵּק | and he shall take out
+יָת | (sign of the object)
+תּוֹרָא | an ox
+לְמִבָּרָא | outside (lit. to outside)
+לְמַשְׁרִיתָא | at the camp
+@ 4:21.1
+וְאוֹקִיד | he burned
+יָתֵיהּ | him
+@ 4:21.2
+כְּמָא דִי | as
+אוֹקִיד | he burned
+@ 4:21.3
+יָת | (sign of the object)
+תּוֹרָא | an ox
+קַדְמָאָה | the first
+@ 4:21.4
+חַטַּאת | the sin offering of
+קְהָלָא | the assembly of
+הוּא | it
+@ 4:22.0
+אִם | if
+רַבָּא | the great one
+יֵחוֹב | sins
+@ 4:22.1
+וְיַעְבֵּד | and he shall do
+חַד | one
+מִכָּל | from all
+פִּקּוּדַיָּא | the commandments
+דַיְיָ | of Hashem
+אֱלָהֵיהּ | his God
+דִּי | that, which
+לָא | not
+כַשְׁרִין | proper
+לְאִתְעֲבָדָא | to be done
+בְּשָׁלוּ | in an oversight
+וְיֵחוֹב | and sins
+@ 4:23.0
+אוֹ | or
+אִתְיְדַע | it was known
+לֵיהּ | to him
+חוֹבְתֵיהּ | his sin
+@ 4:23.1
+דִּי | that, which
+חַב | has sinned
+בַּהּ | in it
+@ 4:23.2
+וְיַיְתִי | and let him bring
+יָת | (sign of the object)
+קֻרְבָּנֵיהּ | his offering
+צְפִיר | a he-goat of
+בַּר | has (lit. “son of”)
+עִזִּין | goats
+דְּכַר | male
+שְׁלִים | unblemished, perfect (lit. complete)
+@ 4:24.0
+וְיִסְמוֹךְ | and shall lean
+יְדֵיהּ | his hand
+עַל | on, over
+רֵישָׁא | the head of
+דִצְפִירָא | of the goat
+@ 4:24.1
+וְיִכּוֹס | and he shall slaughter
+יָתֵיהּ | him
+@ 4:24.2
+בַּאֲתַר | in the place of
+דְּיִכּוֹס | where they slaughter
+יָת | (sign of the object)
+עֲלָתָא | a burnt offering
+לָקֳדָם | to before
+יְיָ | Hashem
+@ 4:24.3
+חַטָּאתָא | a sin offering
+הוּא | it
+@ 4:25.0
+וְיִסַּב | and he will take
+כַּהֲנָא | the priest
+מִדְּמָא | from the blood
+דְחַטָּאתָא | of the sin offering
+בְּאֶצְבְּעֵיהּ | with his finger
+@ 4:25.1
+וְיִתֵּן | and he shall give
+עַל | on, over
+קַרְנַת | the horns of
+מַדְבְּחָא | an altar
+דַעֲלָתָא | of the burnt offering
+@ 4:25.2
+וְיָת | and (sign of the object)
+דְּמֵיהּ | his blood
+יֵשׁוֹד | he shall pour
+@ 4:25.3
+לִיסוֹדָא | at the base
+דְמַדְבְּחָא | of the altar
+דַעֲלָתָא | of the burnt offering
+@ 4:26.0
+וְיָת | and (sign of the object)
+כָּל | every, all
+תַּרְבֵּיהּ | its fat
+יַסֵּק | he shall burn (lit. bring up)
+לְמַדְבְּחָא | to an altar
+@ 4:26.1
+כִּתְרַב | like the fat of
+נִכְסַת | sacrifices (lit. slaughtered animals) of
+קוּדְשַׁיָּא | the holies
+@ 4:26.2
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַּהֲנָא | the priest
+מֵחוֹבְתֵיהּ | from his sin
+וְיִשְׁתְּבֵק | and it will be forgiven
+לֵיהּ | to him
+@ 4:27.0
+וְאִם | and if
+אֱנַשׁ | each person (lit. a man)
+חַד | one
+יֵחוֹב | sins
+בְּשָׁלוּ | in an oversight
+מֵעַמָּא | from a people
+דְאַרְעָא | of the earth
+@ 4:27.1
+בְּמֶעְבְּדַהּ | in doing it
+חַד | one
+מִפִּקּוּדַיָּא | of the commandments
+דַיְיָ | of Hashem
+דִּי | that, which
+לָא | not
+כַשְׁרִין | proper
+לְאִתְעֲבָדָא | to be done
+וְיֵחוֹב | and sins
+@ 4:28.0
+אוֹ | or
+אִתְיְדַע | it was known
+לֵיהּ | to him
+חוֹבְתֵיהּ | his sin
+דִּי | that, which
+חָב | he sinned
+@ 4:28.1
+וְיַיְתִי | and let him bring
+קֻרְבָּנֵיהּ | his offering
+צְפִירַת | a she-goat of
+עִזִּין | goats
+שְׁלֶמְתָּא | unblemished
+נְקוּבְתָּא | a female
+@ 4:28.2
+עַל | on, over
+חוֹבְתֵיהּ | his sin
+דִּי | that, which
+חָב | he sinned
+@ 4:29.0
+וְיִסְמוֹךְ | and shall lean
+יָת | (sign of the object)
+יְדֵיהּ | his hand
+@ 4:29.1
+עַל | on, over
+רֵישׁ | the beginning of (lit. the head of)
+חַטָּאתָא | a sin offering
+@ 4:29.2
+וְיִכּוֹס | and he shall slaughter
+יָת | (sign of the object)
+חַטָּאתָא | a sin offering
+@ 4:29.3
+בַּאֲתַר | in the place of
+דַּעֲלָתָא | of the burnt offering
+@ 4:30.0
+וְיִסַּב | and he will take
+כַּהֲנָא | the priest
+מִדְמַהּ | of its blood
+בְּאֶצְבְּעֵיהּ | with his finger
+@ 4:30.1
+וְיִתֵּן | and he shall give
+עַל | on, over
+קַרְנַת | the horns of
+מַדְבְּחָא | an altar
+דַעֲלָתָא | of the burnt offering
+@ 4:30.2
+וְיָת | and (sign of the object)
+כָּל | every, all
+דְּמַהּ | its blood
+@ 4:30.3
+יֵשׁוֹד | he shall pour
+לִיסוֹדָא | at the base
+דְּמַדְבְּחָא | of the altar
+@ 4:31.0
+וְיָת | and (sign of the object)
+כָּל | every, all
+תַּרְבַּהּ | its fat
+יֶעְדֵּי | he shall remove
+כְּמָא דִי | as
+מִתַּעְדָּא | is removed
+תְרַב | the fat of
+מֵעַל | from upon
+נִכְסַת | sacrifices (lit. slaughtered animals) of
+קוּדְשַׁיָּא | the holies
+@ 4:31.1
+וְיַסֵּק | and shall burn (lit. bring up)
+כַּהֲנָא | the priest
+לְמַדְבְּחָא | to an altar
+@ 4:31.2
+לְאִתְקַבָּלָא | to be accepted
+בְרַעֲוָא | in favour, acceptance
+קֳדָם | before
+יְיָ | Hashem
+@ 4:31.3
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַּהֲנָא | the priest
+וְיִשְׁתְּבֵק | and it will be forgiven
+לֵיהּ | to him
+@ 4:32.0
+וְאִם | and if
+אִימַר | a lamb
+יַיְתִי | let him bring
+קֻרְבָּנֵיהּ | his offering
+לְחַטָּאתָא | to a sin offering
+@ 4:32.1
+נֻקְבָּא | female
+שְׁלֶמְתָּא | unblemished
+יַיְתִנַּהּ | he shall bring it
+@ 4:33.0
+וְיִסְמוֹךְ | and shall lean
+יָת | (sign of the object)
+יְדֵיהּ | his hand
+@ 4:33.1
+עַל | on, over
+רֵישׁ | the beginning of (lit. the head of)
+חַטָּאתָא | a sin offering
+@ 4:33.2
+וְיִכּוֹס | and he shall slaughter
+יָתַהּ | it
+לְחַטָּאתָא | to a sin offering
+@ 4:33.3
+בְּאַתְרָא | in the place
+דִּי | that, which
+יִכּוֹס | he shall slaughter
+יָת | (sign of the object)
+עֲלָתָא | a burnt offering
+@ 4:34.0
+וְיִסַּב | and he will take
+כַּהֲנָא | the priest
+מִדְּמָא | from the blood
+דְחַטָּאתָא | of the sin offering
+בְּאֶצְבְּעֵיהּ | with his finger
+@ 4:34.1
+וְיִתֵּן | and he shall give
+עַל | on, over
+קַרְנַת | the horns of
+מַדְבְּחָא | an altar
+דַעֲלָתָא | of the burnt offering
+@ 4:34.2
+וְיָת | and (sign of the object)
+כָּל | every, all
+דְּמַהּ | its blood
+@ 4:34.3
+יֵשׁוֹד | he shall pour
+לִיסוֹדָא | at the base
+דְּמַדְבְּחָא | of the altar
+@ 4:35.0
+וְיָת | and (sign of the object)
+כָּל | every, all
+תַּרְבַּהּ | its fat
+יֶעְדֵּי | he shall remove
+כְּמָא דִי | as
+מִתַּעְדָּא | is removed
+תְרַב | the fat of
+אִמְּרָא | the lamb
+מִנִּכְסַת | from sacrifices (lit. slaughtered animals) of
+קוּדְשַׁיָּא | the holies
+@ 4:35.1
+וְיַסֵּק | and shall burn (lit. bring up)
+כַּהֲנָא | the priest
+יָתְהוֹן | them
+לְמַדְבְּחָא | to an altar
+@ 4:35.2
+עַל | on, over
+קֻרְבְּנַיָּא | the offerings of
+דַיְיָ | of Hashem
+@ 4:35.3
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַּהֲנָא | the priest
+עַל | on, over
+חוֹבְתֵיהּ | his sin
+דִּי | that, which
+חָב | he sinned
+וְיִשְׁתְּבֵק | and it will be forgiven
+לֵיהּ | to him
+@ 5:1.0
+וֶאֱנַשׁ | and each person (lit. a man)
+אֲרֵי | that
+יֵחוֹב | sins
+וְיִשְׁמַע | and he hears
+קַל | the voice of
+מוֹמֵי | an oath (lit. adjuring)
+@ 5:1.1
+וְהוּא | and it
+סָהִיד | a witness
+@ 5:1.2
+אוֹ | or
+חֲזָא | saw
+אוֹ | or
+יְדָע | knowing
+@ 5:1.3
+אִם | if
+לָא | not
+יְחַוִּי | he tells
+וִיקַבֵּל | and will listen to (lit. accept)
+חוֹבֵיהּ | his sin
+@ 5:2.0
+אוֹ | or
+אֱנַשׁ | each person (lit. a man)
+דִּי | that, which
+יִקְרַב | he may come near
+בְּכֹל | in all, every
+מִדַּעַם | anything
+מְסָאָב | impure
+@ 5:2.1
+אוֹ | or
+בְנִבְלַת | with the carcass of
+חַיְתָא | living
+מְסָאָבָא | impure
+אוֹ | or
+בְּנִבְלַת | with the carcass of
+בְּעִירָא | the cattle
+מְסָאָבָא | impure
+@ 5:2.2
+אוֹ | or
+בְּנִבְלַת | with the carcass of
+רִחֲשָׁא | the creeping things
+מְסָאָב | impure
+@ 5:2.3
+וִיהֵי | and will be
+מְכַסָּא | hidden
+מִנֵּיהּ | of him
+@ 5:2.4
+וְהוּא | and it
+מְסָאָב | impure
+וְחָב | and he is guilty
+@ 5:3.0
+אוֹ | or
+אֲרֵי | that
+יִקְרַב | he may come near
+בְּסוֹאֲבַת | with the impurity of
+אֱנָשָׁא | mankind
+@ 5:3.1
+לְכָל | to all of
+סוֹבְתֵיהּ | his impurity
+@ 5:3.2
+דִּי | that, which
+יִסְתָּאַב | he becomes impure
+בַּהּ | in it
+@ 5:3.3
+וִיהֵי | and will be
+מְכַסָּא | from the cup
+מִנֵּיהּ | of him
+@ 5:3.4
+וְהוּא | and it
+יָדַע | he knows
+וְחָב | and he is guilty
+@ 5:4.0
+אוֹ | or
+אֱנַשׁ | each person (lit. a man)
+אֲרֵי | that
+יְקַיֵּם | he swears (lit. confirms)
+לְפָרָשָׁא | to declare (lit. pronounce clearly)
+בְסִפְוָן | with his lips
+לְאַבְאָשָׁא | to do harm
+אוֹ | or
+לְאוֹטָבָא | to do good
+לְכֹל | to all, every
+דִּי | that, which
+יְפָרֵשׁ | pronounces
+אֱנָשָׁא | mankind
+בְּקִיּוּם | with an oath
+וִיהֵי | and will be
+מְכַסָּא | from the cup
+מִנֵּיהּ | of him
+@ 5:4.1
+וְהוּא | and it
+יָדַע | he knows
+וְחָב | and he is guilty
+לַחֲדָא | very
+מֵאִלֵּין | from these
+@ 5:5.0
+וִיהֵי | and will be
+אֲרֵי | that
+יֵחוֹב | sins
+לַחֲדָא | very
+מֵאִלֵּין | from these
+@ 5:5.1
+וִיוַדִּי | and he shall confess
+דִּי | that, which
+חָב | he sinned
+עֲלַהּ | over it
+@ 5:6.0
+וְיַיְתִי | and let him bring
+יָת | (sign of the object)
+אַשְׁמֵיהּ | his guilt offering
+קֳדָם | before
+יְיָ | Hashem
+עַל | on, over
+חוֹבְתֵיהּ | his sin
+דִּי | that, which
+חָב | he sinned
+נְקוּבְתָא | a female
+מִן | from
+עָנָא | sheep, flock
+אִמְּרָתָא | a ewe lamb
+אוֹ | or
+צְפִירַת | a she-goat of
+עִזִּין | goats
+לְחַטָאתָא | to a sin offering
+@ 5:6.1
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַּהֲנָא | the priest
+מֵחוֹבְתֵיהּ | from his sin
+@ 5:7.0
+וְאִם | and if
+לָא | not
+תִמְטֵי | can reach
+יְדֵיהּ | his hand
+כְּמִסַּת | enough for (lit. as the sufficiency of)
+שֵׂיתָא | a lamb
+@ 5:7.1
+וְיַיְתִי | and let him bring
+יָת | (sign of the object)
+חוֹבְתֵיהּ | his sin
+דִּי | that, which
+חָב | he sinned
+תַּרְתֵּין | two
+שַׁפְנִינִין | young doves
+אוֹ | or
+תְרֵין | two
+בְּנֵי | the children of
+יוֹנָה | the dove
+קֳדָם | before
+יְיָ | Hashem
+@ 5:7.2
+חַד | one
+לְחַטָּאתָא | to a sin offering
+וְחַד | and one
+לַעֲלָתָא | as a burnt offering
+@ 5:8.0
+וְיַיְתִי | and let him bring
+יָתְהוֹן | them
+לְוָת | to
+כַּהֲנָא | the priest
+@ 5:8.1
+וִיקָרֵב | and he shall offer
+יָת | (sign of the object)
+דִּי | that, which
+לְחַטָּאתָא | to a sin offering
+קַדְמֵיתָא | the first
+@ 5:8.2
+וְיִמְלוֹק | and he shall pinch off
+יָת | (sign of the object)
+רֵישֵׁיהּ | his head
+מִלָּקֳבֵל | opposite
+קְדָלֵיהּ | its neck
+וְלָא | and not
+יַפְרֵשׁ | he shall separate
+@ 5:9.0
+וְיַדִּי | and he shall sprinkle
+מִדְּמָא | from the blood
+דְחַטָּאתָא | of the sin offering
+עַל | on, over
+כֹּתֶל | the wall of
+מַדְבְּחָא | an altar
+@ 5:9.1
+וּדְאִשְׁתָּאַר | and that is left
+בִּדְמָא | in the blood
+@ 5:9.2
+יִתִּמְצֵי | shall be drained out
+לִיסוֹדָא | at the base
+דְמַדְבְּחָא | of the altar
+@ 5:9.3
+חַטָּאתָא | a sin offering
+הוּא | it
+@ 5:10.0
+וְיָת | and (sign of the object)
+תִּנְיָנָא | the second
+יַעְבֵּד | will do
+עֲלָתָא | a burnt offering
+כִּדְחָזֵי | as is fitting (lit. as one sees)
+@ 5:10.1
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַּהֲנָא | the priest
+מֵחוֹבְתֵיהּ | from his sin
+דִּי | that, which
+חָב | he sinned
+וְיִשְׁתְּבֵק | and it will be forgiven
+לֵיהּ | to him
+@ 5:11.0
+וְאִם | and if
+לָא | not
+תַדְבֵּק | reaches
+יְדֵיהּ | his hand
+לְתַּרְתֵּין | to two
+שַׁפְנִינִין | young doves
+אוֹ | or
+לִתְרֵין | to two
+בְּנֵי | the children of
+יוֹנָה | the dove
+@ 5:11.1
+וְיַיְתִי | and let him bring
+יָת | (sign of the object)
+קֻרְבָּנֵיהּ | his offering
+דִּי | that, which
+חָב | he sinned
+חַד | one
+מִן | from
+עַסְרָא | a tenth
+בִתְלַת | in three
+סְאִין | se'ahs
+סֻלְתָּא | fine flour
+לְחַטָּאתָא | to a sin offering
+@ 5:11.2
+לָא | not
+יְשַׁוִּי | imposes (lit. puts)
+עֲלַהּ | over it
+מִשְׁחָא | oil
+וְלָא | and not
+יִתֵּן | will give, will put
+עֲלַהּ | over it
+לְבֻנְתָּא | frankincense
+@ 5:11.3
+אֲרֵי | that
+חַטָּאתָא | a sin offering
+הִיא | she
+@ 5:12.0
+וְיַיְתִנַּהּ | and he shall bring it
+לְוָת | to
+כַּהֲנָא | the priest
+@ 5:12.1
+וְיִקְמוֹץ | and he shall take a handful
+כַּהֲנָא | the priest
+מִנַּהּ | from her
+מְלֵי | the full of
+קֻמְצֵיהּ | his handful
+יָת | (sign of the object)
+אִדְכַּרְתַּהּ | its memorial portion
+וְיַסֵּק | and shall burn (lit. bring up)
+לְמַדְבְּחָא | to an altar
+@ 5:12.2
+עַל | on, over
+קֻרְבָּנַיָּא | the offerings
+דַיְיָ | of Hashem
+@ 5:12.3
+חַטָּאתָא | a sin offering
+הִיא | she
+@ 5:13.0
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַּהֲנָא | the priest
+עַל | on, over
+חוֹבְתֵיהּ | his sin
+דִּי | that, which
+חָב | he sinned
+מֵחֲדָא | one of
+מֵאִלֵּין | from these
+וְיִשְׁתְּבֵק | and it will be forgiven
+לֵיהּ | to him
+@ 5:13.1
+וּתְהֵי | and shall be
+לְכַהֲנָא | to the priest
+כְּמִנְחָתָא | like the meal offering
+@ 5:14.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 5:15.0
+אֱנַשׁ | each person (lit. a man)
+אֲרֵי | that
+יְשַׁקַּר | acts falsely
+שְׁקַר | falsehood
+@ 5:15.1
+וְיֵחוֹב | and sins
+בְּשָׁלוּ | in an oversight
+@ 5:15.2
+מִקוּדְשַׁיָּא | of the holy things
+דַיְיָ | of Hashem
+@ 5:15.3
+וְיַיְתִי | and let him bring
+יָת | (sign of the object)
+אַשְׁמֵיהּ | his guilt offering
+קֳדָם | before
+יְיָ | Hashem
+דְכַר | male
+שְׁלִים | unblemished, perfect (lit. complete)
+מִן | from
+עָנָא | sheep, flock
+בְּפֻרְסָנֵיהּ | according to its valuation
+כְּסַף | the money of
+סִלְעִין | shekels
+בְּסִלְעֵי | by the sela of
+קוּדְשָׁא | holiness
+לַאֲשָׁמָא | as a guilt offering
+@ 5:16.0
+וְיָת | and (sign of the object)
+דִּי | that, which
+חָב | he sinned
+מִן | from
+קוּדְשָׁא | holiness
+יְשַׁלֵּם | he shall pay
+וְיָת | and (sign of the object)
+חֻמְשֵׁיהּ | its fifth
+יוֹסֵף | Yosef
+עֲלוֹהִי | for him (lit. upon him)
+@ 5:16.1
+וְיִתֵּן | and he shall give
+יָתֵיהּ | him
+לְכַהֲנָא | to the priest
+@ 5:16.2
+וְכַהֲנָא | and the priest
+יְכַפֵּר | he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+בְּדִכְרָא | with the ram
+דַאֲשָׁמָא | of the guilt offering
+וְיִשְׁתְּבֵק | and it will be forgiven
+לֵיהּ | to him
+@ 5:17.0
+וְאִם | and if
+אֱנַשׁ | each person (lit. a man)
+אֲרֵי | that
+יֵחוֹב | sins
+@ 5:17.1
+וְיַעְבֵּד | and he shall do
+חֲדָא | one
+מִכָּל | from all
+פִּקּוֹדַיָּא | the commandments
+דַיְיָ | of Hashem
+@ 5:17.2
+דִּי | that, which
+לָא | not
+כָשְׁרִין | fit
+לְאִתְעֲבָדָא | to be done
+@ 5:17.3
+וְלָא | and not
+יָדַע | he knows
+וְיֵחוֹב | and sins
+וִיקַבֵּל | and will listen to (lit. accept)
+חוֹבֵיהּ | his sin
+@ 5:18.0
+וְיַיְתִי | and let him bring
+דְּכַר | male
+שְׁלִים | unblemished, perfect (lit. complete)
+מִן | from
+עָנָא | sheep, flock
+בְּפֻרְסָנֵיהּ | according to its valuation
+לַאֲשָׁמָא | as a guilt offering
+לְוָת | to
+כַּהֲנָא | the priest
+@ 5:18.1
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַהֲנָא | the priest
+עַל | on, over
+שָׁלוּתֵיהּ | his error
+דְּאִשְׁתְּלִי | that he erred
+וְהוּא | and it
+לָא | not
+יָדַע | he knows
+וְיִשְׁתְּבֵק | and it will be forgiven
+לֵיהּ | to him
+@ 5:19.0
+אֲשָׁמָא | a guilt offering
+הוּא | it
+עַל | on, over
+חוֹבְתֵיהּ | his sin
+@ 5:19.1
+דְּהוּא | that it
+חָב | he sinned
+אֲשָׁמָא | a guilt offering
+יְקָרֵב | he shall offer
+קֳדָם | before
+יְיָ | Hashem
+@ 5:20.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 5:21.0
+אֱנַשׁ | each person (lit. a man)
+אֲרֵי | that
+יֵחוֹב | sins
+@ 5:21.1
+וִישַׁקַּר | and acts falsely
+שְׁקַר | falsehood
+קֳדָם | before
+יְיָ | Hashem
+@ 5:21.2
+וִיכַדֵב | and he denies
+בְּחַבְרֵיהּ | against his fellow
+בּפִקְּדוֹנָא | in a deposit
+אוֹ | or
+בְשֻׁתָּפוּת | in a partnership (lit. a joint holding)
+יְדָא | a hand
+אוֹ | or
+בִגְזֵלָא | in robbery
+@ 5:21.3
+אוֹ | or
+אַנִּיס | he defrauded (lit. seized by force)
+יָת | (sign of the object)
+חַבְרֵיהּ | his fellow
+@ 5:22.0
+אוֹ | or
+אַשְׁכַּח | he found
+אֲבֵדְתָּא | a lost thing
+וִיכַדֵּב | and he denies
+בַּהּ | in it
+וְאִשְׁתְּבַע | and he swore
+עַל | on, over
+שִׁקְרָא | falsely
+@ 5:22.1
+עַל | on, over
+חֲדָא | one
+מִכֹּל | from all, every
+דִּי | that, which
+יַעְבֵּד | will do
+אֱנָשָׁא | mankind
+לְמֵיחַב | so as to sin
+בְּהֵן | in them
+@ 5:23.0
+וִיהֵי | and will be
+אֲרֵי | that
+יֶחֱטֵי | he sins
+וְיֵחוֹב | and sins
+@ 5:23.1
+וְיָתֵב | then he shall return it
+יָת | (sign of the object)
+גְּזֵלָא | the stolen thing
+דִּי | that, which
+גְזַל | he robbed
+אוֹ | or
+יָת | (sign of the object)
+עֻשְׁקָא | the withheld
+דִּי | that, which
+עֲשַׁק | he withheld
+@ 5:23.2
+אוֹ | or
+יָת | (sign of the object)
+פִּקְּדוֹנָא | the deposit
+@ 5:23.3
+דִּי | that, which
+אִתְפָּקַּד | was entrusted
+לְוָתֵיהּ | to him
+@ 5:23.4
+אוֹ | or
+יָת | (sign of the object)
+אֲבֵדְתָּא | a lost thing
+דִּי | that, which
+אַשְׁכַּח | he found
+@ 5:24.0
+אוֹ | or
+מִכֹּל | from all, every
+דִּי | that, which
+יִשְׁתְּבַע | he swore
+עֲלוֹהִי | for him (lit. upon him)
+לְשִׁקְרָא | falsely
+@ 5:24.1
+וִישַׁלֵּם | and he shall pay
+יָתֵיהּ | him
+בְּרֵישֵׁיהּ | its principal (lit. its head)
+@ 5:24.2
+וְחֻמְשֵׁיהּ | and its fifth
+יוֹסֵף | Yosef
+עֲלוֹהִי | for him (lit. upon him)
+@ 5:24.3
+לְדִי | to that, which
+הוּא | it
+דִילֵיהּ | that was his
+יִתְּנִנֵּיהּ | he shall give it
+בְּיוֹמָא | on the day
+דְחוֹבְתֵיהּ | of his sin
+@ 5:25.0
+וְיָת | and (sign of the object)
+אַשְׁמַהּ | his guilt offering
+יַיְתִי | let him bring
+לָקֳדָם | to before
+יְיָ | Hashem
+@ 5:25.1
+דְּכַר | male
+שְׁלִים | unblemished, perfect (lit. complete)
+מִן | from
+עָנָא | sheep, flock
+בְּפֻרְסָנֵיהּ | according to its valuation
+לַאֲשָׁמָא | as a guilt offering
+לְוָת | to
+כַּהֲנָא | the priest
+@ 5:26.0
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַהֲנָא | the priest
+קֳדָם | before
+יְיָ | Hashem
+וְיִשְׁתְּבֵק | and it will be forgiven
+לֵיהּ | to him
+@ 5:26.1
+עַל | on, over
+חֲדָא | one
+מִכֹּל | from all, every
+דִּי | that, which
+יַעְבֵּד | will do
+לְמֵיחַב | so as to sin
+בַּהּ | in it

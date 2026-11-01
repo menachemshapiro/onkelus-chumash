@@ -12,7 +12,7 @@ Writes into the repository checkout given as argv[1]:
 import hashlib, json, os, shutil, sys, glob
 from PIL import Image, ImageDraw, ImageFont
 
-SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
+SP = '/home/claude/work/'
 UP = '/root/.claude/uploads/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/'
 OUT = sys.argv[1]
 os.makedirs(OUT + '/p', exist_ok=True)

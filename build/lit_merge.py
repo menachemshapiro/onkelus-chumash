@@ -3,7 +3,8 @@
 File format:  "@ c:v.clause"  then one line per Aramaic word, or per group of words read together:
     Aramaic | exact English
 The groups must cover the clause's Aramaic words in order (the same words as the word-by-word match, v['ea']).
-Writes v['el'][clause] = [[Aramaic, exact English, English used in the translation], ...] into p/<parsha>.json.
+Writes v['el'][clause] = [[number of Aramaic words, exact English, English used in the translation (absent if none)], ...]
+into p/<parsha>.json (the page takes the Aramaic words from the clause itself).
 The page shows the exact English, with the English used in parentheses when it is different. A clause with no
 word-by-word match (no Onkelos change to the English) is split into the Targum's own words, and has no "English used" (null).
 "Hashem" in the exact English stands for the Divine Name: it is shown the way the translation writes it (Adonoy, my Master ...).
@@ -27,7 +28,9 @@ def merge(verbose=True):
     n = 0
     for pf in sorted(glob.glob(SP + 'p/*.json')):
         pid = os.path.basename(pf)[:-5]; src = HERE + f'/lit/{pid}.txt'
-        d = json.load(open(pf, encoding='utf8')); L = read(src) if os.path.exists(src) else {}
+        d = json.load(open(pf, encoding='utf8'))
+        L = read(HERE + f'/lit/{pid}.auto.txt') if os.path.exists(HERE + f'/lit/{pid}.auto.txt') else {}   # draft from the glossary
+        if os.path.exists(src): L.update(read(src))                                                     # hand-written wins
         changed = False
         for v in d['V']:
             el = None
@@ -50,15 +53,17 @@ def merge(verbose=True):
                         raise SystemExit(f'{pid} {key}: "{ar}" does not match the next words "{" ".join(words[i:i + len(ws)])}"')
                     if owner is None: used = None
                     else:
-                        used = []
+                        used, part = [], False
                         for k in dict.fromkeys(owner[i:i + len(ws)]):
                             e = a['map'][k][1]
+                            first = owner.index(k)
+                            if first < i: part = True; continue          # this row's English was given with the words before
                             if e and e not in used: used.append(e)
-                        used = ' '.join(used)
+                        used = None if part and not used else ' '.join(used)
                     if 'Hashem' in ex:   # the Divine Name as the translation writes it
                         nm = (re.search(NAME, used or '') or [None])[0] or name
                         ex = ex.replace('Hashem', nm[0].lower() + nm[1:] if nm.startswith('My ') and not ex.startswith('Hashem') else nm)
-                    rows.append([ar, ex, used]); i += len(ws)
+                    rows.append([len(ws), ex] + ([] if used is None else [used])); i += len(ws)   # word count, exact English, English used
                 if i != len(words): raise SystemExit(f'{pid} {key}: words left over: {" ".join(words[i:])}')
                 el = el or [None] * len(v['t']); el[j] = rows; n += 1
             if el != v.get('el'):

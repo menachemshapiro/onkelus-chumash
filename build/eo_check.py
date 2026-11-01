@@ -7,7 +7,7 @@ For every clause it checks that
 import json, re, sys, unicodedata as u
 from collections import Counter
 N = lambda s: u.normalize('NFC', s)
-SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
+SP = '/home/claude/work/'
 path, pid = sys.argv[1], sys.argv[2]
 P = {f"{v['c']}:{v['v']}": v for v in json.load(open(SP + f'p/{pid}.json', encoding='utf8'))['V']}
 def aram_tokens(t):

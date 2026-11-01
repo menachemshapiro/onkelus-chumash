@@ -1,7 +1,7 @@
 """make_fetch_all.py : write jastrow/fetch_jastrow_all.py, which downloads Sefaria's current text for every
 Jastrow entry in the 2018 copy (32,512) that we have not downloaded yet, to complete our copy of the dictionary."""
 import json, re, os
-SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
+SP = '/home/claude/work/'
 F = json.load(open(SP + 'jastrow/jastrow-2018.json', encoding='utf8'))
 API = {}
 for f in ['jastrow-extra.json', 'jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json', 'jastrow-pages.json', 'jastrow-all.json']:

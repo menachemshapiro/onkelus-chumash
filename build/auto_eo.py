@@ -7,7 +7,7 @@ For each clause whose English has bold [<b>…</b>] Onkelos renderings:
   * the candidate that leaves the fewest Aramaic words and English words unmatched wins (fewer words replaced on a tie)."""
 import json, re, sys, itertools, runpy, unicodedata as u
 N = lambda s: u.normalize('NFC', s)
-SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
+SP = '/home/claude/work/'
 sys.argv, ARGS = ['gloss_build.py', 'todo', 'none'], sys.argv[1:]
 G = runpy.run_path('gloss_build.py', run_name='bt')
 pid = ARGS[0]; rng = ARGS[1] if len(ARGS) > 1 else None

@@ -1,5 +1,5 @@
 import json,random,glob,re,sys
-SP='/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
+SP='/home/claude/work/'
 M=json.load(open(SP+'build/jas-map.json')); E=json.load(open(SP+'jastrow/jastrow-lookups.json'))['entries']
 lex={}
 for f in glob.glob(SP+'g/*.json'):

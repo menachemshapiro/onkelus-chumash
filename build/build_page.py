@@ -1,5 +1,5 @@
 import json, re, subprocess, sys
-SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
+SP = '/home/claude/work/'
 src = open(SP + 'bereishit-onkelos.html').read()
 
 # hand-aligned v9 data for 1:1-1:10

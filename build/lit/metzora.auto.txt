@@ -1,0 +1,1538 @@
+# Draft made by lit_auto.py from the glossary. Do not edit: put corrections in metzora.txt (it wins clause by clause).
+@ 14:1.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 14:2.0
+דָּא | this
+תְהֵי | shall be
+אוֹרַיְתָא | the Torah
+דִסְגִירָא | of the one afflicted with tzara'at
+@ 14:2.1
+בִּיוֹמָא | in day
+דְדָכוּתֵיהּ | of his purification
+@ 14:2.2
+וְיִתֵּתֵי | then he shall be brought
+לְוָת | to
+כַּהֲנָא | the priest
+@ 14:3.0
+וְיִפּוֹק | and it shall go out
+כַּהֲנָא | the priest
+@ 14:3.1
+לְמִבָּרָא | outside (lit. to outside)
+לְמַשְׁרִיתָא | at the camp
+@ 14:3.2
+וְיֶחֱזֵי | and he shall see
+כַהֲנָא | the priest
+@ 14:3.3
+וְהָא | and behold
+אִתַּסִּי | it has healed
+מַכְתַּשׁ | plague, blow
+סְגִירוּתָא | the tzara'at
+מִן | from
+סְגִירָא | the one afflicted with tzara'at
+@ 14:4.0
+וִיפַקֵּד | and he will command
+כַּהֲנָא | the priest
+@ 14:4.1
+וְיִסַּב | and he will take
+לְמִדַּכֵּי | for the one being purified
+תַּרְתֵּין | two
+צִפְּרִין | birds
+חַיִּין | alive
+דָּכְיָן | pure
+@ 14:4.2
+וְאָעָא | and wood
+דְאַרְזָא | of cedar
+@ 14:4.3
+וּצְבַע | and dyed (lit. the dye of)
+זְהוֹרִי | scarlet
+וְאֵזוֹבָא | and hyssop
+@ 14:5.0
+וִיפַקֵּד | and he will command
+כַּהֲנָא | the priest
+@ 14:5.1
+וְיִכּוֹס | and he shall slaughter
+יָת | (sign of the object)
+צִפְּרָא | the bird
+חֲדָא | one
+@ 14:5.2
+לְמַאן | to an article of
+דַּחֲסַף | of earthenware
+עַל | on, over
+מֵי | the waters of
+מַבּוּעַ | spring
+@ 14:6.0
+יָת | (sign of the object)
+צִפְּרָא | the bird
+חַיְתָא | living
+יִסַּב | he shall take
+יָתַהּ | it
+@ 14:6.1
+וְיָת | and (sign of the object)
+אָעָא | wood
+דְאַרְזָא | of cedar
+וְיָת | and (sign of the object)
+צְבַע | dyed (lit. the dye of)
+זְהוֹרִי | scarlet
+וְיָת | and (sign of the object)
+אֵזוֹבָא | hyssop
+@ 14:6.2
+וְיִטְבּוֹל | and he shall dip
+יָתְהוֹן | them
+וְיָת | and (sign of the object)
+צִפְּרָא | the bird
+חַיְתָא | living
+בִּדְמָא | in the blood
+דְּצִפְּרָא | of the bird
+דִּנְכִיסָא | that was slaughtered
+@ 14:6.3
+עַל | on, over
+מֵי | the waters of
+מַבּוּעַ | spring
+@ 14:7.0
+וְיַדִּי | and he shall sprinkle
+עַל | on, over
+דְּמִדַּכֵּי | who is being purified
+מִן | from
+סְגִירוּתָא | the tzara'at
+שְׁבַע | seven
+זִמְנִין | times
+@ 14:7.1
+וִידַכִּנֵּיהּ | and he shall declare him pure
+וִישַׁלַּח | and he shall send off
+יָת | (sign of the object)
+צִפְּרָא | the bird
+חַיְתָא | living
+עַל אַפֵּי | over the face of
+חַקְלָא | the field
+@ 14:8.0
+וִיצַבַּע | and he shall wash
+דְּמִדַּכֵּי | who is being purified
+יָת | (sign of the object)
+לְבוּשׁוֹהִי | his clothes
+וִיגַלַּח | and he shall shave
+יָת | (sign of the object)
+כָּל | every, all
+שַׂעֲרֵיהּ | his hair
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וְיִדְכֵּי | and it becomes pure
+@ 14:8.1
+וּבָתַר כֵּן | and afterwards
+יֵעוֹל | he comes in
+לְמַשְׁרִיתָא | at the camp
+@ 14:8.2
+וִיתֵב | and he dwelt
+מִבָּרָא | from the field (lit. the outside)
+לְמַשְׁכְּנֵיהּ | to his tent
+שַׁבְעָא | seven
+יוֹמִין | days
+@ 14:9.0
+וִיהֵי | and will be
+בְיוֹמָא | on the day
+שְׁבִיעָאָה | the seventh
+יְגַלַּח | he shall shave
+יָת | (sign of the object)
+כָּל | every, all
+שַׂעֲרֵיהּ | his hair
+יָת | (sign of the object)
+רֵישֵׁיהּ | his head
+וְיָת | and (sign of the object)
+דִּקְנֵיהּ | his beard
+וְיָת | and (sign of the object)
+גְּבִינֵי | the eyebrows of
+עֵינוֹהִי | his eyes
+@ 14:9.1
+וְיָת | and (sign of the object)
+כָּל | every, all
+שַׂעֲרֵיהּ | his hair
+יְגַלָּח | he shall shave
+@ 14:9.2
+וִיצַבַּע | and he shall wash
+יָת | (sign of the object)
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+יָת | (sign of the object)
+בִּסְרֵיהּ | its meat
+בְּמַיָּא | in the water
+וְיִדְכֵּי | and it becomes pure
+@ 14:10.0
+וּבְיוֹמָא | and in day
+תְמִינָאָה | the eighth
+יִסַּב | he shall take
+תְּרֵין | two
+אִמְּרִין | lambs
+שַׁלְמִין | unblemished (lit. complete)
+@ 14:10.1
+וְאִמַּרְתָּא | and a ewe lamb
+חֲדָא | one
+בַּת | the daughter of
+שַׁתָּא | the year
+שְׁלֶמְתָּא | unblemished
+@ 14:10.2
+וּתְלָתָא | and three
+עֶסְרוֹנִין | tenths
+סֻלְתָּא | fine flour
+מִנְחָתָא | the meal offering
+דְּפִילָא | mixed
+בִמְשַׁח | with oil of
+@ 14:10.3
+וְלֻגָּא | and a log of
+חַד | one
+דְּמִשְׁחָא | of oil
+@ 14:11.0
+וִיקִים | and he shall place (lit. set up)
+כַּהֲנָא | the priest
+דִמְדַּכֵּי | who is being purified
+יָת | (sign of the object)
+גַּבְרָא | a man
+דְּמִדַּכֵּי | who is being purified
+וְיָתְהוֹן | and them
+@ 14:11.1
+קֳדָם | before
+יְיָ | Hashem
+@ 14:11.2
+בִּתְרַע | at the entrance of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 14:12.0
+וְיִסַּב | and he will take
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+אִמְּרָא | the lamb
+חֲדָא | one
+וִיקָרֵב | and he shall offer
+יָתֵיהּ | him
+לַאֲשָׁמָא | as a guilt offering
+וְיָת | and (sign of the object)
+לֻגָּא | the log
+דְמִשְׁחָא | of oil
+@ 14:12.1
+וִירִים | and he shall lift them up
+יָתְהוֹן | them
+אֲרָמָא | an uplifted
+קֳדָם | before
+יְיָ | Hashem
+@ 14:13.0
+וְיִכּוֹס | and he shall slaughter
+יָת | (sign of the object)
+אִמְּרָא | the lamb
+בַּאֲתַר | in the place of
+דִּי | that, which
+יִכּוֹס | he shall slaughter
+יָת | (sign of the object)
+חַטָּאתָא | a sin offering
+וְיָת | and (sign of the object)
+עֲלָתָא | a burnt offering
+בַּאֲתַר | in the place of
+קַדִּישׁ | holy
+@ 14:13.1
+אֲרֵי | that
+כְּחַטָּאתָא | like a sin offering
+אֲשָׁמָא | a guilt offering
+הוּא | it
+לְכַהֲנָא | to the priest
+@ 14:13.2
+קֹדֶשׁ | the holy
+קוּדְשִׁין | holy things
+הוּא | it
+@ 14:14.0
+וְיִסַּב | and he will take
+כַּהֲנָא | the priest
+מִדְּמָא | from the blood
+דַאֲשָׁמָא | of the guilt offering
+@ 14:14.1
+וְיִתֵּן | and he shall put
+כַּהֲנָא | the priest
+@ 14:14.2
+עַל | on, over
+רוּם | the tip of (lit. height)
+אוּדְנָא | the ear of
+דְמִדַּכֵּי | who is being purified
+דְּיַמִּינָא | of the right
+@ 14:14.3
+וְעַל | and on
+אִלְיוֹן | the thumb of
+יְדֵיהּ | his hand
+דְּיַמִּינָא | of the right
+@ 14:14.4
+וְעַל | and on
+אִלְיוֹן | the thumb of
+רַגְלֵיהּ | his foot
+דְּיַמִּינָא | of the right
+@ 14:15.0
+וְיִסַּב | and he will take
+כַּהֲנָא | the priest
+מִלֻּגָּא | from the log
+דְמִשְׁחָא | of oil
+@ 14:15.1
+וִירִיק | and he shall pour
+עַל | on, over
+יְדָא | a hand
+דְכַהֲנָא | of the priest
+דִּשְׂמָאלָא | of the left
+@ 14:16.0
+וְיִטְבּוֹל | and he shall dip
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+אֶצְבְּעֵיהּ | his finger
+דְיַמִּינָא | of the right
+@ 14:16.1
+מִן | from
+מִשְׁחָא | oil
+דִּי | that, which
+עַל | on, over
+יְדֵיהּ | his hand
+דִּשְׂמָאלָא | of the left
+@ 14:16.2
+וְיַדִּי | and he shall sprinkle
+מִן | from
+מִשְׁחָא | oil
+בְּאֶצְבְּעֵיהּ | with his finger
+שְׁבַע | seven
+זִמְנִין | times
+קֳדָם | before
+יְיָ | Hashem
+@ 14:17.0
+וּמִשְּׁאָר | and from the remnant of
+מִשְׁחָא | oil
+דִּי | that, which
+עַל | on, over
+יְדֵיהּ | his hand
+יִתֵּן | will give, will put
+כַּהֲנָא | the priest
+עַל | on, over
+רוּם | the tip of (lit. height)
+אוּדְנָא | the ear of
+דְּמִדַּכֵּי | who is being purified
+דְּיַמִּינָא | of the right
+@ 14:17.1
+וְעַל | and on
+אִלְיוֹן | the thumb of
+יְדֵיהּ | his hand
+דְּיַמִּינָא | of the right
+@ 14:17.2
+וְעַל | and on
+אִלְיוֹן | the thumb of
+רַגְלֵיהּ | his foot
+דְּיַמִּינָא | of the right
+@ 14:17.3
+עַל | on, over
+דְּמָא | the blood
+דַאֲשָׁמָא | of the guilt offering
+@ 14:18.0
+וּדְאִשְׁתָּאַר | and that is left
+בְּמִשְׁחָא | in oil
+דִּי | that, which
+עַל | on, over
+יְדָא | a hand
+דְכַהֲנָא | of the priest
+@ 14:18.1
+יִתֵּן | will give, will put
+עַל | on, over
+רֵישָׁא | the head of
+דְּמִדַּכֵּי | who is being purified
+@ 14:18.2
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַּהֲנָא | the priest
+קֳדָם | before
+יְיָ | Hashem
+@ 14:19.0
+וְיַעְבֵּד | and shall offer (lit. make)
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+חַטָּאתָא | a sin offering
+@ 14:19.1
+וִיכַפֵּר | and he shall atone
+עַל | on, over
+דְּמִדַּכֵּי | who is being purified
+מְסּוֹבְתֵיהּ | from his impurity
+@ 14:19.2
+וּבָתַר כֵּן | and afterwards
+יִכּוֹס | he shall slaughter
+יָת | (sign of the object)
+עֲלָתָא | a burnt offering
+@ 14:20.0
+וְיַסֵּק | and shall burn (lit. bring up)
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+עֲלָתָא | a burnt offering
+וְיָת | and (sign of the object)
+מִנְחָתָא | the meal offering
+לְמַדְבְּחָא | to an altar
+@ 14:20.1
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַּהֲנָא | the priest
+וְיִדְכֵּי | and it becomes pure
+@ 14:21.0
+וְאִם | and if
+מִסְכֵּן | poor
+הוּא | it
+וְלֵית | and do not
+יְדֵיהּ | his hand
+מַדְבְּקָא | reach (lit. reaching)
+@ 14:21.1
+וְיִסַּב | and he will take
+אִמַּר | a lamb
+חַד | one
+אֲשָׁמָא | a guilt offering
+לַאֲרָמָא | to raise it
+לְכַפָּרָא | to atone
+עֲלוֹהִי | for him (lit. upon him)
+@ 14:21.2
+וְעִסְרוֹנָא | and a tenth of
+סֻלְתָּא | fine flour
+חַד | one
+דְּפִיל | mixed
+בִּמְשַׁח | with oil of
+לְמִנְחָא | for a meal offering
+וְלֻגָּא | and a log of
+דְמִשְׁחָא | of oil
+@ 14:22.0
+וְתַרְתֵּין | and two
+שַׁפְנִינִין | young doves
+אוֹ | or
+תְרֵין | two
+בְּנֵי | the children of
+יוֹנָה | the dove
+@ 14:22.1
+דִּי | that, which
+תַדְבֵּק | reaches
+יְדֵיהּ | his hand
+@ 14:22.2
+וִיהֵי | and will be
+חַד | one
+חַטָּאתָא | a sin offering
+@ 14:22.3
+וְחַד | and one
+עֲלָתָא | a burnt offering
+@ 14:23.0
+וְיַיְתִי | and let him bring
+יָתְהוֹן | them
+בְּיוֹמָא | on the day
+תְמִינָאָה | the eighth
+לְדַכָּיוּתֵיהּ | to declare it pure
+לְוָת | to
+כַּהֲנָא | the priest
+@ 14:23.1
+לִתְרַע | to the gate of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+קֳדָם | before
+יְיָ | Hashem
+@ 14:24.0
+וְיִסַּב | and he will take
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+אִמְּרָא | the lamb
+דַאֲשָׁמָא | of the guilt offering
+וְיָת | and (sign of the object)
+לֻגָּא | the log
+דְמִשְׁחָא | of oil
+@ 14:24.1
+וִירִים | and he shall lift
+יָתְהוֹן | them
+כַּהֲנָא | the priest
+אֲרָמָא | an uplifted
+קֳדָם | before
+יְיָ | Hashem
+@ 14:25.0
+וְיִכּוֹס | and he shall slaughter
+יָת | (sign of the object)
+אִמְּרָא | the lamb
+דַאֲשָׁמָא | of the guilt offering
+@ 14:25.1
+וְיִסַּב | and he will take
+כַּהֲנָא | the priest
+מִדְּמָא | from the blood
+דַאֲשָׁמָא | of the guilt offering
+@ 14:25.2
+וְיִתֵּן | and he shall give
+עַל | on, over
+רוּם | the tip of (lit. height)
+אוּדְנָא | the ear of
+דְמִדַּכֵּי | who is being purified
+דְּיַמִּינָא | of the right
+@ 14:25.3
+וְעַל | and on
+אִלְיוֹן | the thumb of
+יְדֵיהּ | his hand
+דְּיַמִּינָא | of the right
+@ 14:25.4
+וְעַל | and on
+אִלְיוֹן | the thumb of
+רַגְלֵיהּ | his foot
+דְּיַמִּינָא | of the right
+@ 14:26.0
+וּמִן | and from
+מִשְׁחָא | oil
+יְרִיק | he shall pour
+כַּהֲנָא | the priest
+@ 14:26.1
+עַל | on, over
+יְדָא | a hand
+דְכַהֲנָא | of the priest
+דִּשְׂמָאלָא | of the left
+@ 14:27.0
+וְיַדִּי | and he shall sprinkle
+כַהֲנָא | the priest
+בְּאֶצְבְּעֵיהּ | with his finger
+דְּיַמִּינָא | of the right
+@ 14:27.1
+מִן | from
+מִשְׁחָא | oil
+דִּי | that, which
+עַל | on, over
+יְדֵיהּ | his hand
+דִּשְׂמָאלָא | of the left
+@ 14:27.2
+שְׁבַע | seven
+זִמְנִין | times
+קֳדָם | before
+יְיָ | Hashem
+@ 14:28.0
+וְיִתֵּן | and he shall give
+כַּהֲנָא | the priest
+מִן | from
+מִשְׁחָא | oil
+דִּי | that, which
+עַל | on, over
+יְדֵיהּ | his hand
+עַל | on, over
+רוּם | the tip of (lit. height)
+אוּדְנָא | the ear of
+דְמִדַּכֵּי | who is being purified
+דְּיַמִּינָא | of the right
+@ 14:28.1
+וְעַל | and on
+אִלְיוֹן | the thumb of
+יְדֵיהּ | his hand
+דְּיַמִּינָא | of the right
+@ 14:28.2
+וְעַל | and on
+אִלְיוֹן | the thumb of
+רַגְלֵיהּ | his foot
+דְיַמִּינָא | of the right
+@ 14:28.3
+עַל | on, over
+אֲתַר | the place of
+דְּמָא | the blood
+דַאֲשָׁמָא | of the guilt offering
+@ 14:29.0
+וּדְיִשְׁתָּאַר | and what is left over
+מִן | from
+מִשְׁחָא | oil
+דִּי | that, which
+עַל | on, over
+יְדָא | a hand
+דְכַהֲנָא | of the priest
+@ 14:29.1
+יִתֵּן | will give, will put
+עַל | on, over
+רֵישָׁא | the head of
+דְמִדַּכֵּי | who is being purified
+@ 14:29.2
+לְכַפָּרָא | to atone
+עֲלוֹהִי | for him (lit. upon him)
+קֳדָם | before
+יְיָ | Hashem
+@ 14:30.0
+וְיַעְבֵּד | and he shall do
+יָת | (sign of the object)
+חַד | one
+מִן | from
+שַׁפְנִינַיָּא | the young doves
+@ 14:30.1
+אוֹ | or
+מִן | from
+בְּנֵי | the children of
+יוֹנָה | the dove
+@ 14:30.2
+מִדִּי | from that, which
+תַדְבֵּק | reaches
+יְדֵיהּ | his hand
+@ 14:31.0
+יָת | (sign of the object)
+דִּי | that, which
+תַדְבֵּק | reaches
+יְדֵיהּ | his hand
+יָת | (sign of the object)
+חַד | one
+חַטָּאתָא | a sin offering
+וְיָת | and (sign of the object)
+חַד | one
+עֲלָתָא | a burnt offering
+עַל | on, over
+מִנְחָתָא | the meal offering
+@ 14:31.1
+וִיכַפֵּר | and he shall atone
+כַּהֲנָא | the priest
+עַל | on, over
+דְּמִדַּכֵּי | who is being purified
+קֳדָם | before
+יְיָ | Hashem
+@ 14:32.0
+דָּא | this
+אוֹרַיְתָא | the Torah
+@ 14:32.1
+דִּי | that, which
+בֵיהּ | in it
+מַכְתַּשׁ | plague, blow
+סְגִירוּ | tzara'at
+@ 14:32.2
+דִּי | that, which
+לָא | not
+תַדְבֵּק | reaches
+יְדֵיהּ | his hand
+בְּדָכוּתֵיהּ | for his purification
+@ 14:33.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+@ 14:33.1
+עִם | with
+משֶׁה | Moshe
+וְעִם | and with
+אַהֲרֹן | Aharon
+לְמֵימָר | saying (lit. “to say”)
+@ 14:34.0
+אֲרֵי | that
+תֵעֲלוּן | you come
+לְאַרְעָא | to the earth, the land
+דִכְנַעַן | of Kenaan
+@ 14:34.1
+דִּי | that, which
+אֲנָא | I am
+יָהֵב | am giving
+לְכוֹן | to you, for you
+לְאַחֲסָנָא | to a possession
+@ 14:34.2
+וְאֶתֵּן | and I will give
+מַכְתַּשׁ | plague, blow
+סְגִירוּ | tzara'at
+@ 14:34.3
+בְּבֵית | in the house of
+אַרְעָא | the earth, the land
+אַחֲסְנְתְּכוֹן | your possession
+@ 14:35.0
+וְיֵיתֵי | and shall come
+דְּדִילֵיהּ | to whom belongs
+בֵּיתָא | the house
+@ 14:35.1
+וִיחַוִּי | and he tells
+לְכַהֲנָא | to the priest
+לְמֵימָר | saying (lit. “to say”)
+@ 14:35.2
+כְּמַכְתָּשָׁא | like an affliction
+אִתְחֲזִי | appeared (lit. was seen)
+לִי | to me
+בְּבֵיתָא | in the house
+@ 14:36.0
+וִיפַקֵּד | and he will command
+כַּהֲנָא | the priest
+וִיפַנּוּן | and they shall clear out
+יָת | (sign of the object)
+בֵּיתָא | the house
+עַד | until
+לָא | not
+יֵעוֹל | he comes in
+כַּהֲנָא | the priest
+לְמֶחֱזֵי | to look at
+יָת | (sign of the object)
+מַכְתָּשָׁא | the affliction
+@ 14:36.1
+וְלָא | and not
+יִסְתָּאַב | he becomes impure
+כָּל | every, all
+דִּי | that, which
+בְּבֵיתָא | in the house
+@ 14:36.2
+וּבָתַר כֵּן | and afterwards
+יֵעוֹל | he comes in
+כַּהֲנָא | the priest
+לְמֶחֱזֵי | to look at
+יָת | (sign of the object)
+בֵּיתָא | the house
+@ 14:37.0
+וְיֶחֱזֵי | and he shall see
+יָת | (sign of the object)
+מַכְתָּשָׁא | the affliction
+וְהָא | and behold
+מַכְתָּשָׁא | the affliction
+בְּכָתְלֵי | in the walls of
+בֵיתָא | the house
+@ 14:37.1
+פַּחֲתִין | depressions
+יַרְקָן | an emerald
+@ 14:37.2
+אוֹ | or
+סַמְקָן | a ruby
+@ 14:37.3
+וּמֶחֱזֵיהוֹן | and their appearance
+מַכִּיךְ | lower
+מִן | from
+כָּתְלָא | the wall
+@ 14:38.0
+וְיִפּוֹק | and it shall go out
+כַּהֲנָא | the priest
+מִן | from
+בֵּיתָא | the house
+לִתְרַע | to the gate of
+בֵּיתָא | the house
+@ 14:38.1
+וְיַסְגַּר | and he shall quarantine
+יָת | (sign of the object)
+בֵּיתָא | the house
+שִׁבְעָא | seven
+יוֹמִין | days
+@ 14:39.0
+וִיתוּב | and shall return
+כַּהֲנָא | the priest
+בְּיוֹמָא | on the day
+שְׁבִיעָאָה | the seventh
+@ 14:39.1
+וְיֶחֱזֵי | and he shall see
+וְהָא | and behold
+אוֹסִיף | again
+מַכְתָּשָׁא | the affliction
+בְּכָתְלֵי | in the walls of
+בֵיתָא | the house
+@ 14:40.0
+וִיפַקֵּד | and he will command
+כַּהֲנָא | the priest
+@ 14:40.1
+וִישַׁלְּפוּן | and they shall pull out
+יָת | (sign of the object)
+אַבְנַיָּא | the stones
+@ 14:40.2
+דִּי | that, which
+בְהוֹן | by them
+מַכְתָּשָׁא | the affliction
+@ 14:40.3
+וְיִרְמוּן | and they shall throw
+יָתְהוֹן | them
+לְמִבָּרָא | outside (lit. to outside)
+לְקַרְתָּא | to a city
+@ 14:40.4
+לַאֲתַר | to one place
+מְסָאָב | impure
+@ 14:41.0
+וְיָת | and (sign of the object)
+בֵּיתָא | the house
+יְקַלְּפוּן | they shall scrape off
+מִגָּיו | from inside
+סְחוֹר | around
+סְחוֹר | around
+@ 14:41.1
+וְיִרְמוּן | and they shall throw
+יָת | (sign of the object)
+עַפְרָא | dust
+דִּי | that, which
+קַלִּיפוּ | they scraped off
+@ 14:41.2
+לְמִבָּרָא | outside (lit. to outside)
+לְקַרְתָּא | to a city
+@ 14:41.3
+לַאֲתַר | to one place
+מְסָאָב | impure
+@ 14:42.0
+וְיִסְּבוּן | and let them take
+אַבְנַיָּא | the stones
+אָחֳרָנִין | other, more
+@ 14:42.1
+וְיַעֲלוּן | and they shall put in (lit. bring in)
+לַאֲתַר | to one place
+אַבְנַיָּא | the stones
+@ 14:42.2
+וַעֲפַר | and earth
+אָחֳרָן | another
+יִסַּב | he shall take
+וִישׁוּעַ | and he shall plaster
+יָת | (sign of the object)
+בֵּיתָא | the house
+@ 14:43.0
+וְאִם | and if
+יְתוּב | it turns back
+מַכְתָּשָׁא | the affliction
+וְיִסְגֵּי | and spreads
+בְּבֵיתָא | in the house
+@ 14:43.1
+בָּתַר | after
+דְּשַׁלִּיפוּ | after they pulled out
+יָת | (sign of the object)
+אַבְנַיָּא | the stones
+@ 14:43.2
+וּבָתַר | and after
+דְקַלִּיפוּ | after they scraped off
+יָת | (sign of the object)
+בֵּיתָא | the house
+וּבָתַר | and after
+דְּאִתְּשָׁע | after was plastered
+@ 14:44.0
+וְיֵיעוֹל | and he shall come in
+כַּהֲנָא | the priest
+@ 14:44.1
+וְיֶחֱזֵי | and he shall see
+וְהָא | and behold
+אוֹסֵף | I will
+מַכְתָּשָׁא | the affliction
+בְּבֵיתָא | in the house
+@ 14:44.2
+סְגִירוּת | the tzara'at of
+מְחַסְרָא | harmful
+הִיא | she
+בְּבֵיתָא | in the house
+מְסָאָב | impure
+הוּא | it
+@ 14:45.0
+וִיתָרַע | and he shall break down
+יָת | (sign of the object)
+בֵּיתָא | the house
+יָת | (sign of the object)
+אַבְנוֹהִי | its stones
+וְיָת | and (sign of the object)
+אָעוֹהִי | its timber
+@ 14:45.1
+וְיָת | and (sign of the object)
+כָּל | every, all
+עֲפַר | the earth of
+בֵּיתָא | the house
+@ 14:45.2
+וְיַפֵּק | and he shall take out
+לְמִבָּרָא | outside (lit. to outside)
+לְקַרְתָּא | to a city
+@ 14:45.3
+לַאֲתַר | to one place
+מְסָאָב | impure
+@ 14:46.0
+וּדְיֵיעוֹל | and whoever comes in
+לְבֵיתָא | to the house
+@ 14:46.1
+כָּל | every, all
+יוֹמִין | days
+דְּיַסְגַּר | that quarantined
+יָתֵיהּ | him
+@ 14:46.2
+יְהֵי | will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 14:47.0
+וּדְיִשְׁכּוּב | and whoever lies down
+בְּבֵיתָא | in the house
+@ 14:47.1
+יְצַבַּע | he shall wash
+יָת | (sign of the object)
+לְבוּשׁוֹהִי | his clothes
+@ 14:47.2
+וּדְיֵיכוּל | and whoever eats
+בְּבֵיתָא | in the house
+@ 14:47.3
+יְצַבַּע | he shall wash
+יָת | (sign of the object)
+לְבוּשׁוֹהִי | his clothes
+@ 14:48.0
+וְאִם | and if
+מֵעַל | from upon
+יֵיעוֹל | he shall come in
+כַּהֲנָא | the priest
+וְיֶחֱזֵי | and he shall see
+וְהָא | and behold
+לָא | not
+אוֹסֵף | I will
+מַכְתָּשָׁא | the affliction
+בְּבֵיתָא | in the house
+@ 14:48.1
+בָּתַר | after
+דְּאִתְּשַׁע | after was plastered
+יָת | (sign of the object)
+בֵּיתָא | the house
+@ 14:48.2
+וִידַכֵּי | and he shall declare pure
+כַהֲנָא | the priest
+יָת | (sign of the object)
+בֵּיתָא | the house
+@ 14:48.3
+אֲרֵי | that
+אִתַּסִּי | it has healed
+מַכְתָּשָׁא | the affliction
+@ 14:49.0
+וְיִסַּב | and he will take
+לְדַכָּאָה | to purify
+יָת | (sign of the object)
+בֵּיתָא | the house
+תַּרְתֵּין | two
+צִפְּרִין | birds
+@ 14:49.1
+וְאָעָא | and wood
+דְאַרְזָא | of cedar
+@ 14:49.2
+וּצְבַע | and dyed (lit. the dye of)
+זְהוֹרִי | scarlet
+וְאֵזוֹבָא | and hyssop
+@ 14:50.0
+וְיִכּוֹס | and he shall slaughter
+יָת | (sign of the object)
+צִפֲּרָא | the bird
+חֲדָא | one
+@ 14:50.1
+לְמַאן | to an article of
+דַּחֲסַף | of earthenware
+עַל | on, over
+מֵי | the waters of
+מַבּוּעַ | spring
+@ 14:51.0
+וְיִסַּב | and he will take
+יָת | (sign of the object)
+אָעָא | wood
+דְאַרְזָא | of cedar
+וְיָת | and (sign of the object)
+אֵזוֹבָא | hyssop
+וְיָת | and (sign of the object)
+צְבַע | dyed (lit. the dye of)
+זְהוֹרִי | scarlet
+וְיָת | and (sign of the object)
+צִפֲּרָא | the bird
+חַיְתָא | living
+@ 14:51.1
+וְיִטְבּוֹל | and he shall dip
+יָתְהוֹן | them
+בִּדְמָא | in the blood
+דְּצִפֲּרָא | of the bird
+דִנְכִיסָא | that was slaughtered
+@ 14:51.2
+וּבְמֵי | and in the waters of
+מַבּוּעַ | spring
+@ 14:51.3
+וְיַדִּי | and he shall sprinkle
+לְבֵיתָא | to the house
+שְׁבַע | seven
+זִמְנִין | times
+@ 14:52.0
+וִידַכֵּי | and he shall declare pure
+יָת | (sign of the object)
+בֵּיתָא | the house
+@ 14:52.1
+בִּדְמָא | in the blood
+דְּצִפֲּרָא | of the bird
+@ 14:52.2
+וּבְמֵי | and in the waters of
+מַבּוּעַ | spring
+@ 14:52.3
+וּבְצִפֲּרָא | and with the bird
+חַיְתָא | living
+וּבְאָעָא | and in wood
+דְאַרְזָא | of cedar
+וּבְאֵזוֹבָא | and in hyssop
+וּבִצְבַע | and in dyed (lit. the dye of)
+זְהוֹרִי | scarlet
+@ 14:53.0
+וִישַׁלַּח | and he will send you out
+יָת | (sign of the object)
+צִפֲּרָא | the bird
+חַיְתָא | living
+לְמִבָּרָא | outside (lit. to outside)
+לְקַרְתָּא | to a city
+לְאַפֵּי | to the face
+חַקְלָא | the field
+@ 14:53.1
+וִיכַפַּר | and he shall atone
+עַל | on, over
+בֵּיתָא | the house
+וְיִדְכֵּי | and it becomes pure
+@ 14:54.0
+דָּא | this
+אוֹרַיְתָא | the Torah
+@ 14:54.1
+לְכָל | to all of
+מַכְתַּשׁ | plague, blow
+סְגִירוּתָא | the tzara'at
+וּלְנִתְקָא | and for the bald spot
+@ 14:55.0
+וְלִסְגִירוּת | and for tzara'at
+לְבוּשָׁא | the garment
+וּלְבֵיתָא | and to the house
+@ 14:56.0
+וּלְעַמְקָא | and for the lesion
+וּלְעַדְיָא | and for the scab
+וּלְבַהֲרָא | and for the bright spot
+@ 14:57.0
+לְאַלָּפָא | to devise (lit. teach)
+בְּיוֹמָא | on the day
+מְסָאָבָא | impure
+וּבְיוֹמָא | and in day
+דַכְיָא | clean
+@ 14:57.1
+דָּא | this
+אוֹרַיְתָא | the Torah
+דִּסְגִירוּתָא | of tzara'at
+@ 15:1.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+@ 15:1.1
+עִם | with
+משֶׁה | Moshe
+וְעִם | and with
+אַהֲרֹן | Aharon
+לְמֵימָר | saying (lit. “to say”)
+@ 15:2.0
+מַלִּילוּ | they spoke
+עִם | with
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 15:2.1
+וְתֵימְרוּן | and you shall say
+לְהוֹן | to them
+@ 15:2.2
+גְּבַר | a man
+גְּבַר | a man
+אֲרֵי | that
+יְהֵי | will be
+דָּאִיב | has a discharge
+מִבִּשְׂרֵיהּ | from his flesh
+@ 15:2.3
+דּוֹבֵיהּ | his discharge
+מְסָאָב | impure
+הוּא | it
+@ 15:3.0
+וְדָא | and this one
+תְּהֵי | shall be
+סוֹבְתֵיהּ | his impurity
+בְּדוֹבֵיהּ | in his discharge
+@ 15:3.1
+רָר | runs
+בִּשְׂרֵיהּ | his flesh
+יָת | (sign of the object)
+דּוֹבֵיהּ | his discharge
+אוֹ | or
+חָתִים | is blocked (lit. sealed)
+בִּשְׂרֵיהּ | his flesh
+מִדּוֹבֵיהּ | from his discharge
+@ 15:3.2
+סוֹבְתֵיהּ | his impurity
+הִיא | she
+@ 15:4.0
+כָּל | every, all
+מִשְׁכְּבָא | the bedroom
+דִּי | that, which
+יִשְׁכּוּב | he will lie
+עֲלוֹהִי | for him (lit. upon him)
+דּוֹבָנָא | the one with a discharge (lit. the discharges)
+יְהֵי | will be
+מְסָאָב | impure
+@ 15:4.1
+וְכָל | and all
+מָנָא | the vessel
+דְיֵיתֵב | whoever sits
+עֲלוֹהִי | for him (lit. upon him)
+יְהֵי | will be
+מְסָאָב | impure
+@ 15:5.0
+וּגְבַר | and a man
+דִּי | that, which
+יִקְרַב | he may come near
+בּמִשְׁכְּבֵיהּ | on his bed
+@ 15:5.1
+יְצַבַּע | he shall wash
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:6.0
+וּדְיֵיתֵב | and whoever sits
+עַל | on, over
+מָנָא | the vessel
+@ 15:6.1
+דְּיֵיתֵב | whoever sits
+עֲלוֹהִי | for him (lit. upon him)
+דּוֹבָנָא | the one with a discharge (lit. the discharges)
+@ 15:6.2
+יְצַבַּע | he shall wash
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:7.0
+וּדְיִקְרַב | and that he may come near
+בִּבְסַר | in the meat of
+דּוֹבָנָא | the one with a discharge (lit. the discharges)
+@ 15:7.1
+יְצַבַּע | he shall wash
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:8.0
+וַאֲרֵי | and that
+יֵרוֹק | he spits
+דּוֹבָנָא | the one with a discharge (lit. the discharges)
+בְּדַכְיָא | in clean
+@ 15:8.1
+וִיצַבַּע | and he shall wash
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:9.0
+וְכָל | and all
+מֶרְכְּבָא | saddle
+דִּי | that, which
+יִרְכּוּב | he rides
+עֲלוֹהִי | for him (lit. upon him)
+דּוֹבָנָא | the one with a discharge (lit. the discharges)
+יְהֵי | will be
+מְסָאָב | impure
+@ 15:10.0
+וְכָל | and all
+דְּיִקְרַב | who comes near
+בְּכֹל | in all, every
+דִּי | that, which
+יְהֵי | will be
+תְחוֹתוֹהִי | in his place (lit. under him)
+@ 15:10.1
+יְהֵי | will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:10.2
+וּדְיִטּוֹל | and whoever carries
+יָתְהוֹן | them
+@ 15:10.3
+יְצַבַּע | he shall wash
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:11.0
+וְכֹל | and all, every
+דִּי | that, which
+יִקְרַב | he may come near
+בֵּיהּ | in it
+דּוֹבָנָא | the one with a discharge (lit. the discharges)
+@ 15:11.1
+וִידוֹהִי | and his hands
+לָא | not
+שְׁטַף | he rinsed
+בְּמַיָּא | in the water
+@ 15:11.2
+וִיצַבַּע | and he shall wash
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:12.0
+וּמַאן | and an article of
+דַּחֲסַף | of earthenware
+דִּי | that, which
+יִקְרַב | he may come near
+בֵּיהּ | in it
+דּוֹבָנָא | the one with a discharge (lit. the discharges)
+יִתָּבַר | it shall be broken
+@ 15:12.1
+וְכָל | and all
+מַאן | an article of
+דְּאָע | of wood
+יִשְׁתַּטַּף | it shall be rinsed
+בְּמַיָּא | in the water
+@ 15:13.0
+וַאֲרֵי | and that
+יִדְכֵּי | he will be pure
+דּוֹבָנָא | the one with a discharge (lit. the discharges)
+מִדּוֹבֵיהּ | from his discharge
+@ 15:13.1
+וְיִמְנֵי | and he shall count
+לֵיהּ | to him
+שִׁבְעַת | seven
+יוֹמִין | days
+לְדָכוּתֵיהּ | for his purification
+וִיצַבַּע | and he shall wash
+לְבוּשׁוֹהִי | his clothes
+@ 15:13.2
+וְיַסְחֵי | and he shall wash
+בִשְׂרֵיהּ | his flesh
+בְּמֵי | in the waters of
+מַבּוּעַ | spring
+וְיִדְכֵּי | and it becomes pure
+@ 15:14.0
+וּבְיוֹמָא | and in day
+תְמִינָאָה | the eighth
+יִסַּב | he shall take
+לֵיהּ | to him
+תַּרְתֵּין | two
+שַׁפְנִינִין | young doves
+@ 15:14.1
+אוֹ | or
+תְרֵין | two
+בְּנֵי | the children of
+יוֹנָה | the dove
+@ 15:14.2
+וְיֵיתֵי | and comes
+לָקֳדָם | to before
+יְיָ | Hashem
+לִתְרַע | to the gate of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 15:14.3
+וְיִתְּנִנּוּן | and he shall give them
+לְכַהֲנָא | to the priest
+@ 15:15.0
+וְיַעְבֵּד | and he shall do
+יָתְהוֹן | them
+כַּהֲנָא | the priest
+@ 15:15.1
+חַד | one
+חַטָּאתָא | a sin offering
+@ 15:15.2
+וְחַד | and one
+עֲלָתָא | a burnt offering
+@ 15:15.3
+וִיכַפֵּר | and he shall atone
+עֲלוֹהִי | for him (lit. upon him)
+כַּהֲנָא | the priest
+קֳדָם | before
+יְיָ | Hashem
+מִדּוֹבֵיהּ | from his discharge
+@ 15:16.0
+וּגְבַר | and a man
+אֲרֵי | that
+תִפּוֹק | she shall go out
+מִנֵּיהּ | of him
+שִׁכְבַת | an emission of
+זַרְעָא | seed, offspring
+@ 15:16.1
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+יָת | (sign of the object)
+כָּל | every, all
+בִּשְׂרֵיהּ | his flesh
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:17.0
+וְכָל | and all
+לְבוּשׁ | a garment
+וְכָל | and all
+מְשַׁךְ | the skin of
+@ 15:17.1
+דִּי | that, which
+יְהֵי | will be
+עֲלוֹהִי | for him (lit. upon him)
+שִׁכְבַת | an emission of
+זַרְעָא | seed, offspring
+@ 15:17.2
+וְיִצְטַבַּע | and it shall be washed (lit. dipped)
+בְּמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:18.0
+וְאִתְּתָא | and the woman
+דִּי | that, which
+יִשְׁכּוּב | he will lie
+גְּבַר | a man
+יָתַהּ | it
+שִׁכְבַת | an emission of
+זַרְעָא | seed, offspring
+@ 15:18.1
+וְיַסְחוּן | and they shall wash
+בְּמַיָּא | in the water
+@ 15:18.2
+וְיִסְאֲבוּן | and they are impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:19.0
+וְאִתְּתָא | and the woman
+אֲרֵי | that
+תְהֵי | shall be
+דָיְבָא | has a discharge
+@ 15:19.1
+דָּם | blood
+יְהֵי | will be
+דוֹבַהּ | her discharge
+בְּבִשְׂרַהּ | in her flesh
+@ 15:19.2
+שִׁבְעָא | seven
+יוֹמִין | days
+תְּהֵי | shall be
+בְרִיחוּקַהּ | in her separation
+@ 15:19.3
+וְכָל | and all
+דְּיִקְרַב | who comes near
+בַּהּ | in it
+יְהֵי | will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:20.0
+וְכֹל | and all, every
+דִּי | that, which
+תִשְׁכּוּב | she lies
+עֲלוֹהִי | for him (lit. upon him)
+בְּרִחוּקַהּ | in her separation
+יְהֵי | will be
+מְסָאָב | impure
+@ 15:20.1
+וְכֹל | and all, every
+דִּי | that, which
+תֵיתֵב | she sits
+עֲלוֹהִי | for him (lit. upon him)
+יְהֵי | will be
+מְסָאָב | impure
+@ 15:21.0
+וְכָל | and all
+דְּיִקְרַב | who comes near
+בְּמִשְׁכְּבַהּ | when she lay down
+@ 15:21.1
+יְצַבַּע | he shall wash
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:22.0
+וְכָל | and all
+דְּיִקְרַב | who comes near
+בְּכָל | in all of
+מָנָא | the vessel
+דִּי | that, which
+תֵיתֵב | she sits
+עֲלוֹהִי | for him (lit. upon him)
+@ 15:22.1
+יְצַבַּע | he shall wash
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:23.0
+וְאִם | and if
+עַל | on, over
+מִשְׁכְּבָא | the bedroom
+הוּא | it
+אוֹ | or
+עַל | on, over
+מָנָא | the vessel
+דִּי | that, which
+הִא | it
+יָתְבָא | sits
+עֲלוֹהִי | for him (lit. upon him)
+בְּמִקְרְבֵיהּ | when he touches (lit. in his coming near)
+בֵּיהּ | in it
+@ 15:23.1
+יְהֵי | will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:24.0
+וְאִם | and if
+מִשְׁכַּב | the bed of
+יִשְׁכּוּב | he will lie
+גְּבַר | a man
+יָתַהּ | it
+וּתְהֵי | and shall be
+רִחוּקַהּ | her separation
+עֲלוֹהִי | for him (lit. upon him)
+@ 15:24.1
+וִיהֵי | and will be
+מְסָאָב | impure
+שִׁבְעַת | seven
+יוֹמִין | days
+@ 15:24.2
+וְכָל | and all
+מִשְׁכְּבָא | the bedroom
+דִּי | that, which
+יִשְׁכּוּב | he will lie
+עֲלוֹהִי | for him (lit. upon him)
+יְהֵי | will be
+מְסָאָב | impure
+@ 15:25.0
+וְאִתְּתָא | and the woman
+אֲרֵי | that
+יְדוּב | flows
+דּוֹב | the discharge of
+דְּמַהּ | her blood
+יוֹמִין | days
+סַגִּיאִין | many
+בְּלָא | not in
+עִדַּן | a time
+רִחוּקַהּ | her separation
+@ 15:25.1
+אוֹ | or
+אֲרֵי | that
+תְדוּב | she has a discharge
+עַל | on, over
+רִחוּקַהּ | her separation
+@ 15:25.2
+כָּל | every, all
+יוֹמֵי | the days of
+דּוֹב | the discharge of
+סוֹבְתַהּ | her impurity
+כְּיוֹמֵיהּ | like the days of (lit. its days)
+רִחוּקַהּ | her separation
+תְּהֵי | shall be
+מְסָאֳבָא | impure
+הִיא | she
+@ 15:26.0
+כָּל | every, all
+מִשְׁכְּבָא | the bedroom
+דִּי | that, which
+תִשְׁכּוּב | she lies
+עֲלוֹהִי | for him (lit. upon him)
+כָּל | every, all
+יוֹמֵי | the days of
+דוֹבַהּ | her discharge
+@ 15:26.1
+כְּמִשְׁכַּב | like the bed of
+רִחוּקַהּ | her separation
+יְהֵי | will be
+לַהּ | to her
+@ 15:26.2
+וְכָל | and all
+מָנָא | the vessel
+דִּי | that, which
+תֵתֵב | she sits
+עֲלוֹהִי | for him (lit. upon him)
+@ 15:26.3
+מְסָאָב | impure
+יְהֵי | will be
+@ 15:26.4
+כְּסוֹאֲבַת | like the impurity of
+רִחוּקַהּ | her separation
+@ 15:27.0
+וְכָל | and all
+דְּיִקְרַב | who comes near
+בְּהוֹן | by them
+יְהֵי | will be
+מְסָאָב | impure
+@ 15:27.1
+וִיצַבַּע | and he shall wash
+לְבוּשׁוֹהִי | his clothes
+וְיַסְחֵי | and he shall wash
+בְמַיָּא | in the water
+וִיהֵי | and will be
+מְסָאָב | impure
+עַד | until
+רַמְשָׁא | evening
+@ 15:28.0
+וְאִם | and if
+דְּכִיאַת | she becomes pure
+מִדּוֹבַהּ | from her discharge
+@ 15:28.1
+וְתִמְנֵי | and she shall count
+לַהּ | to her
+שִׁבְעַת | seven
+יוֹמִין | days
+וּבָתַר כֵּן | and afterwards
+תִּדְכֵּי | she will be pure
+@ 15:29.0
+וּבְיוֹמָא | and in day
+תְמִינָאָה | the eighth
+תִּסַּב | you shall take
+לַהּ | to her
+תַּרְתֵּין | two
+שַׁפְנִינִין | young doves
+@ 15:29.1
+אוֹ | or
+תְּרֵין | two
+בְּנֵי | the children of
+יוֹנָה | the dove
+@ 15:29.2
+וְתַיְתִי | and she shall bring
+יָתְהוֹן | them
+לְוָת | to
+כַּהֲנָא | the priest
+@ 15:29.3
+לִתְרַע | to the gate of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 15:30.0
+וְיַעְבֵּד | and he shall do
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+חַד | one
+חַטָּאתָא | a sin offering
+@ 15:30.1
+וְיָת | and (sign of the object)
+חַד | one
+עֲלָתָא | a burnt offering
+@ 15:30.2
+וִיכַפֵּר | and he shall atone
+עֲלַהּ | over it
+כַּהֲנָא | the priest
+קֳדָם | before
+יְיָ | Hashem
+@ 15:30.3
+מִדּוֹב | from the discharge of
+סוֹבְתַהּ | her impurity
+@ 15:31.0
+וְתַפְרְשׁוּן | and you shall separate
+יָת | (sign of the object)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+מִסּוֹאֲבַתְהוֹן | from their impurity
+@ 15:31.1
+וְלָא | and not
+יְמוּתוּן | they die
+בְּסוֹאֲבַתְהוֹן | in their impurity
+@ 15:31.2
+בְּסָאָבְהוֹן | in their defiling
+יָת | (sign of the object)
+מַשְׁכְּנִי | My Tabernacle
+דִּי | that, which
+בֵינֵיהוֹן | among them
+@ 15:32.0
+דָּא | this
+אוֹרַיְתָא | the Torah
+דְּדוֹבְנָא | of the one with a discharge
+@ 15:32.1
+וְדִי | and that, which
+תִפּוֹק | she shall go out
+מִנֵּיהּ | of him
+שִׁכְבַת | an emission of
+זַרְעָא | seed, offspring
+לְאִסְתָּאָבָא | to become impure
+בַהּ | in it
+@ 15:33.0
+וְלִדְסָאוּבְתָּא | and for her who is impure
+בְּרִיחוּקַהּ | beyond her separation
+@ 15:33.1
+וְלִדְדָאִיב | and for him who has a discharge
+יָת | (sign of the object)
+דּוֹבֵיהּ | his discharge
+@ 15:33.2
+לִדְכַר | to male
+וּלְנֻקְבָּא | and to female
+@ 15:33.3
+וְלִגְבַר | and to a man
+דִּי | that, which
+יִשְׁכּוּב | he will lie
+עִם | with
+מְסָאָבָא | impure

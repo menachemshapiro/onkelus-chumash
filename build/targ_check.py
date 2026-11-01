@@ -2,7 +2,7 @@
 it is about, and compare with our glossary: is that word linked to this entry, and do the meanings agree?
 Writes build/targ-check.txt (one line per word/entry pair that needs a look) and prints a summary."""
 import json, glob, re, collections, unicodedata as u
-SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
+SP = '/home/claude/work/'
 E = json.load(open(SP + 'jastrow/jastrow-2018.json', encoding='utf8'))
 for f in ['jastrow-lookups.json', 'jastrow-lookups-2.json']:          # Sefaria's current text where we have it
     E.update(json.load(open(SP + 'jastrow/' + f, encoding='utf8'))['entries'])

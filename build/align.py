@@ -3,7 +3,7 @@ Writes data.json: list of {c, v, h:[...], t:[...], e:[...], p:'פ'|'ס'|None}.""
 import json, re, sys
 
 UP = '/root/.claude/uploads/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/'
-DL = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/dl/'
+DL = '/home/claude/work/dl/'
 import os
 BOOK = os.environ.get('BOOK', 'Genesis')
 FILES = {
@@ -204,5 +204,5 @@ for c, first, last in END:
             if len(arr) != len(h): print('COUNT MISMATCH', key, nm, len(arr), len(h))
         data.append({'c': c, 'v': v, 'h': h, 't': tc, 'e': ec, 'p': pet, 'conf': conf, 'ovr': bool(o)})
         if o.get('efix'): data[-1]['oe'] = e_src  # source text before corrections, for 'Show original'
-json.dump(data, open('/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/build/' + OUT, 'w'), ensure_ascii=False)
+json.dump(data, open('/home/claude/work/build/' + OUT, 'w'), ensure_ascii=False)
 print(len(data), 'verses')

@@ -32,7 +32,7 @@ P = [
  ('vayeilech','וילך','Deuteronomy','Vayeilech','Vayeilech'), ('haazinu','האזינו','Deuteronomy','Haazinu',"Ha'azinu"),
  ('vezot','וזאת הברכה','Deuteronomy','Vezot Haberachah','Vezot Haberakhah'),
 ]
-AL = json.load(open('/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/dl/aliyot.json'))
+AL = json.load(open('/home/claude/work/dl/aliyot.json'))
 def pt(s): c, v = s.split(':'); return int(c), int(v)
 def aliyot(hk):
     fk = AL[hk]['fullkriyah']

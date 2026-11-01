@@ -1,0 +1,1831 @@
+# Draft made by lit_auto.py from the glossary. Do not edit: put corrections in matot.txt (it wins clause by clause).
+@ 30:2.0
+וּמַלִּיל | and he spoke
+משֶׁה | Moshe
+עִם | with
+רֵישֵׁי | heads of
+שִׁבְטַיָּא | the tribes
+@ 30:2.1
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+לְמֵימָר | saying (lit. “to say”)
+@ 30:2.2
+דֵּין | this
+פִּתְגָּמָא | the word
+@ 30:2.3
+דִּי | that, which
+פַּקִּיד | had commanded
+יְיָ | Hashem
+@ 30:3.0
+גְּבַר | a man
+אֲרֵי | that
+יִדַּר | he vows
+נְדַר | a vow of
+קֳדָם | before
+יְיָ | Hashem
+אוֹ | or
+יְקַיֵּם | he swears (lit. confirms)
+קְיָם | the covenant
+לְמֵסַר | to bind
+אֵסַר | a binding
+עַל | on, over
+נַפְשֵׁיהּ | his soul
+@ 30:3.1
+לָא | not
+יְבַטַּל | he shall annul (lit. make void)
+פִּתְגָּמֵיהּ | his word
+@ 30:3.2
+כְּכָל | like all of
+דְּיִפּוֹק | that comes out
+מִפּוּמֵיהּ | from his mouth
+יַעֲבֵּד | does
+@ 30:4.0
+וְאִתְּתָא | and the woman
+אֲרֵי | that
+תִדַּר | vows
+נְדַר | a vow of
+קֳדָם | before
+יְיָ | Hashem
+@ 30:4.1
+וְתֵסַר | and binds
+אֵיסַר | a binding
+בְּבֵית | in the house of
+אָבוּהָא | her father
+בְּרַבְיוּתָהָא | in her youth
+@ 30:5.0
+וְיִשְׁמַע | and he hears
+אָבוּהָא | her father
+יָת | (sign of the object)
+נִדְרָהּ | her vow
+וְאֵסָרָהּ | and her binding
+דִּי | that, which
+אֲסָרַת | she bound
+עַל | on, over
+נַפְשַׁהּ | her soul
+@ 30:5.1
+וְיִשְׁתּוֹק | and is silent
+לָהּ | to her
+אָבוּהָא | her father
+@ 30:5.2
+וִיקוּמוּן | and they will stand
+כָּל | every, all
+נִדְרָהָא | her vows
+@ 30:5.3
+וְכָל | and all
+אֵסָרֵי | bindings
+דִּי | that, which
+אֲסָרַת | she bound
+עַל | on, over
+נַפְשַׁהּ | her soul
+יְקוּמוּן | who shall stand
+@ 30:6.0
+וְאִם | and if
+אַעְדִּי | removing
+אָבוּהָא | her father
+יָתַהּ | it
+בְּיוֹמָא | on the day
+דִשְׁמַע | who hears
+@ 30:6.1
+כָּל | every, all
+נִדְרָהָא | her vows
+וֶאֱסָרָהָא | and her bindings
+דִּי | that, which
+אֲסָרַת | she bound
+עַל | on, over
+נַפְשַׁהּ | her soul
+לָא | not
+יְקוּמוּן | who shall stand
+@ 30:6.2
+וּמִן קֳדָם | and from before
+יְיָ | Hashem
+יִשְׁתְּבֵק | it will be forgiven
+לָהּ | to her
+@ 30:6.3
+אֲרֵי | that
+אַעְדִּי | removing
+אָבוּהָא | her father
+יָתַהּ | it
+@ 30:7.0
+וְאִם | and if
+מֶהֱוָה תֶהֱוֵי | surely she is (lit. be she is)
+לִגְבַר | to a man
+@ 30:7.1
+וְנִדְרָהָא | and her vows
+עֲלַהּ | over it
+@ 30:7.2
+אוֹ | or
+פֵּרוּשׁ | the utterance of (lit. the expressing of)
+סִפְוָתָהָא | her lips
+@ 30:7.3
+דִּי | that, which
+אֲסָרַת | she bound
+עַל | on, over
+נַפְשָׁהּ | herself (lit. her soul)
+@ 30:8.0
+וְיִשְׁמַע | and he hears
+בַּעֲלַהּ | the husband of
+בְּיוֹמָא | on the day
+דִשְׁמַע | who hears
+וְיִשְׁתּוֹק | and is silent
+לַהּ | to her
+@ 30:8.1
+וִיקוּמוּן | and they will stand
+נִדְרָהָא | her vows
+וֶאֱסָרָהָא | and her bindings
+דִּי | that, which
+אֲסָרַת | she bound
+עַל | on, over
+נַפְשַׁהּ | her soul
+יְקוּמוּן | who shall stand
+@ 30:9.0
+וְאִם | and if
+בְּיוֹמָא | on the day
+דִשְׁמַע | who hears
+בַּעֲלַהּ | the husband of
+אַעְדִּי | removing
+יָתַהּ | it
+@ 30:9.1
+וּבַטַּל | and he annulled
+יָת | (sign of the object)
+נִדְרָהָא | her vows
+דִּי | that, which
+עֲלַהּ | over it
+@ 30:9.2
+וְיָת | and (sign of the object)
+פֵּרוּשׁ | the utterance of (lit. the expressing of)
+סִפְוָתָהָא | her lips
+דִּי | that, which
+אֲסָרַת | she bound
+עַל | on, over
+נַפְשַׁהּ | her soul
+@ 30:9.3
+וּמִן קֳדָם | and from before
+יְיָ | Hashem
+יִשְׁתְּבֵיק | it will be forgiven
+לַהּ | to her
+@ 30:10.0
+וּנְדַר | and a vow of
+אַרְמְלָא | a widow
+וּמְתַרְכָא | and a divorced woman
+@ 30:10.1
+כֹּל | all, every
+דִּי | that, which
+אֲסָרַת | she bound
+עַל | on, over
+נַפְשַׁהּ | her soul
+יְקוּם | let rise
+עֲלַהּ | over it
+@ 30:11.0
+וְאִם | and if
+בֵּית | the house of
+בַּעֲלַהּ | the husband of
+נְדָרַת | she vowed
+@ 30:11.1
+אוֹ | or
+אֲסָרַת | she bound
+אֵסַר | a binding
+עַל | on, over
+נַפְשַׁהּ | her soul
+בְּקִיּוּם | with an oath
+@ 30:12.0
+וְיִשְׁמַע | and he hears
+בַּעֲלַהּ | the husband of
+וְיִשְׁתּוֹק | and is silent
+לַהּ | to her
+@ 30:12.1
+לָא | not
+אַעְדִּי | removing
+יָתְהוֹן | them
+@ 30:12.2
+וִיקוּמוּן | and they will stand
+כָּל | every, all
+נִדְרָהָא | her vows
+@ 30:12.3
+וְכָל | and all
+אֱסָרֵי | bindings
+דִּי | that, which
+אֲסָרַת | she bound
+עַל | on, over
+נַפְשַׁהּ | her soul
+יְקוּמוּן | who shall stand
+@ 30:13.0
+וְאִם | and if
+בַּטָּלָא יְבַטֵּל | surely he annuls (lit. annul he annuls)
+יָתְהוֹן | them
+בַּעְלַהּ | her husband
+בְּיוֹמָא | on the day
+דִי | that, which
+שְׁמַע | he heard
+@ 30:13.1
+כָּל | every, all
+אַפָּקוּת | the utterance of (lit. bringing out of)
+סִפְוָתָהָא | her lips
+לְנִדְרָהָא | for her vows
+וּלְאֵסַר | and for the binding of
+נַפְשַׁהּ | her soul
+לָא | not
+יְקוּמוּן | who shall stand
+@ 30:13.2
+בַּעֲלַהּ | the husband of
+בַּטֵּלִנּוּן | he annulled them
+@ 30:13.3
+וּמִן קֳדָם | and from before
+יְיָ | Hashem
+יִשְׁתְּבֵיק | it will be forgiven
+לַהּ | to her
+@ 30:14.0
+כָּל | every, all
+נְדַר | a vow of
+וְכָל | and all
+קִיּוּמַת | oath of (lit. establishing of)
+אֵסָר | binding
+לְסַגָּפָא | to afflict
+נְפָשׁ | his life
+@ 30:14.1
+בַּעֲלַהּ | the husband of
+יְקַיְּמִנּוּן | may uphold them
+וּבַעֲלַהּ | and the husband of
+יְבַטְּלִנּוּן | may annul them
+@ 30:15.0
+וְאִם | and if
+מִשְׁתַּק יִשְׁתּוֹק | surely he is silent (lit. silent he is silent)
+לַהּ | to her
+בַּעֲלַהּ | the husband of
+מִיּוֹם | from day
+לְיוֹם | for the day of
+@ 30:15.1
+וִיקַיֵּם | and he swears (lit. confirms)
+יָת | (sign of the object)
+כָּל | every, all
+נִדְרָהָא | her vows
+@ 30:15.2
+אוֹ | or
+יָת | (sign of the object)
+כָּל | every, all
+אֱסָרָהָא | her bindings
+דִּי | that, which
+עֲלַהּ | over it
+@ 30:15.3
+קַיַּם | swear (lit. confirm)
+יָתְהוֹן | them
+@ 30:15.4
+אֲרֵי | that
+שָׁתֵק | he was silent
+לַהּ | to her
+בְּיוֹמָא | on the day
+דִשְׁמָע | that he heard
+@ 30:16.0
+וְאִם | and if
+בַּטָּלָא | in dew
+יְבַטֵּל | he annuls
+יָתְהוֹן | them
+בָּתַר | after
+דִּשְׁמָע | that he heard
+@ 30:16.1
+וִיקַבַּל | and he shall bear
+יָת | (sign of the object)
+חוֹבַהּ | its sin
+@ 30:17.0
+אִלֵּין | these
+קְיָמַיָּא | the statutes of
+דִּי | that, which
+פַקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 30:17.1
+בֵּין | between
+גְּבַר | a man
+לְאִתְּתֵיהּ | to his wife
+@ 30:17.2
+בֵּין | between
+אַבָּא | my father
+לִבְרַתֵּיהּ | to his daughter
+@ 30:17.3
+בְּרַביוּתָהָא | in her youth
+בֵּית | the house of
+אָבוּהָא | her father
+@ 31:1.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 31:2.0
+אִתְפְּרַע | exact retribution
+פֻּרְעֲנוּת | the retribution of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 31:2.1
+מִן | from
+מִדְיָנָאֵי | the Midianites
+@ 31:2.2
+בָּתַר כֵּן | afterwards
+תִּתְכְּנֵשׁ | she shall be brought back in (lit. gathered)
+לְעַמָּיךְ | to your people
+@ 31:3.0
+וּמַלִּיל | and he spoke
+משֶׁה | Moshe
+עִם | with
+עַמָּא | a people
+לְמֵימַר | saying
+@ 31:3.1
+זְרִיזוּ | arm (lit. equip)
+מִנְּכוֹן | from you
+גֻּבְרִין | men
+לְחֵילָא | to the power
+@ 31:3.2
+וִיהוֹן | and they will be
+עַל | on, over
+מִדְיָן | Midyan
+@ 31:3.3
+לְמֵיהַב | to give
+פֻּרְעֲנוּת דִּין | this retribution of
+עַמָּא | a people
+דַיְיָ | of Hashem
+בְּמִדְיָן | in Midyan
+@ 31:4.0
+אַלְפָא | the thousand
+לְשִׁבְטָא | of the tribe of
+@ 31:4.1
+אַלְפָא | the thousand
+לְשִׁבְטָא | of the tribe of
+@ 31:4.2
+לְכֹל | to all, every
+שִׁבְטַיָּא | the tribes
+דְיִשְׂרָאֵל | of Yisrael
+@ 31:4.3
+תְּשַׁלְּחוּן | you shall send out
+לְחֵילָא | to the power
+@ 31:5.0
+וְאִתְבְּחָרוּ | and they were chosen
+מֵאַלְפַיָּא | from the thousands
+דְיִשְׂרָאֵל | of Yisrael
+@ 31:5.1
+אַלְפָא | the thousand
+לְשִׁבְטָא | of the tribe of
+@ 31:5.2
+תְּרֵי | two
+עֲשַׂר | ten
+אַלְפִין | thousands
+מְזָרְזֵי | armed for (lit. equipped of)
+חֵילָא | the power
+@ 31:6.0
+וּשְׁלַח | and he sent
+יָתְהוֹן | them
+משֶׁה | Moshe
+אַלְפָא | the thousand
+לְשִׁבְטָא | of the tribe of
+לְחֵילָא | to the power
+@ 31:6.1
+יָתְהוֹן | them
+וְיָת | and (sign of the object)
+פִּינְחָס | Pinchas
+בַּר | has (lit. “son of”)
+אֶלְעָזָר | Elazar
+כַּהֲנָא | the priest
+לְחֵילָא | to the power
+@ 31:6.2
+וּמָנֵי | and the things of
+דְקוּדְשָׁא | of holiness
+וַחֲצַצְרַת | and the trumpets of
+יַבֶּבְתָּא | a broken blast
+בִּידֵיהּ | his hand
+@ 31:7.0
+וְאִתְחַיָּלוּ | and they waged war (lit. mustered)
+עַל | on, over
+מִדְיָן | Midyan
+@ 31:7.1
+כְּמָא דִי | as
+פַּקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 31:7.2
+וּקְטָלוּ | and they killed
+כָּל | every, all
+דְּכוּרָא | male
+@ 31:8.0
+וְיָת | and (sign of the object)
+מַלְכֵי | the kings of
+מִדְיָן | Midyan
+קְטָלוּ | they killed
+עַל | on, over
+קְטִילֵיהוֹן | their slain
+יָת | (sign of the object)
+אֱוִי | Evi
+וְיָת | and (sign of the object)
+רֶקֶם | Rekem
+וְיָת | and (sign of the object)
+צוּר | Tzur
+וְיָת | and (sign of the object)
+חוּר | Chur
+וְיָת | and (sign of the object)
+רֶבַע | Reva
+@ 31:8.1
+חַמְשָׁא | five
+מַלְכֵי | the kings of
+מִדְיָן | Midyan
+@ 31:8.2
+וְיָת | and (sign of the object)
+בִּלְעָם | Bilam
+בַּר | has (lit. “son of”)
+בְּעוֹר | Be‘or
+@ 31:8.3
+קְטָלוּ | they killed
+בְחַרְבָּא | in the sword
+@ 31:9.0
+וּשְׁבוֹ | and they took captive
+בְנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+יָת | (sign of the object)
+נְשֵׁי | wives of
+מִדְיָן | Midyan
+וְיָת | and (sign of the object)
+טַפְלְהוֹן | their small children
+@ 31:9.1
+וְיָת | and (sign of the object)
+כָּל | every, all
+בְּעִירְהוֹן | their cattle
+וְיָת | and (sign of the object)
+כָּל | every, all
+גֵּיתֵיהוֹן | their livestock
+וְיָת | and (sign of the object)
+כָּל | every, all
+נִכְסֵיהוֹן | their wealth
+בְּזוֹ | they plundered
+@ 31:10.0
+וְיָת | and (sign of the object)
+כָּל | every, all
+קִרְוֵיהוֹן | their cities
+בְּמוֹתְבָנֵיהוֹן | in their dwellings
+@ 31:10.1
+וְיָת | and (sign of the object)
+כָּל | every, all
+בֵּית | the house of
+סִגְדַתְהוֹן | their worship
+@ 31:10.2
+אוֹקִידוּ | they burned
+בְּנוּרָא | in fire
+@ 31:11.0
+וּשְׁבוֹ | and they took captive
+יָת | (sign of the object)
+כָּל | every, all
+עֲדָאָה | the spoil
+@ 31:11.1
+וְיָת | and (sign of the object)
+כָּל | every, all
+דְּבַרְתָּא | the captives (lit. what was taken)
+@ 31:11.2
+בֶּאֱנָשָׁא | among men
+וּבִבְעִירָא | and the cattle
+@ 31:12.0
+וְאַיְתִיּוּ | and they brought
+לְוָת | to
+משֶׁה | Moshe
+וּלְוָת | and to
+אֶלְעָזָר | Elazar
+כַּהֲנָא | the priest
+וּלְוָת | and to
+כְּנִשְׁתָּא | the congregation
+דִבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+יָת | (sign of the object)
+שִׁבְיָא | captives
+וְיָת | and (sign of the object)
+דְּבַרְתָּא | the captives (lit. what was taken)
+וְיָת | and (sign of the object)
+עֲדָאָה | the spoil
+לְמַשְׁרִיתָא | at the camp
+@ 31:12.1
+לְמֵישְׁרַיָּא | to the plains
+דְמוֹאָב | of Moav
+@ 31:12.2
+דִּי | that, which
+עַל | on, over
+יַרְדְּנָא | the Yarden
+דִירֵחוֹ | of Yericho
+@ 31:13.0
+וּנְפָקוּ | and they went out
+משֶׁה | Moshe
+וְאֶלְעָזָר | and Elazar
+כַּהֲנָא | the priest
+וְכָל | and all
+רַבְרְבֵי | the nobles of (lit. great ones of)
+כְנִשְׁתָּא | the congregation
+@ 31:13.1
+לָקֳדָמוּתְהוֹן | against them (lit. to meet them)
+לְמִבָּרָא | outside (lit. to outside)
+לְמַשְׁרִיתָא | at the camp
+@ 31:14.0
+וּרְגֵיז | and was angry
+משֶׁה | Moshe
+@ 31:14.1
+עַל | on, over
+דִּמְמַנָּן | that are appointed
+עַל | on, over
+חֵילָא | the power
+@ 31:14.2
+רַבָּנֵי | chiefs over
+אַלְפִין | thousands
+וְרַבָּנֵי | and chiefs over
+מָאֲוָתָא | hundreds
+@ 31:14.3
+דַּאֲתוֹ | that came
+מֵחֵיל | from the host of
+קְרָבָא | battle, war
+@ 31:15.0
+וַאֲמַר | and he said
+לְהוֹן | to them
+משֶׁה | Moshe
+@ 31:15.1
+הֲקַיֵּמְתּוּן | have you kept alive
+כָּל | every, all
+נוּקְבָּא | female
+@ 31:16.0
+הָא | behold
+אִנּוּן | were they
+הֲוָאָה | they were
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+בַּעֲצַת | by the counsel of
+בִּלְעָם | Bilam
+@ 31:16.1
+לְשַׁקָּרָא | to deal falsely
+שְׁקָר | false (lit. of falsehood)
+קֳדָם | before
+יְיָ | Hashem
+עַל | on, over
+עֵסַק | the matter of
+פְּעוֹר | Peor
+@ 31:16.2
+וַהֲוַת | and was
+מוֹתָנָא | pestilence
+בִּכְנִשְׁתָּא | in the congregation
+דַיְיָ | of Hashem
+@ 31:17.0
+וּכְעַן | and now
+קְטוּלוּ | kill
+כָל | all of
+דְּכוּרָא | male
+בְּטַפְלָא | in the children
+@ 31:17.1
+וְכָל | and all
+אִתְּתָא | the woman
+דִּידַעַת | who has known
+גְּבַר | a man
+לְמִשְׁכְּבֵי | to the bed of
+דְכוּרָא | male
+קְטוּלוּ | kill
+@ 31:18.0
+וְכֹל | and all, every
+טַפְלָא | the children
+בִנְשַׁיָּא | in the women
+@ 31:18.1
+דִּי | that, which
+לָא | not
+יְדָעָא | they have known
+מִשְׁכְּבֵי | the bed of
+דְכוּרָא | male
+@ 31:18.2
+קַיְּימוּ | keep alive
+לְכוֹן | to you, for you
+@ 31:19.0
+וְאַתּוּן | and you
+שְׁרוֹ | encamp
+מִבָּרָא | from the field (lit. the outside)
+לְמַשְׁרִיתָא | at the camp
+שַׁבְעָא | seven
+יוֹמִין | days
+@ 31:19.1
+כֹּל | all, every
+דִּי | that, which
+קְטַל | killed
+נַפְשָׁא | creature (lit. “soul”)
+וְכֹל | and all, every
+דִּי | that, which
+קְרַב | come near!
+בְּקָטִילָא | the slain
+תַּדּוּן | you shall sprinkle
+עֲלוֹהִי | for him (lit. upon him)
+בְּיוֹמָא | on the day
+תְלִיתָאָה | the third
+וּבְיוֹמָא | and in day
+שְׁבִיעָאָה | the seventh
+@ 31:19.2
+אַתּוּן | are you
+וּשְׁבִיכוֹן | and your captives
+@ 31:20.0
+וְכָל | and all
+לְבוּשׁ | a garment
+וְכָל | and all
+מַאן | an article of
+דִּמְשַׁךְ | of the skin of
+וְכָל | and all
+עוֹבַד | the work of
+מְעַזֵּי | goats' hair
+וְכָל | and all
+מַאן | an article of
+דְּעָא | of wood
+@ 31:20.1
+תַּדּוּן | you shall sprinkle
+עֲלוֹהִי | for him (lit. upon him)
+@ 31:21.0
+וַאֲמַר | and he said
+אֶלְעָזָר | Elazar
+כַּהֲנָא | the priest
+לְגַבְרֵי | to men of
+חֵילָא | the power
+@ 31:21.1
+דַּאֲתוֹ | that came
+לִקְרָבָא | to battle, war
+@ 31:21.2
+דָּא | this
+גְּזֵרַת | the decrees of
+אוֹרַיְתָא | the Torah
+@ 31:21.3
+דִּי | that, which
+פַקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 31:22.0
+בְּרַם | but, only
+יָת | (sign of the object)
+דַּהֲבָא | gold
+וְיָת | and (sign of the object)
+כַּסְפָּא | money
+@ 31:22.1
+יָת | (sign of the object)
+נְחָשָׁא | copper
+יָת | (sign of the object)
+פַּרְזְלָא | the iron
+@ 31:22.2
+יָת | (sign of the object)
+אֲבָצָא | the tin
+וְיָת | and (sign of the object)
+אֲבָרָא | the lead
+@ 31:23.0
+כָּל | every, all
+מִדַּעַם | anything
+דְּמִתַּעַל | that is put (lit. brought in)
+בְּנוּרָא | in fire
+תַּעַבְרוּנֵּיהּ | you shall pass it
+בְּנוּרָא | in fire
+וְיִדְכֵּי | and it becomes pure
+@ 31:23.1
+בְּרַם | but, only
+בְּמֵי | in the waters of
+אַדָּיוּתָא | sprinkling
+יִתַּדֵּי | it shall be sprinkled
+@ 31:23.2
+וְכֹל | and all, every
+דִּי | that, which
+לָא | not
+מִתַּעַל | is put (lit. brought in)
+בְּנוּרָא | in fire
+תַּעַבְרֻנֵּיהּ | you shall pass it
+בְּמַיָּא | in the water
+@ 31:24.0
+וּתְחַוְּרוּן | and you shall whiten
+לְבוּשֵׁיכוֹן | your garments
+בְּיוֹמָא | on the day
+שְׁבִיעָאָה | the seventh
+וְתִדְכּוּן | and you shall be pure
+@ 31:24.1
+וּבָתַר כֵּן | and afterwards
+תֵּעֲלוּן | you come
+לְמַשְׁרִיתָא | at the camp
+@ 31:25.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לְמשֶׁה | to Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 31:26.0
+קַבֵּל | accept
+יָת | (sign of the object)
+חוּשְׁבַּן | the count of
+דַּבְרַת | the captives of
+שַׁבְיָא | the captives
+@ 31:26.1
+בֶּאֱנָשָׁא | among men
+וּבִבְעִירָא | and the cattle
+@ 31:26.2
+אַתְּ | are you
+וְאֶלְעָזָר | and Elazar
+כַּהֲנָא | the priest
+@ 31:26.3
+וְרֵישֵׁי | and heads of
+אֲבָהַת | the fathers of
+כְּנִשְׁתָּא | the congregation
+@ 31:27.0
+וּתְפַלֵּג | and you shall divide
+יָת | (sign of the object)
+דְּבַרְתָּא | the captives (lit. what was taken)
+@ 31:27.1
+בֵּין | between
+גַּבְרֵי | men of
+מְגִיחֵי | who wage
+קְרָבָא | battle, war
+@ 31:27.2
+דִּנְפָקוּ | that they went out
+לְחֵילָא | to the power
+@ 31:27.3
+וּבֵין | and between
+כָּל | every, all
+כְּנִשְׁתָּא | the congregation
+@ 31:28.0
+וְתַפְרֵשׁ | and you shall set apart
+נְסִיבָא | taken
+קֳדָם | before
+יְיָ | Hashem
+מִן | from
+גַּבְרֵי | men of
+מְגִיחֵי | who wage
+קְרָבָא | battle, war
+דִּנְפָקוּ | that they went out
+לְחֵילָא | to the power
+@ 31:28.1
+חַד | one
+נַפְשָׁא | creature (lit. “soul”)
+@ 31:28.2
+מֵחֲמֵשׁ | from five
+מְאָה | a hundred
+@ 31:28.3
+מִן | from
+אֱנָשָׁא | mankind
+וּמִן | and from
+תּוֹרֵי | of cattle
+@ 31:28.4
+וּמִן | and from
+חֲמָרֵי | donkeys
+וּמִן | and from
+עָנָא | sheep, flock
+@ 31:29.0
+מִפַּלְגּוּתְהוֹן | from their half
+תִּסְּבוּן | you will take
+@ 31:29.1
+וְתִתֵּן | and you shall give
+לְאֶלְעָזָר | to Elazar
+כַּהֲנָא | the priest
+אַפְרָשׁוּתָא | the offering (lit. what is set apart)
+קֳדָם | before
+יְיָ | Hashem
+@ 31:30.0
+וּמִפַּלְגּוּת | and from half of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+תִּסַּב | you shall take
+חַד | one
+דְּאִתַּחַד | that is taken
+מִן | from
+חַמְשִׁין | fifty
+מִן | from
+אֱנָשָׁא | mankind
+מִן | from
+תּוֹרֵי | of cattle
+מִן | from
+חֲמָרֵי | donkeys
+וּמִן | and from
+עָנָא | sheep, flock
+מִכָּל | from all
+בְּעִירָא | the cattle
+@ 31:30.1
+וְתִתֵּן | and you shall give
+יָתְהוֹן | them
+לְלֵוָאֵי | to the Levite
+@ 31:30.2
+נָטְרֵי | keepers of
+מַטְּרַת | the charge of
+מַשְׁכְּנָא | the tent
+דַיְיָ | of Hashem
+@ 31:31.0
+וַעֲבַד | and he made
+משֶׁה | Moshe
+וְאֶלְעָזָר | and Elazar
+כַּהֲנָא | the priest
+@ 31:31.1
+כְּמָא דִי | as
+פַּקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 31:32.0
+וַהֲוָה | and it was
+דְּבַרְתָּא | the captives (lit. what was taken)
+@ 31:32.1
+שְׁאָר | the remnant of
+בִּזָּא | the spoil
+@ 31:32.2
+דִּי | that, which
+בְזוֹ | they plundered
+עַמָּא | a people
+דִי | that, which
+נְפָקוּ | they went out
+לְחֵילָא | to the power
+@ 31:32.3
+עָנָא | sheep, flock
+שִׁית | six
+מְאָה | a hundred
+וְשַׁבְעִין | and seventy
+וְחַמְשָׁא | and five
+אַלְפִין | thousands
+@ 31:33.0
+וְתוֹרֵי | and of cattle
+שַׁבְעִין | seventy
+וּתְרֵין | and two
+אַלְפִין | thousands
+@ 31:34.0
+וַחֲמָרֵי | and donkeys
+שִׁתִּין | sixty
+וְחַד | and one
+אַלְפִין | thousands
+@ 31:35.0
+וְנַפְשָׁא | and creature (lit. “soul”)
+דֶאֱנָשָׁא | of mankind
+@ 31:35.1
+מִן | from
+נְשַׁיָּא | the women
+דִּי | that, which
+לָא | not
+יְדָעָא | they have known
+מִשְׁכְּבֵי | the bed of
+דְכוּרָא | male
+@ 31:35.2
+כָּל | every, all
+נַפְשָׁתָא | the souls
+תְּלָתִין | thirty
+וּתְרֵין | and two
+אַלְפִין | thousands
+@ 31:36.0
+וַהֲוַת | and was
+פַּלְגּוּתָא | the half
+@ 31:36.1
+חוּלַק | a portion
+גֻּבְרַיָּא | the men
+דִּי | that, which
+נְפָקוּ | they went out
+לְחֵילָא | to the power
+@ 31:36.2
+מִנְיַן | the number of
+עָנָא | sheep, flock
+תְּלַת | three
+מְאָה | a hundred
+וּתְלָתִין | and thirty
+וּשְׁבַע | and seven
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 31:37.0
+וַהֲוָה | and it was
+נְסִיבָא | taken
+קֳדָם | before
+יְיָ | Hashem
+מִן | from
+עָנָא | sheep, flock
+@ 31:37.1
+שִׁית | six
+מְאָה | a hundred
+שַׁבְעִין | seventy
+וְחָמֵשׁ | and five
+@ 31:38.0
+וְתוֹרֵי | and of cattle
+תְּלָתִין | thirty
+וְשִׁתָּא | and six
+אַלְפִין | thousands
+@ 31:38.1
+וּנְסִיבְהוֹן | and their portion (lit. what was taken of them)
+קֳדָם | before
+יְיָ | Hashem
+שַׁבְעִין | seventy
+וּתְרֵין | and two
+@ 31:39.0
+וַחֲמָרֵי | and donkeys
+תְּלָתִין | thirty
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 31:39.1
+וּנְסִיבְהוֹן | and their portion (lit. what was taken of them)
+קֳדָם | before
+יְיָ | Hashem
+שִׁתִּין | sixty
+וְחָד | and one
+@ 31:40.0
+וְנַפְשָׁא | and creature (lit. “soul”)
+דֶאֱנָשָׁא | of mankind
+שִׁתָּא | six
+עֲשַׂר | ten
+אַלְפִין | thousands
+@ 31:40.1
+וּנְסִיבְהוֹן | and their portion (lit. what was taken of them)
+קֳדָם | before
+יְיָ | Hashem
+תְּלָתִין | thirty
+וּתְרֵין | and two
+נַפְשִׁין | persons
+@ 31:41.0
+וִיהַב | and he set
+משֶׁה | Moshe
+יָת | (sign of the object)
+נְסִיב | has taken
+אַפְרָשׁוּתָא | the offering (lit. what is set apart)
+קֳדָם | before
+יְיָ | Hashem
+@ 31:41.1
+לְאֶלְעָזָר | to Elazar
+כַּהֲנָא | the priest
+@ 31:41.2
+כְּמָא דִי | as
+פַּקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 31:42.0
+וּמִפַּלְגּוּת | and from half of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 31:42.1
+דִּי | that, which
+פְּלַג | the half of
+משֶׁה | Moshe
+@ 31:42.2
+מִן | from
+גַּבְרַיָּא | the men
+דִּי | that, which
+נְפָקוּ | they went out
+לְחֵילָא | to the power
+@ 31:43.0
+וַהֲוַת | and was
+פַּלְגּוּת | half of
+כְּנִשְׁתָּא | the congregation
+מִן | from
+עָנָא | sheep, flock
+@ 31:43.1
+תְּלַת | three
+מְאָה | a hundred
+וּתְלָתִין | and thirty
+וְשַׁבְעָא | and seven
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 31:44.0
+וְתוֹרֵי | and of cattle
+תְּלָתִין | thirty
+וְשִׁתָּא | and six
+אַלְפִין | thousands
+@ 31:45.0
+וַחֲמָרֵי | and donkeys
+תְּלָתִין | thirty
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 31:46.0
+וְנַפְשָׁא | and creature (lit. “soul”)
+דֶאֱנָשָׁא | of mankind
+שִׁתָּא | six
+עֲשַׂר | ten
+אַלְפִין | thousands
+@ 31:47.0
+וּנְסִיב | and he took
+משֶׁה | Moshe
+מִפַּלְגּוּת | from half of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+יָת | (sign of the object)
+דְּאִתַּחַד | that is taken
+חַד | one
+מִן | from
+חַמְשִׁין | fifty
+@ 31:47.1
+מִן | from
+אֱנָשָׁא | mankind
+וּמִן | and from
+בְּעִירָא | the cattle
+@ 31:47.2
+וִיהַב | and he set
+יָתְהוֹן | them
+לְלֵוָאֵי | to the Levite
+נָטְרֵי | keepers of
+מַטְּרַת | the charge of
+מַשְׁכְּנָא | the tent
+דַיְיָ | of Hashem
+@ 31:47.3
+כְּמָא דִי | as
+פַּקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 31:48.0
+וְקָרִיבוּ | and they offered (lit. brought near)
+לְוָת | to
+משֶׁה | Moshe
+@ 31:48.1
+דִּי | that, which
+מְמַנַּן | who were appointed
+עַל | on, over
+אַלְפֵי | the thousands of
+חֵילָא | the power
+@ 31:48.2
+רַבָּנֵי | chiefs over
+אַלְפִין | thousands
+וְרַבָּנֵי | and chiefs over
+מָאֲוָתָא | hundreds
+@ 31:49.0
+וַאֲמָרוּ | and they said
+לְמשֶׁה | to Moshe
+@ 31:49.1
+עַבְדָּיךְ | your servants
+קַבִּילוּ | they have taken
+יָת | (sign of the object)
+חֻשְׁבַּן | the count (lit. reckoning) of
+גַּבְרֵי | men of
+מְגִיחֵי | who wage
+קְרָבָא | battle, war
+דִּי | that, which
+עִמָּנָא | with us
+@ 31:49.2
+וְלָא | and not
+שְׁגָא | is missing
+מִנָּנָא | us
+אֱנָשׁ | a man
+@ 31:50.0
+וְקָרֶבְנָא | and we have brought
+יָת | (sign of the object)
+קוּרְבָּנָא | the offering
+דַיְיָ | of Hashem
+גְּבַר | a man
+דְּאַשְׁכַּח | that he found
+מַאן | an article of
+דִּדְהָב | of gold
+שִׁירִין | bracelets
+וְשִׁבְּכִין | and bracelets
+@ 31:50.1
+עִזְקָן | rings
+קַדָּשִׁין | earrings
+וּמָחוֹךְ | and a girdle
+@ 31:50.2
+לְכַפָּרָא | to atone
+עַל | on, over
+נַפְשָׁתָנָא | our souls
+קֳדָם | before
+יְיָ | Hashem
+@ 31:51.0
+וּנְסִיב | and he took
+משֶׁה | Moshe
+וְאֶלְעָזָר | and Elazar
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+דַּהֲבָא | gold
+מִנְּהוֹן | from them
+@ 31:51.1
+כָּל | every, all
+מַאן | an article of
+דְּעוֹבָדָא | of deed
+@ 31:52.0
+וַהֲוָה | and it was
+כָּל | every, all
+דְּהַב | gold
+אַפְרָשׁוּתָא | the offering (lit. what is set apart)
+דִּי | that, which
+אַפְרִישׁוּ | they set apart
+קֳדָם | before
+יְיָ | Hashem
+@ 31:52.1
+שִׁתָּא | six
+עֲשַׂר | ten
+אַלְפִין | thousands
+שְׁבַע | seven
+מְאָה | a hundred
+וְחַמְשִׁין | and fifty
+סִלְעִין | shekels
+@ 31:52.2
+מִן | from
+רַבָּנֵי | chiefs over
+אַלְפִין | thousands
+@ 31:52.3
+וּמִן | and from
+רַבָּנֵי | chiefs over
+מָאֲוָתָא | hundreds
+@ 31:53.0
+גַּבְרֵי | men of
+דְּחֵילָא | of the power
+@ 31:53.1
+בָּזוּ | they took spoil
+גְּבַר | a man
+לְנַפְשֵׁיהּ | to his soul
+@ 31:54.0
+וּנְסִיב | and he took
+משֶׁה | Moshe
+וְאֶלְעָזָר | and Elazar
+כַּהֲנָא | the priest
+יָת | (sign of the object)
+דַּהֲבָא | gold
+@ 31:54.1
+מִן | from
+רַבָּנֵי | chiefs over
+אַלְפִין | thousands
+וּמָאֲוָתָא | and hundreds
+@ 31:54.2
+וְאַיְתִיאוּ | and they brought
+יָתֵיהּ | him
+לְמַשְׁכַּן | to the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 31:54.3
+דָּכְרָנָא | remembrance
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+קֳדָם | before
+יְיָ | Hashem
+@ 32:1.0
+וּבְעִיר | and cattle
+סַגִּי | great
+הֲוָה | was
+לִבְנֵי | to the children of
+רְאוּבֵן | Reuven
+וְלִבְנֵי | and to the children of
+גָד | Gad
+תַּקִּיף | strong, mighty
+לַחֲדָא | very
+@ 32:1.1
+וַחֲזוֹ | and they saw
+יָת | (sign of the object)
+אֲרַע | the land of
+יַעְזֵר | Yazer
+וְיָת | and (sign of the object)
+אֲרַע | the land of
+גִּלְעָד | Gilad
+@ 32:1.2
+וְהָא | and behold
+אַתְרָא | the place
+אֲתַר | the place of
+כְּשַׁר | fit
+לְבֵית | to the house of
+בְּעִיר | cattle
+@ 32:2.0
+וַאֲתוֹ | and they came
+בְנֵי | the children of
+גָד | Gad
+וּבְנֵי | and the children of
+רְאוּבֵן | Reuven
+@ 32:2.1
+וַאֲמָרוּ | and they said
+לְמשֶׁה | to Moshe
+וּלְאֶלְעָזָר | and to Elazar
+כַּהֲנָא | the priest
+@ 32:2.2
+וּלְרַבְרְבֵי | and to the nobles of (lit. great ones of)
+כְּנִשְׁתָּא | the congregation
+לְמֵימָר | saying (lit. “to say”)
+@ 32:3.0
+מַכְלֶלְתָּא | Makhlelta
+וּמַלְבֶּשְׁתָּא | and Malbeshta
+וְכוּמְרִין | and Kumrin
+וּבֵית | and the house of
+נִמְרִין | Nimrin
+@ 32:3.1
+וּבֵית | and the house of
+חוּשְׁבָּנָא | Chushbena
+וּבַעֲלֵי | and Baalei
+דְבָבָא | Devava
+@ 32:3.2
+וְכִימָא | and Kima
+וְסִיעַת | and a group of
+בֵּית | the house of
+קְבֻרְתָּא | the grave
+דְמשֶׁה | of Moshe
+וּבְעוֹן | and Beon
+@ 32:4.0
+אַרְעָא | the earth, the land
+דִּי | that, which
+מְחָא | struck
+יְיָ | Hashem
+יָת | (sign of the object)
+יָתְבָהָא | its inhabitants
+קֳדָם | before
+כְּנִשְׁתָּא | the congregation
+דְיִשְׂרָאֵל | of Yisrael
+@ 32:4.1
+אֲרַע | the land of
+כָּשְׁרָא | fit
+לְבֵית | to the house of
+בְּעִיר | cattle
+הִיא | she
+@ 32:4.2
+וּלְעַבְדָּיךְ | and to your servants
+אִית | there are
+בְּעִיר | cattle
+@ 32:5.0
+וַאֲמָרוּ | and they said
+אִם | if
+אַשְׁכַחְנָא | we have found
+רַחֲמִין | favour (lit. mercy)
+בְּעֵינָיךְ | in your eyes
+@ 32:5.1
+תִּתְיְהִיב | let be given
+יָת | (sign of the object)
+אַרְעָא הָדָא | this earth, the land
+לְעַבְדָּיךְ | to your servants
+לְאַחֲסָנָא | to a possession
+@ 32:5.2
+לָא | not
+תְעַבְרִנָּנָא | make us cross
+יָת | (sign of the object)
+יַרְדְּנָא | the Yarden
+@ 32:6.0
+וַאֲמַר | and he said
+משֶׁה | Moshe
+@ 32:6.1
+לִבְנֵי | to the children of
+גָד | Gad
+וְלִבְנֵי | and to the children of
+רְאוּבֵן | Reuven
+@ 32:6.2
+הַאֲחֵיכוֹן | shall your brothers
+יֵעֲלוּן | they shall come in
+לִקְרָבָא | to battle, war
+@ 32:6.3
+וְאַתּוּן | and you
+תֵּיתְבוּן | you may dwell
+הָכָא | here
+@ 32:7.0
+וּלְמָא | and why
+תוֹנוּן | you shall wrong
+@ 32:7.1
+יָת | (sign of the object)
+לִבָּא | the heart
+דִבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+@ 32:7.2
+מִלְּמֶעְבַּר | from crossing
+לְאַרְעָא | to the earth, the land
+@ 32:7.3
+דִּיהַב | that gave, has given
+לְהוֹן | to them
+יְיָ | Hashem
+@ 32:8.0
+כְּדֵין | so
+עֲבָדוּ | they did, they made
+אֲבָהַתְכוֹן | your fathers
+@ 32:8.1
+כַּד | when
+שְׁלָחִית | I sent
+יָתְהוֹן | them
+מֵרְקַם | from Rekam
+גֵּיאָה | Gea
+לְמֶחֱזֵי | to look at
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+@ 32:9.0
+וּסְלִיקוּ | and they went up
+עַד | until
+נַחְלָא | the stream
+דְאִתְכָּלָא | of the cluster
+וַחֲזוֹ | and they saw
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+@ 32:9.1
+וְאוֹנִיאוּ | and they discouraged (lit. broke)
+יָת | (sign of the object)
+לִבָּא | the heart
+דִּבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+@ 32:9.2
+בְּדִיל | for the sake of
+דְּלָא | that not
+לְמֵעַל | to enter
+@ 32:9.3
+לְאַרְעָא | to the earth, the land
+דִּיהַב | that gave, has given
+לְהוֹן | to them
+יְיָ | Hashem
+@ 32:10.0
+וּתְקֵף | and it grew strong
+רוּגְזָא | the anger
+דַיְיָ | of Hashem
+בְּיוֹמָא הַהוּא | on that day
+@ 32:10.1
+וְקַיֵּים | and swore (lit. affirmed)
+לְמֵימָר | saying (lit. “to say”)
+@ 32:11.0
+אִם | if
+יֶחֱזוּן | they will see
+גֻּבְרַיָּא | the men
+דִּסְלִיקוּ | who went up
+מִמִּצְרַיִם | from Mitzrayim
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 32:11.1
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+דִּי | that, which
+קַיֵּמִית | I have sworn
+לְאַבְרָהָם | to Avraham
+לְיִצְחָק | to Yitzchak
+וּלְיַעֲקֹב | and to Yaakov
+@ 32:11.2
+אֲרֵי | that
+לָא | not
+אַשְׁלִימוּ | complete!
+בָּתַר | after
+דַּחַלְתִּי | my god (lit. what I revere)
+@ 32:12.0
+אֱלָהֵן | but rather
+כָּלֵב | Kalev
+בַּר | has (lit. “son of”)
+יְפֻנֶּה | Yefuneh
+קְנִזָּאָה | the Kenizzite
+@ 32:12.1
+וִיהוֹשֻׁעַ | and Yehoshua
+בַּר | has (lit. “son of”)
+נוּן | Nun
+@ 32:12.2
+אֲרֵי | that
+אַשְׁלִימוּ | complete!
+בָּתַר | after
+דַּחַלְתָּא | the fear of
+דַיְיָ | of Hashem
+@ 32:13.0
+וּתְקֵף | and it grew strong
+רוּגְזָא | the anger
+דַיְיָ | of Hashem
+בְּיִשְׂרָאֵל | in Yisrael
+@ 32:13.1
+וְטָרְדִנּוּן | and He made them wander (lit. drove them)
+בְּמַדְבְּרָא | in the wilderness
+@ 32:13.2
+אַרְבְּעִין | forty
+שְׁנִין | years
+@ 32:13.3
+עַד | until
+דְּסַף | until came to an end
+כָּל | every, all
+דָּרָא | the generation
+@ 32:13.4
+דַּעֲבִיד | that did
+דְּבִישׁ | that is evil
+קֳדָם | before
+יְיָ | Hashem
+@ 32:14.0
+וְהָא | and behold
+קַמְתּוּן | you have risen
+חֲלַף | in place of
+אֲבָהַתְכוֹן | your fathers
+@ 32:14.1
+תַּלְמִידֵי | students of
+גֻּבְרַיָּא | the men
+חַיָּבַיָא | the wicked (lit. guilty)
+@ 32:14.2
+לְאוֹסָפָא | to add
+עוֹד | again
+עַל | on, over
+תְּקוֹף | strength
+רוּגְזָא | the anger
+דַיְיָ | of Hashem
+לְיִשְׂרָאֵל | to Yisrael
+@ 32:15.0
+אֲרֵי | that
+תְתוּבוּן | you shall return
+מִבָּתַר | from after
+דַּחַלְתֵּיהּ | his idol (lit. object of fear)
+@ 32:15.1
+וְיוֹסֵף | and He will again
+עוֹד | again
+לְאַחֲרוּתְהוֹן | to leave them (lit. to delay them)
+בְּמַדְבְּרָא | in the wilderness
+@ 32:15.2
+וּתְחַבְּלוּן | and you will destroy
+לְכָל | to all of
+עַמָּא הָדֵין | this people
+@ 32:16.0
+וְקָרִיבוּ | and they offered (lit. brought near)
+לְוָתֵיהּ | to him
+וַאֲמָרוּ | and they said
+@ 32:16.1
+חַטְרִין | enclosures (lit. staffs) for
+דְּעָן | of sheep
+נִבְנֵי | let us build
+לִבְעִירָנָא | to our livestock
+הָכָא | here
+@ 32:16.2
+וְקִרְוִין | and cities
+לְטַפְלָנָא | to our small children
+@ 32:17.0
+וַאֲנַחְנָא | and we
+נִזְדָּרֵז | we will arm ourselves
+מַבְעִין | hurrying
+קֳדָם | before
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 32:17.1
+עַד | until
+דִּי | that, which
+נְעֵלִנּוּן | we bring them in
+לְאַתְרֵיהוֹן | according to their places
+@ 32:17.2
+וְיֵתְבוּן | and let them dwell
+טַפְלָנָא | our small children
+בְּקִרְוִין | in cities
+כְּרִיכִין | walled
+@ 32:17.3
+מִן קֳדָם | from before
+יָתְבֵי | the inhabitants of (lit. those dwelling in)
+אַרְעָא | the earth, the land
+@ 32:18.0
+לָא | not
+נְתוּב | let us return
+לְבֵיתָנָא | to our homes
+@ 32:18.1
+עַד | until
+דְּיַחְסְנוּן | that they shall inherit
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+גְּבַר | a man
+אַחֲסַנְתֵּיהּ | his possession
+@ 32:19.0
+אֲרֵי | that
+לָא | not
+נַחְסִין | we will inherit
+עִמְּהוֹן | with them
+@ 32:19.1
+מֵעִבְרָא | from across
+לְיַרְדְּנָא | to the Yarden
+וּלְהָלָא | and beyond
+@ 32:19.2
+אֲרֵי | that
+קַבֵּלְנָא | we listen
+אַחֲסַנְתָּנָא | our inheritance
+לָנָא | for us
+@ 32:19.3
+מֵעִבְרָא | from across
+לְיַרְדְּנָא | to the Yarden
+מַדִּינְחָא | the east
+@ 32:20.0
+וַאֲמַר | and he said
+לְהוֹן | to them
+משֶׁה | Moshe
+@ 32:20.1
+אִם | if
+תַּעְבְּדוּן | you shall do
+יָת | (sign of the object)
+פִּתְגָּמָא הָדֵין | this word
+@ 32:20.2
+אִם | if
+תִּזְדָּרְזוּן | you arm yourselves
+קֳדָם | before
+עַמָּא | a people
+דַיְיָ | of Hashem
+לִקְרָבָא | to battle, war
+@ 32:21.0
+וְיַעֲבֵּר | and shall pass
+לְכוֹן | to you, for you
+כָּל | every, all
+דִּמְזָרֵז | who is armed
+יָת | (sign of the object)
+יַרְדְּנָא | the Yarden
+קֳדָם | before
+עַמָּא | a people
+דַיְיָ | of Hashem
+@ 32:21.1
+עַד | until
+דִּיתָרֵךְ | until He drives out
+יָת | (sign of the object)
+בַּעֲלֵי | the masters of
+דְבָבוֹהִי | his enemies
+מִן | from
+קֳדָמוֹהִי | before Him
+@ 32:22.0
+וְתִתְכְּבֵשׁ | and is conquered
+אַרְעָא | the earth, the land
+קֳדָם | before
+עַמָּא | a people
+דַיְיָ | of Hashem
+וּבָתַר כֵּן | and afterwards
+תְּתוּבוּן | you shall return
+@ 32:22.1
+וּתְהוֹן | and you will be
+זַכָּאִין | righteous ones
+מִן קֳדָם | from before
+יְיָ | Hashem
+וּמִיִּשְׂרָאֵל | and from Yisrael
+@ 32:22.2
+וּתְהֵי | and shall be
+אַרְעָא הָדָא | this earth, the land
+לְכוֹן | to you, for you
+לְאַחֲסָנָא | to a possession
+קֳדָם | before
+יְיָ | Hashem
+@ 32:23.0
+וְאִם | and if
+לָא | not
+תַעַבְּדוּן | you shall do
+כֵּן | so
+@ 32:23.1
+הָא | behold
+חַבְתּוּן | you have sinned
+קֳדָם | before
+יְיָ | Hashem
+@ 32:23.2
+וְתִדְעוּן | and you shall know
+חוֹבַתְכוֹן | your sin
+@ 32:23.3
+דִּי | that, which
+תַשְׁכַּח | you find
+יָתְכוֹן | you
+@ 32:24.0
+בְּנוּ | build
+לְכוֹן | to you, for you
+קִרְוִין | cities
+לְטַפְלְכוֹן | for your small children
+@ 32:24.1
+וְחַטְרִין | and enclosures (lit. staffs) for
+לְעַנְכוֹן | to your flocks
+@ 32:24.2
+וּדְיִפּוֹק | and what comes out
+מִפּוּמְכוֹן | from your mouth
+תַּעַבְּדוּן | you shall offer (lit. make)
+@ 32:25.0
+וַאֲמָרוּ | and they said
+בְנֵי | the children of
+גָד | Gad
+וּבְנֵי | and the children of
+רְאוּבֵן | Reuven
+@ 32:25.1
+לְמשֶׁה | to Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 32:25.2
+עַבְדָּיךְ | your servants
+יַעְבְּדוּן | they shall make, they shall do
+@ 32:25.3
+כְּמָא דִּי | as
+רִבּוֹנִי | my master
+מְפַקֵּד | commanding
+@ 32:26.0
+טַפְלָנָא | our small children
+נְשָׁנָא | our wives
+@ 32:26.1
+גֵּיתָנָא | our flocks
+וְכָל | and all
+בְּעִירָנָא | our livestock
+@ 32:26.2
+יְהוֹן | they will be
+תַּמָּן | there
+בְּקִרְוֵי | in the cities of
+גִלְעָד | Gilad
+@ 32:27.0
+וְעַבְדָּיךְ | and your servants
+יַעְבְּרוּן | they transgress
+כָּל | every, all
+דִמְזָרֵז | who is armed
+חֵילָא | the power
+קֳדָם | before
+עַמָּא | a people
+דַיְיָ | of Hashem
+לִקְרָבָא | to battle, war
+@ 32:27.1
+כְּמָא דִי | as
+רִבּוֹנִי | my master
+מְמַלֵּל | speaking
+@ 32:28.0
+וּפַקִּיד | and he commanded
+לְהוֹן | to them
+משֶׁה | Moshe
+@ 32:28.1
+יָת | (sign of the object)
+אֶלְעָזָר | Elazar
+כַּהֲנָא | the priest
+@ 32:28.2
+וְיָת | and (sign of the object)
+יְהוֹשֻׁעַ | Yehoshua
+בַּר | has (lit. “son of”)
+נוּן | Nun
+@ 32:28.3
+וְיָת | and (sign of the object)
+רֵישֵׁי | heads of
+אֲבָהַת | the fathers of
+שִׁבְטַיָּא | the tribes
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+@ 32:29.0
+וַאֲמַר | and he said
+משֶׁה | Moshe
+לְהוֹן | to them
+אִם | if
+יַעְבְּרוּן | they transgress
+בְּנֵי | the children of
+גָד | Gad
+וּבְנֵי | and the children of
+רְאוּבֵן | Reuven
+עִמְּכוֹן | with you
+יָת | (sign of the object)
+יַרְדְּנָא | the Yarden
+כָּל | every, all
+דִּמְזָרַז | who is armed
+לִקְרָבָא | to battle, war
+קֳדָם | before
+עַמָּא | a people
+דַיְיָ | of Hashem
+@ 32:29.1
+וְתִתְכְּבֵשׁ | and is conquered
+אַרְעָא | the earth, the land
+קֳדָמֵיכוֹן | before you
+@ 32:29.2
+וְתִתְּנוּן | and you will give
+לְהוֹן | to them
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+דְגִלְעָד | of Gilad
+לְאַחֲסָנָא | to a possession
+@ 32:30.0
+וְאִם | and if
+לָא | not
+יַעְבְּרוּן | they transgress
+מְזָרְזִין | armed
+עִמְּכוֹן | with you
+@ 32:30.1
+וְיַחְסְנוּן | and they shall inherit
+בֵּינֵיכוֹן | among you
+בְּאַרְעָא | in
+דִכְנָעַן | of Kenaan
+@ 32:31.0
+וַאֲתִיבוּ | and they answered
+בְנֵי | the children of
+גָד | Gad
+וּבְנֵי | and the children of
+רְאוּבֵן | Reuven
+לְמֵימָר | saying (lit. “to say”)
+@ 32:31.1
+יָת | (sign of the object)
+דִּי | that, which
+מַלִּיל | he had spoken
+יְיָ | Hashem
+לְעַבְדָּיךְ | to your servants
+כֵּן | so
+נַעְבֵּד | we will do
+@ 32:32.0
+נַחְנָא | we
+נְעִבַר | we will pass
+מְזָרְזִין | armed
+קֳדָם | before
+עַמָּא | a people
+דַיְיָ | of Hashem
+לְאַרְעָא | to the earth, the land
+דִכְנָעַן | of Kenaan
+@ 32:32.1
+וְעִמָּנָא | and with us
+אֲחוּדַת | a possession of
+אַחֲסַנְתָּנָא | our inheritance
+@ 32:32.2
+מֵעִבְרָא | from across
+לְיַרְדְּנָא | to the Yarden
+@ 32:33.0
+וִיהַב | and he set
+לְהוֹן | to them
+משֶׁה | Moshe
+לִבְנֵי | to the children of
+גָד | Gad
+וְלִבְנֵי | and to the children of
+רְאוּבֵן | Reuven
+וּלְפַלְגּוּת | and to half of
+שִׁבְטָא | the tribe of
+דִּמְנַשֶּׁה | of Menashe
+בַר | has (lit. “son of”)
+יוֹסֵף | Yosef
+יָת | (sign of the object)
+מַלְכְּוַת | the kingdom of
+סִיחוֹן | Sichon
+מַלְכָּא | the king of
+דֶאֱמוֹרָאָה | of the Emorite
+@ 32:33.1
+וְיָת | and (sign of the object)
+מַלְכְּוַת | the kingdom of
+עוֹג | Og
+מַלְכָּא | the king of
+דְמַתְנָן | of Matnan
+@ 32:33.2
+אַרְעָא | the earth, the land
+לְקִרְוָהָא | to its cities
+בִּתְחוּמִין | in their borders
+@ 32:33.3
+קִרְוֵי | the cities of
+אַרְעָא | the earth, the land
+סְחוֹר | around
+סְחוֹר | around
+@ 32:34.0
+וּבְנוֹ | and they built
+בְנֵי | the children of
+גָד | Gad
+@ 32:34.1
+יָת | (sign of the object)
+דִּיבוֹן | Divon
+וְיָת | and (sign of the object)
+עֲטָרוֹת | Atarot
+@ 32:34.2
+וְיָת | and (sign of the object)
+עֲרֹעֵר | Aroer
+@ 32:35.0
+וְיָת | and (sign of the object)
+עַטְרוֹת | Atrot
+שׁוֹפָן | Shofan
+וְיָת | and (sign of the object)
+יַעְזֵר | Yazer
+וְרָמָתָא | and the hill
+@ 32:36.0
+וְיָת | and (sign of the object)
+בֵּית | the house of
+נִמְרָה | Nimrah
+וְיָת | and (sign of the object)
+בֵּית | the house of
+הָרָן | Haran
+@ 32:36.1
+קִרְוִין | cities
+כְּרִיכָן | walled
+וְחַטְרִין | and enclosures (lit. staffs) for
+דְּעָן | of sheep
+@ 32:37.0
+וּבְנֵי | and the children of
+רְאוּבֵן | Reuven
+בְּנוֹ | they built
+@ 32:37.1
+יָת | (sign of the object)
+חֶשׁבּוֹן | Cheshbon
+וְיָת | and (sign of the object)
+אֶלְעָלֵא | Elale
+@ 32:37.2
+וְיָת | and (sign of the object)
+קִרְיָתָיִם | Kiryatayim
+@ 32:38.0
+וְיָת | and (sign of the object)
+נְבוֹ | Nevo
+וְיָת | and (sign of the object)
+בַּעַל | Ba‘al
+מְעוֹן | Meon
+מַקְּפַן | surrounded
+שְׁמָהָן | names
+וְיָת | and (sign of the object)
+שִׂבְמָה | Sivmah
+@ 32:38.1
+וּקְרוֹ | and they called
+בִשְׁמָהָן | in names
+@ 32:38.2
+יָת | (sign of the object)
+שְׁמָהַת | the names of
+קִרְוַיָּא | the cities
+דִּי | that, which
+בְנוֹ | they built
+@ 32:39.0
+וַאֲזָלוּ | and they went
+בְּנֵי | the children of
+מָכִיר | Makhir
+בַּר | has (lit. “son of”)
+מְנַשֶּׁה | Menashe
+לְגִלְעָד | to Gilad
+וְכִבְשׁוּהָ | and they conquered it
+@ 32:39.1
+וְתָרִיךְ | and he drove them out
+יָת | (sign of the object)
+אֱמוֹרָאָה | the Emorite
+דִי | that, which
+בַהּ | in it
+@ 32:40.0
+וִיהַב | and he set
+משֶׁה | Moshe
+יָת | (sign of the object)
+גִּלְעָד | Gilad
+@ 32:40.1
+לְמָכִיר | to Makhir
+בַּר | has (lit. “son of”)
+מְנַשֶּׁה | Menashe
+@ 32:40.2
+וִיתֵב | and he dwelt
+בַּהּ | in it
+@ 32:41.0
+וְיָאִיר | and Yair
+בַּר | has (lit. “son of”)
+מְנַשֶּׁה | Menashe
+אֲזַל | went
+@ 32:41.1
+וּכְבַשׁ | and conquered
+יָת | (sign of the object)
+כַּפְרָנֵיהוֹן | their villages
+@ 32:41.2
+וּקְרָא | and he called
+יָתְהֶן | them
+כַּפְרָנֵי | the villages of
+יָאִיר | Yair
+@ 32:42.0
+וְנֹבַח | and Novach
+אֲזַל | went
+@ 32:42.1
+וּכְבַשׁ | and conquered
+יָת | (sign of the object)
+קְנַת | Kenat
+וְיָת | and (sign of the object)
+כַּפְרָנָהָא | its villages
+@ 32:42.2
+וּקְרָא | and he called
+לַהּ | to her
+נֹבַח | Novach
+בִּשְׁמֵיהּ | in his name

@@ -1,7 +1,7 @@
 """make_fetch3.py : list every Jastrow entry the site uses (jastrow/entries-in-use.tsv) and write
 jastrow/fetch_jastrow3.py, which downloads Sefaria's current text for the ones we only have from the 2018 copy."""
 import json, glob, re, os
-SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
+SP = '/home/claude/work/'
 F = json.load(open(SP + 'jastrow/jastrow-2018.json', encoding='utf8'))
 API = {}
 for f in ['jastrow-all.json', 'jastrow-extra.json', 'jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json', 'jastrow-pages.json']:

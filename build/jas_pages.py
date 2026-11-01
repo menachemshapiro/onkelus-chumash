@@ -2,7 +2,7 @@
 into the same shape as the word-search entries, and add them to jastrow/jastrow-pages.json.
 Usage: python3 build/jas_pages.py FILE.json   (FILE: {"pages": {rid: {"name", "text"}}} or the pages-5/6 format)"""
 import json, re, sys
-SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
+SP = '/home/claude/work/'
 def convert(rid, t):
     t = ' '.join(t) if isinstance(t, list) else t
     m = re.match(r'\s*<strong[^>]*>(.*?)</strong>', t)

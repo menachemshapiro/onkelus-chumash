@@ -406,7 +406,7 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
   <div class="rep-act"><button type="button" id="rep-na-ok" class="pri">OK</button></div>
 </div></div>
 <div class="rep-pop help-pop" id="help" hidden dir="ltr" lang="en"><div class="rep-card help-card" role="dialog" aria-modal="true" aria-labelledby="help-t">
-  <div class="rep-h"><b id="help-t">How to use this page</b><button type="button" id="help-x" class="help-x" aria-label="Close">×</button></div>
+  <div class="rep-h"><b id="help-t">How to use this page <small style="font-weight:400;opacity:.6">· v30 Oct b</small></b><button type="button" id="help-x" class="help-x" aria-label="Close">×</button></div>
   <div class="help-body">
     <p>Each pasuk is split into short clauses. Each clause shows the Hebrew, Targum Onkelos and the English side by side (stacked on a phone), so you can see which Aramaic words translate which Hebrew words. Rashi follows each pasuk.</p>
     <h3>Getting around</h3>
@@ -618,7 +618,9 @@ async function fillWbd(det){
   const el = v.el && v.el[j];
   if (el) {   // exact English for each word or group of words read together; the English used in the translation in parentheses when different
     const nrm = s => s.toLowerCase().replace(/<[^>]+>/g, "").replace(/[^a-z' ]+/g, " ").split(/\s+/).filter(w => w && !["the", "a", "an", "and"].includes(w)).join(" ");
-    const rows = el.map(([w, ex, used]) => `<tr><td class="a">${escH(w)}</td><td>${escH(ex)}${used === null ? "" : !used ? ' <span class="nt">(not in the translation)</span>' : nrm(used).split(" ").every(w => nrm(ex).split(" ").includes(w)) ? "" : ` <span class="wu">(${escH(used)})</span>`}</td></tr>`).join("")
+    const ws = a ? a.map.flatMap(([w]) => w.split(" ")) : v.t[j].replace(/<[^>]+>|\([^)]*\)|[:׃,.;]/g, " ").split(/\s+/).filter(Boolean);
+    let k = 0;
+    const rows = el.map(([n, ex, used = null]) => { const w = ws.slice(k, k += n).join(" "); return `<tr><td class="a">${escH(w)}</td><td>${escH(ex)}${used === null ? "" : !used ? ' <span class="nt">(not in the translation)</span>' : nrm(used).split(" ").every(w => nrm(ex).split(" ").includes(w)) ? "" : ` <span class="wu">(${escH(used)})</span>`}</td></tr>`; }).join("")
       + (a ? a.plus : []).map(p => `<tr class="plus"><td class="a">—</td><td><span class="wu">(${escH(p)})</span> <span class="nt">English only</span></td></tr>`).join("");
     body.innerHTML = `<div class="tw-wrap"><table><thead><tr><th>Targum</th><th>Exact meaning${a ? ' <span class="nt">(as translated)</span>' : ""}</th></tr></thead><tbody>${rows}</tbody></table></div>`;
     body.dataset.done = 1; return;
@@ -1129,7 +1131,8 @@ async function markJas(card){
 }
 glCard.addEventListener("click", ev => {
   const jb = ev.target.closest(".gl-jas");
-  if (jb) { jIndex().then(idx => { const m = idx[jb.dataset.l]; if (m) showJas(m[0], m[1], m[2], m[3], glOn ? VERSES[+glOn.closest(".verse").dataset.i] : null, m[4]); }); return; }
+  if (jb) { const v = glOn ? VERSES[+glOn.closest(".verse").dataset.i] : null; closeGloss();
+    jIndex().then(idx => { const m = idx[jb.dataset.l]; if (m) showJas(m[0], m[1], m[2], m[3], v, m[4]); }); return; }
   if (ev.target.closest(".gl-x")) closeGloss();
   else if (ev.target.closest(".gl-rep") && glOn) {
     const sec = glOn.closest(".verse"), w = glOn.textContent; closeGloss();
@@ -1137,6 +1140,17 @@ glCard.addEventListener("click", ev => {
   }
 });
 addEventListener("keydown", ev => { if (ev.key === "Escape" && !glPop.hidden) closeGloss(); });
+// a click anywhere outside the word card closes it (clicking another word still switches to that word)
+// (pointer events, not click: iPhone Safari doesn't send click for taps on plain text; a drag/scroll doesn't count as a tap)
+let glTap = null;
+document.addEventListener("pointerdown", ev => { glTap = { x: ev.clientX, y: ev.clientY }; }, true);
+document.addEventListener("pointerup", ev => {
+  const t = glTap; glTap = null;
+  if (!t || glPop.hidden || Math.hypot(ev.clientX - t.x, ev.clientY - t.y) > 10) return;
+  const el = ev.target instanceof Element ? ev.target : ev.target.parentElement;
+  if (el && !glCard.contains(el) && !el.closest(".tw")) closeGloss();
+}, true);
+document.addEventListener("pointercancel", () => { glTap = null; }, true);
 document.getElementById("text").addEventListener("keydown", ev => { if ((ev.key === "Enter" || ev.key === " ") && ev.target.classList.contains("tw")) { ev.preventDefault(); showGloss(ev.target); } });
 document.getElementById("text").addEventListener("click", ev => {
   const tw = ev.target.closest(".tw"); if (tw) { if (tw === glOn) closeGloss(); else showGloss(tw); return; }

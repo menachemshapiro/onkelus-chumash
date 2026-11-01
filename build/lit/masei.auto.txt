@@ -1,0 +1,1844 @@
+# Draft made by lit_auto.py from the glossary. Do not edit: put corrections in masei.txt (it wins clause by clause).
+@ 33:1.0
+אִלֵּין | these
+מַטְּלָנֵי | the journeys of
+בְנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+דִּי | that, which
+נְפָקוּ | they went out
+מֵאַרְעָא | from the earth, the land
+דְמִצְרַיִם | of Mitzrayim
+לְחֵילֵיהוֹן | to their hosts
+@ 33:1.1
+בִּידָא | into the hand
+דְמשֶׁה | of Moshe
+וְאַהֲרֹן | and Aharon
+@ 33:2.0
+וּכְתַב | and wrote
+משֶׁה | Moshe
+יָת | (sign of the object)
+מַפְּקָנֵיהוֹן | their goings out
+לְמַטְּלָנֵיהוֹן | by their journeys
+עַל | on, over
+מֵימְרָא | the Word of
+דַיְיָ | of Hashem
+@ 33:2.1
+וְאִלֵּין | and these
+מַטְּלָנֵיהוֹן | their journeys
+לְמַפְּקָנֵיהוֹן | by their goings out
+@ 33:3.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מְרַעְמְסֵס | from Ra‘meses
+בְּיַרְחָא | in the month
+קַדְמָאָה | the first
+@ 33:3.1
+בְּחַמְשָׁא | in five
+עַשְׂרָא | ten
+יוֹמָא | day
+לְיַרְחָא | of the month
+קַדְמָאָה | the first
+@ 33:3.2
+מִבָּתַר | from after
+יוֹמָא | day
+דְפִּסְחָא | of a Pesach offering
+נְפָקוּ | they went out
+בְנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+בְּרֵישׁ | at the head of
+גְּלֵי | it is revealed
+@ 33:3.3
+לְעֵינֵי | to the eyes of
+כָּל | every, all
+מִצְרָאֵי | the Egyptians
+@ 33:4.0
+וּמִצְרָאֵי | and the Egyptians
+מְקַבְּרִין | burying
+יָת | (sign of the object)
+דִּי | that, which
+קְטַל | killed
+יְיָ | Hashem
+בְּהוֹן | by them
+כָּל | every, all
+בּוּכְרָא | the firstborn
+@ 33:4.1
+וּבְטַעֲוַתְהוֹן | and in their idols
+עֲבַד | he made
+יְיָ | Hashem
+דִּינִין | judgments
+@ 33:5.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+בְנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+מֵרַעְמְסֵס | from Ra‘meses
+@ 33:5.1
+וּשְׁרוֹ | and they encamped
+בְּסֻכֹּת | in Sukkot
+@ 33:6.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִסֻּכֹּת | from Sukkot
+@ 33:6.1
+וּשְׁרוֹ | and they encamped
+בְאֵתָם | at Etam
+@ 33:6.2
+דִּי | that, which
+בִּסְטַר | at the edge of
+מַדְבְּרָא | the wilderness
+@ 33:7.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵאֵתָם | from Etam
+@ 33:7.1
+וְתָב | and returned
+עַל | on, over
+פּוּם | the mouth of
+חִירָתָא | Hirata
+@ 33:7.2
+דִּי | that, which
+קֳדָם | before
+בְּעֵל | the husband of
+צְפוֹן | Tzefon
+@ 33:7.3
+וּשְׁרוֹ | and they encamped
+קֳדָם | before
+מִגְדֹּל | Migdol
+@ 33:8.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִן | from
+פּוּם | the mouth of
+חִירָתָא | Hirata
+@ 33:8.1
+וַעֲבָרוּ | and passed by
+בְּגוֹ | among (lit. in the midst of)
+יַמָּא | the sea
+לְמַדְבְּרָא | to the wilderness
+@ 33:8.2
+וַאֲזָלוּ | and they went
+מַהֲלַךְ | a journey of
+תְּלָתָא | three
+יוֹמִין | days
+בְּמַדְבְּרָא | in the wilderness
+דְאֵתָם | of Etam
+@ 33:8.3
+וּשְׁרוֹ | and they encamped
+בְּמָרָה | in Marah
+@ 33:9.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִמָּרָה | from Marah
+@ 33:9.1
+וַאֲתוֹ | and they came
+לְאֵילִם | to Elim
+@ 33:9.2
+וּבְאֵילִם | and in Elim
+תְּרֵי | two
+עֲשַׂר | ten
+מַבּוּעִין | springs
+דְּמַיִּן | of water
+וְשַׁבְעִין | and seventy
+דִּקְלִין | palm trees
+וּשְׁרוֹ | and they encamped
+תַמָּן | there
+@ 33:10.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵאֵילִם | from Elim
+@ 33:10.1
+וּשְׁרוֹ | and they encamped
+עַל | on, over
+יַמָּא | the sea
+דְסוּף | of Suf
+@ 33:11.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִיַּמָּא | from the sea
+דְסוּף | of Suf
+@ 33:11.1
+וּשְׁרוֹ | and they encamped
+בְּמַדְבְּרָא | in the wilderness
+דְסִין | of Sin
+@ 33:12.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִמַּדְבְּרָא | from the wilderness
+דְסִין | of Sin
+@ 33:12.1
+וּשְׁרוֹ | and they encamped
+בְּדָפְקָה | in Dofkah
+@ 33:13.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִדָּפְקָה | from Dofkah
+@ 33:13.1
+וּשְׁרוֹ | and they encamped
+בְּאָלוּשׁ | in Alush
+@ 33:14.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵאָלוּשׁ | from Alush
+@ 33:14.1
+וּשְׁרוֹ | and they encamped
+בִּרְפִידִם | at Refidim
+@ 33:14.2
+וְלָא | and not
+הֲוָה | was
+תַמָּן | there
+מַיָּא | the water
+לְעַמָּא | to the people
+לְמִשְׁתֵּי | to drink
+@ 33:15.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵרְפִידִם | from Refidim
+@ 33:15.1
+וּשְׁרוֹ | and they encamped
+בְּמַדְבְּרָא | in the wilderness
+דְסִינָי | of Sinai
+@ 33:16.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִמַּדְבְּרָא | from the wilderness
+דְסִינָי | of Sinai
+@ 33:16.1
+וּשְׁרוֹ | and they encamped
+בְּקִבְרֵי | in the graves of
+דִמְשַׁאֲלֵי | of those who craved (lit. asked)
+@ 33:17.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִקִּבְרֵי | from the graves of
+דִמְשַׁאֲלֵי | of those who craved (lit. asked)
+@ 33:17.1
+וּשְׁרוֹ | and they encamped
+בַּחֲצֵרֹת | in Chatzerot
+@ 33:18.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵחֲצֵרֹת | from Chatzerot
+@ 33:18.1
+וּשְׁרוֹ | and they encamped
+בְּרִתְמָה | in Ritmah
+@ 33:19.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵרִתְמָה | from Ritmah
+@ 33:19.1
+וּשְׁרוֹ | and they encamped
+בְּרִמֹּן | in Rimmon
+פָּרֶץ | Peretz
+@ 33:20.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵרִמֹּן | from Rimmon
+פָּרֶץ | Peretz
+@ 33:20.1
+וּשְׁרוֹ | and they encamped
+בְּלִבְנָה | in Livnah
+@ 33:21.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִלִּבְנָה | from Livnah
+@ 33:21.1
+וּשְׁרוֹ | and they encamped
+בְּרִסָּה | in Rissah
+@ 33:22.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵרִסָּה | from Rissah
+@ 33:22.1
+וּשְׁרוֹ | and they encamped
+בִּקְהֵלָתָה | in Kehelatah
+@ 33:23.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִקְהֵלָתָה | from Kehelatah
+@ 33:23.1
+וּשְׁרוֹ | and they encamped
+בְּטוּרָא | on the mountain
+דְשָׁפֶר | of Shefer
+@ 33:24.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִטּוּרָא | from the mountain
+דְשָׁפֶר | of Shefer
+@ 33:24.1
+וּשְׁרוֹ | and they encamped
+בַּחֲרָדָה | in Charadah
+@ 33:25.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵחֲרָדָה | from Charadah
+@ 33:25.1
+וּשְׁרוֹ | and they encamped
+בְּמַקְהֵלוֹת | in Makhelot
+@ 33:26.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִמַּקְהֵלוֹת | from Makhelot
+@ 33:26.1
+וּשְׁרוֹ | and they encamped
+בְּתָחַת | in Tachat
+@ 33:27.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִתָּחַת | from Tachat
+@ 33:27.1
+וּשְׁרוֹ | and they encamped
+בְּתָרַח | in Tarach
+@ 33:28.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִתָּרַח | from Tarach
+@ 33:28.1
+וּשְׁרוֹ | and they encamped
+בְּמִתְקָה | in Mitkah
+@ 33:29.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִמִּתְקָה | from Mitkah
+@ 33:29.1
+וּשְׁרוֹ | and they encamped
+בְּחַשְׁמֹנָה | in Chashmonah
+@ 33:30.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵחַשְׁמֹנָה | from Chashmonah
+@ 33:30.1
+וּשְׁרוֹ | and they encamped
+בְּמֹסֵרוֹת | in Moserot
+@ 33:31.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִמֹּסֵרוֹת | from Moserot
+@ 33:31.1
+וּשְׁרוֹ | and they encamped
+בִּבְנֵי | in the children of
+יַעֲקָן | Yaakan
+@ 33:32.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִבְּנֵי | from the children of
+יַעֲקָן | Yaakan
+@ 33:32.1
+וּשְׁרוֹ | and they encamped
+בְּחֹר | in Chor
+הַגִּדְגָּד | Hagidgad
+@ 33:33.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵחֹר | from Chor
+הַגִּדְגָּד | Hagidgad
+@ 33:33.1
+וּשְׁרוֹ | and they encamped
+בְּיָטְבָתָה | in Yotvatah
+@ 33:34.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִיָּטְבָתָה | from Yotvatah
+@ 33:34.1
+וּשְׁרוֹ | and they encamped
+בְּעַבְרוֹנָה | in Avronah
+@ 33:35.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵעַבְרוֹנָה | from Avronah
+@ 33:35.1
+וּשְׁרוֹ | and they encamped
+בְּעֶצְיוֹן | in Etzyon
+גָּבֶר | Gever
+@ 33:36.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵעֶצְיוֹן | from Etzyon
+גָּבֶר | Gever
+@ 33:36.1
+וּשְׁרוֹ | and they encamped
+בְּמַדְבְּרָא | in the wilderness
+דְצִן | of Tzin
+הִיא | she
+רְקָם | Rekam
+@ 33:37.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵרְקָם | from Rekam
+@ 33:37.1
+וּשְׁרוֹ | and they encamped
+בְּהוֹר | in Hor
+טוּרָא | the mountain
+@ 33:37.2
+בִּסְיָפֵי | in the ends of
+אַרְעָא | the earth, the land
+דֶאֱדוֹם | of Edom
+@ 33:38.0
+וּסְלֵק | and he went up
+אַהֲרֹן | Aharon
+כַּהֲנָא | the priest
+לְהוֹר | to Hor
+טוּרָא | the mountain
+עַל | on, over
+מֵימְרָא | the Word of
+דַיְיָ | of Hashem
+וּמִית | and he died
+תַּמָּן | there
+@ 33:38.1
+בִּשְׁנַת | in the year of
+אַרְבְּעִין | forty
+לְמֵפַּק | to come out
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+מֵאַרְעָא | from the earth, the land
+דְמִצְרַיִם | of Mitzrayim
+@ 33:38.2
+בְּיַרְחָא | in the month
+חֲמִשָּׁאָה | the fifth
+בְּחַד | on the first (lit. on one)
+לְיַרְחָא | of the month
+@ 33:39.0
+וְאַהֲרֹן | and Aharon
+בַּר | has (lit. “son of”)
+מְאָה | a hundred
+וְעַשְׂרִין | and twenty
+וּתְלַת | and three
+שְׁנִין | years
+@ 33:39.1
+כַּד | when
+מִית | die
+בְּהוֹר | in Hor
+טוּרָא | the mountain
+@ 33:40.0
+וּשְׁמַע | and he heard
+כְּנַעֲנָאָה | the Canaanite
+מַלְכָּא | the king of
+דַעֲרָד | of Arad
+@ 33:40.1
+וְהוּא | and it
+יָתֵב | dwelling, sitting
+בִּדְרוֹמָא | in the south
+בְּאַרְעָא | in
+דִכְנָעַן | of Kenaan
+בְּמֵיתֵי | at the coming of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 33:41.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵהוֹר | from Hor
+טוּרָא | the mountain
+@ 33:41.1
+וּשְׁרוֹ | and they encamped
+בְּצַלְמוֹנָה | in Tzalmonah
+@ 33:42.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִצַּלְמוֹנָה | from Tzalmonah
+@ 33:42.1
+וּשְׁרוֹ | and they encamped
+בְּפוּנֹן | in Punon
+@ 33:43.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִפּוּנֹן | from Punon
+@ 33:43.1
+וּשְׁרוֹ | and they encamped
+בְּאֹבוֹת | in Ovot
+@ 33:44.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵאֹבוֹת | from Ovot
+@ 33:44.1
+וּשְׁרוֹ | and they encamped
+בִּמְגִזַּת | at the crossings of
+עֲבָרָאֵי | Avaraei
+בִּתְחוּם | in the border of
+מוֹאָב | Moav
+@ 33:45.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִמְּגִזָּתָא | from the crossings
+@ 33:45.1
+וּשְׁרוֹ | and they encamped
+בְּדִיבוֹן | in Divon
+גָד | Gad
+@ 33:46.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִדִּיבוֹן | from Divon
+גָּד | Gad
+@ 33:46.1
+וּשְׁרוֹ | and they encamped
+בְּעַלְמוֹן | in Almon
+דִּבְלָתָיְמָה | Divlatayemah
+@ 33:47.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מֵעַלְמוֹן | from Almon
+דִבְלָתָימָה | Divlatayemah
+@ 33:47.1
+וּשְׁרוֹ | and they encamped
+בְּטוּרֵי | in the mountains of
+דַעֲבָרָאֵי | of Avaraei
+דִּקֳדָם | that before
+נְבוֹ | Nevo
+@ 33:48.0
+וּנְטָלוּ | and they journeyed (lit. lifted, i.e. broke camp)
+מִטּוּרֵי | from the mountains of
+דַעֲבָרָאֵי | of Avaraei
+@ 33:48.1
+וּשְׁרוֹ | and they encamped
+בְּמֵישְׁרַיָּא | in the plains
+דְמוֹאָב | of Moav
+@ 33:48.2
+עַל | on, over
+יַרְדְּנָא | the Yarden
+דִירֵחוֹ | of Yericho
+@ 33:49.0
+וּשְׁרוֹ | and they encamped
+עַל | on, over
+יַרְדְּנָא | the Yarden
+מִבֵּית | from the house of
+יְשִׁימוֹת | Yeshimot
+@ 33:49.1
+עַד | until
+מֵישַׁר | the plain of
+שִׁטִּין | acacia
+@ 33:49.2
+בְּמֵישְׁרַיָּא | in the plains
+דְמוֹאָב | of Moav
+@ 33:50.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+בְּמֵישְׁרַיָּא | in the plains
+דְמוֹאָב | of Moav
+@ 33:50.1
+עַל | on, over
+יַרְדְּנָא | the Yarden
+דִירֵחוֹ | of Yericho
+לְמֵימָר | saying (lit. “to say”)
+@ 33:51.0
+מַלֵּל | speak!
+עִם | with
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 33:51.1
+וְתֵימַר | and you will say
+לְהוֹן | to them
+@ 33:51.2
+אֲרֵי | that
+אַתּוּן | are you
+עָבְרִין | crossing, passing
+יָת | (sign of the object)
+יַרְדְּנָא | the Yarden
+לְאַרְעָא | to the earth, the land
+דִכְנָעַן | of Kenaan
+@ 33:52.0
+וּתְתָרְכוּן | and you shall drive out
+יָת | (sign of the object)
+כָּל | every, all
+יָתְבֵי | the inhabitants of (lit. those dwelling in)
+אַרְעָא | the earth, the land
+מִן | from
+קֳדָמֵיכוֹן | before you
+@ 33:52.1
+וְתֵבְדוּן | and you shall perish
+יָת | (sign of the object)
+כָּל | every, all
+בֵּית | the house of
+סִגְדַּתְהוֹן | their worship
+@ 33:52.2
+וְיָת | and (sign of the object)
+כָּל | every, all
+צַלְמֵי | the images of
+מַתְּכַתְהוֹן | their molten
+תֵּבְדוּן | you shall destroy
+@ 33:52.3
+וְיָת | and (sign of the object)
+כָּל | every, all
+בָּמַתְהוֹן | their high places
+תְּשֵׁצוּן | you shall destroy
+@ 33:53.0
+וּתְתָרְכוּן | and you shall drive out
+יָת | (sign of the object)
+יָתְבֵי | the inhabitants of (lit. those dwelling in)
+אַרְעָא | the earth, the land
+וְתֵיתְבוּן | and you may dwell
+בַּהּ | in it
+@ 33:53.1
+אֲרֵי | that
+לְכוֹן | to you, for you
+יְהָבִית | I have given
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+לְמֵירַת | to inherit
+יָתָהּ | it
+@ 33:54.0
+וְתַחְסְנוּן | and you shall bequeath them
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+בְעַדְבָא | in the lot
+לְזַרְעֲיַתְכוֹן | by your families
+לְסַגִּיאֵי | to the many
+תַּסְגּוּן | you shall increase
+יָת | (sign of the object)
+אַחֲסַנְתְּהוֹן | their possession
+וְלִזְעִירֵי | and to the few
+תַּזְעִירוּן | you shall decrease
+יָת | (sign of the object)
+אַחֲסַנְתְּהוֹן | their possession
+@ 33:54.1
+לִדְיִפּוֹק | to the one for whom comes out
+לֵיהּ | to him
+תַּמָּן | there
+עַדְבָא | the lot
+דִּי | that, which
+לֵיהּ | to him
+יְהֵי | will be
+@ 33:54.2
+לְשִׁבְטֵי | to the tribes of
+אֲבָהַתְכוֹן | your fathers
+תַּחְסְנוּן | you shall inherit
+@ 33:55.0
+וְאִם | and if
+לָא | not
+תְתָרְכוּן | you drive out
+יָת | (sign of the object)
+יָתְבֵי | the inhabitants of (lit. those dwelling in)
+אַרְעָא | the earth, the land
+מִן | from
+קֳדָמֵיכוֹן | before you
+@ 33:55.1
+וִיהֵי | and will be
+דִּי | that, which
+תַשְׁאֲרוּן | you shall leave over
+מִנְּהוֹן | from them
+@ 33:55.2
+לְסִיעַן | as bands
+נָטְלַן | bearing
+זְיַן | weapons
+לָקִבְלֵיכוֹן | against you
+@ 33:55.3
+וּלְמַשִּׁרְיַן | and as camps
+מַקְפַּנְכוֹן | surrounding you
+@ 33:55.4
+וִיעִיקוּן | and they shall harass
+לְכוֹן | to you, for you
+@ 33:55.5
+עַל | on, over
+אַרְעָא | the earth, the land
+דִּי | that, which
+אַתּוּן | are you
+יָתְבִין | dwelling
+בַּהּ | in it
+@ 33:56.0
+וִיהֵי | and will be
+כְּמָא דִי | as
+חֲשָׁבִית | I thought
+לְמֶעְבַּד | to make
+לְהוֹן | to them
+אַעֲבֵּד | I will make
+לְכוֹן | to you, for you
+@ 34:1.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 34:2.0
+פַּקֵּד | commanded
+יָת | (sign of the object)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+וְתֵימַר | and you will say
+לְהוֹן | to them
+@ 34:2.1
+אֲרֵי | that
+אַתּוּן | are you
+עָלִין | entering
+לְאַרְעָא | to the earth, the land
+דִכְנָעַן | of Kenaan
+@ 34:2.2
+דָּא | this
+אַרְעָא | the earth, the land
+דִּי | that, which
+תִתְפְּלֵג | shall be divided
+לְכוֹן | to you, for you
+בְּאַחֲסָנָא | in a possession
+@ 34:2.3
+אַרְעָא | the earth, the land
+דִכְנַעַן | of Kenaan
+לִתְחוּמָהָא | by its borders
+@ 34:3.0
+וִיהֵי | and will be
+לְכוֹן | to you, for you
+רוּחַ | the side of (lit. the wind of)
+דָּרוֹמָא | the south
+מִמַּדְבְּרָא | from the wilderness
+דְצִן | of Tzin
+עַל | on, over
+תְּחוּמֵי | the borders of
+אֱדוֹם | Edom
+@ 34:3.1
+וִיהֵי | and will be
+לְכוֹן | to you, for you
+תְּחוּם | the border of
+דָּרוֹמָא | the south
+@ 34:3.2
+מִסְּיָפֵי | from the ends of
+יַמָּא | the sea
+דְמִלְחָא | of salt
+קִדּוּמָא | an east
+@ 34:4.0
+וְיַסְחַר | and shall turn
+לְכוֹן | to you, for you
+תְּחוּמָא | the border
+מִדְּרוֹמָא | from the south
+לְמַסְקָנָא | to the ascent of
+דְעַקְרַבִּים | of Akrabbim
+וִיעִבַר | and it shall pass
+לְצִן | to Tzin
+@ 34:4.1
+וִיהוֹן | and they will be
+מַפְּקָנוֹהִי | its ends (lit. goings out)
+@ 34:4.2
+מִדְּרוֹמָא | from the south
+לִרְקַם | to Rekam
+גֵּיאָה | Gea
+@ 34:4.3
+וְיִפּוֹק | and it shall go out
+לַחֲצַר | to Chatzar
+אַדָּר | Addar
+וִיעִבַר | and it shall pass
+לְעַצְמוֹן | to Atzmon
+@ 34:5.0
+וְיַסְחַר | and will surround
+תְּחוּמָא | the border
+מֵעַצְמוֹן | from Atzmon
+לְנַחֲלָא | to the valley
+דְמִצְרָיִם | of Mitzrayim
+@ 34:5.1
+וִיהוֹן | and they will be
+מַפְּקָנוֹהִי | its ends (lit. goings out)
+לְיַמָּא | to the sea
+@ 34:6.0
+וּתְחוּם | and the border of
+מַעַרְבָא | a west
+@ 34:6.1
+וִיהֵי | and will be
+לְכוֹן | to you, for you
+יַמָּא | the sea
+רַבָּא | the great one
+וּתְחוּמֵיהּ | and its border
+@ 34:6.2
+דֵּין | this
+יְהֵי | will be
+לְכוֹן | to you, for you
+תְּחוּם | the border of
+מַעֲרְבָא | the west
+@ 34:7.0
+וְדֵין | and this
+יְהֵי | will be
+לְכוֹן | to you, for you
+תְּחוּם | the border of
+צִפּוּנָא | the north
+@ 34:7.1
+מִן | from
+יַמָּא | the sea
+רַבָּא | the great one
+@ 34:7.2
+תְּכַוְּנוּן | you shall mark out (lit. aim)
+לְכוֹן | to you, for you
+לְהֹר | to Hor
+טוּרָא | the mountain
+@ 34:8.0
+מֵהוֹר | from Hor
+טוּרָא | the mountain
+@ 34:8.1
+תְּכַוְּנוּן | you shall mark out (lit. aim)
+לִמְטֵי | to reaching
+חֲמָת | Chamat
+@ 34:8.2
+וִיהוֹן | and they will be
+מַפְּקָנוֹהִי | its ends (lit. goings out)
+דִתְחוּמָא | of the border
+לִצְדָד | to Tzedad
+@ 34:9.0
+וְיִפּוֹק | and it shall go out
+תְּחוּמָא | the border
+לְזִפְרוֹן | to Zifron
+@ 34:9.1
+וִיהוֹן | and they will be
+מַפְּקָנוֹהִי | its ends (lit. goings out)
+לַחֲצַר | to the lobe of
+עֵינָן | Enan
+@ 34:9.2
+דֵּין | this
+יְהֵי | will be
+לְכוֹן | to you, for you
+תְּחוּם | the border of
+צִפּוּנָא | the north
+@ 34:10.0
+וּתְכַוְּנוּן | and you shall mark out
+לְכוֹן | to you, for you
+לִתְחוּם | to the border of
+קִדּוּמָא | an east
+@ 34:10.1
+מֵחֲצַר | from Chatzar
+עֵינָן | Enan
+לִשְׁפָם | to Shefam
+@ 34:11.0
+וְיֵחוֹת | and it will come down
+תְּחוּמָא | the border
+מִשְּׁפָם | from Shefam
+לְרִבְלָה | to Rivlah
+מִמַּדְנַח | east (lit. from the east)
+לָעָיִן | to Ayin
+@ 34:11.1
+וְיֵחוֹת | and it will come down
+תְּחוּמָא | the border
+@ 34:11.2
+וְיִמְטֵי | and it shall reach
+עַל | on, over
+כֵּיף | the shore of
+יַם | the sea of
+גִנֵסַר | Ginosar
+קִדּוּמָא | an east
+@ 34:12.0
+וְיֵחוֹת | and it will come down
+תְּחוּמָא | the border
+לְיַרְדְּנָא | to the Yarden
+@ 34:12.1
+וִיהוֹן | and they will be
+מַפְּקָנוֹהִי | its ends (lit. goings out)
+לְיַמָּא | to the sea
+דְמִלְחָא | of salt
+@ 34:12.2
+דָּא | this
+תְהֵי | shall be
+לְכוֹן | to you, for you
+אַרְעָא | the earth, the land
+לִתְחוּמָהָא | by its borders
+סְחוֹר | around
+סְחוֹר | around
+@ 34:13.0
+וּפַקִּיד | and he commanded
+משֶׁה | Moshe
+@ 34:13.1
+יָת | (sign of the object)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+לְמֵימָר | saying (lit. “to say”)
+@ 34:13.2
+דָּא | this
+אַרְעָא | the earth, the land
+דִּי | that, which
+תִתְחַסְנוּן | you shall take as inheritance
+יָתַהּ | it
+בְּעַדְבָא | in the lot
+@ 34:13.3
+דִּי | that, which
+פַּקִּיד | had commanded
+יְיָ | Hashem
+@ 34:13.4
+לְמִתַּן | to give
+לְתִשְׁעַת | to the nine
+שִׁבְטִין | tribes
+וּפַלְגּוּת | and half of
+שִׁבְטָא | the tribe of
+@ 34:14.0
+אֲרֵי | that
+קַבִּילוּ | they accepted
+שִׁבְטָא | the tribe of
+דִבְנֵי | of the children of
+רְאוּבֵן | Reuven
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 34:14.1
+וְשִׁבְטָא | and the tribe of
+דִבְנֵי | of the children of
+גָד | Gad
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 34:14.2
+וּפַלְגּוּת | and half of
+שִׁבְטָא | the tribe of
+דִמְנַשֶּׁה | of Menashe
+@ 34:14.3
+קַבִּילוּ | they accepted
+אַחֲסַנְתְּהוֹן | their possession
+@ 34:15.0
+תְּרֵין | two
+שִׁבְטִין | tribes
+וּפַלְגּוּת | and half of
+שִׁבְטָא | the tribe of
+@ 34:15.1
+קַבִּילוּ | they accepted
+אַחֲסַנְתְּהוֹן | their possession
+מֵעִבְרָא | from across
+לְיַרְדְּנָא | to the Yarden
+דִירֵחוֹ | of Yericho
+קִדּוּמָא | an east
+מַדִּינְחָא | the east
+@ 34:16.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 34:17.0
+אִלֵּין | these
+שְׁמָהַת | the names of
+גֻּבְרַיָּא | the men
+@ 34:17.1
+דִּי | that, which
+יַחְסְנוּן | they shall inherit
+לְכוֹן | to you, for you
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+@ 34:17.2
+אֶלְעָזָר | Elazar
+כַּהֲנָא | the priest
+@ 34:17.3
+וִיהוֹשֻׁעַ | and Yehoshua
+בַּר | has (lit. “son of”)
+נוּן | Nun
+@ 34:18.0
+וְרַבָּא | and the great one
+חַד | one
+רַבָּא | the great one
+חַד | one
+מִשִּׁבְטָא | from the tribe of
+@ 34:18.1
+תִּסְּבוּן | you will take
+לְאַחֲסָנָא | to a possession
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+@ 34:19.0
+וְאִלֵּין | and these
+שְׁמָהַת | the names of
+גֻּבְרַיָּא | the men
+@ 34:19.1
+לְשִׁבְטָא | of the tribe of
+דִיהוּדָה | of Yehudah
+@ 34:19.2
+כָּלֵב | Kalev
+בַּר | has (lit. “son of”)
+יְפֻנֶּה | Yefuneh
+@ 34:20.0
+וּלְשִׁבְטָא | and to the tribe of
+דִּבְנֵי | of the children of
+שִׁמְעוֹן | Shimon
+@ 34:20.1
+שְׁמוּאֵל | Shemuel
+בַּר | has (lit. “son of”)
+עַמִיהוּד | Ammihud
+@ 34:21.0
+לְשִׁבְטָא | of the tribe of
+דְבִנְיָמִן | of Binyamin
+@ 34:21.1
+אֱלִידָד | Elidad
+בַּר | has (lit. “son of”)
+כִּסְלוֹן | Kislon
+@ 34:22.0
+וּלְשִׁבְטָא | and to the tribe of
+דִבְנֵי | of the children of
+דָן | Dan
+רַבָּא | the great one
+@ 34:22.1
+בֻּקִּי | Bukki
+בַּר | has (lit. “son of”)
+יָגְלִי | Yogli
+@ 34:23.0
+לִבְנֵי | to the children of
+יוֹסֵף | Yosef
+@ 34:23.1
+לְשִׁבְטָא | of the tribe of
+דִבְנֵי | of the children of
+מְנַשֶּׁה | Menashe
+רַבָּא | the great one
+@ 34:23.2
+חַנִּיאֵל | Channiel
+בַּר | has (lit. “son of”)
+אֵפֹד | Efod
+@ 34:24.0
+וּלְשִׁבְטָא | and to the tribe of
+דִבְנֵי | of the children of
+אֶפְרַיִם | Efrayim
+רַבָּא | the great one
+@ 34:24.1
+קְמוּאֵל | Kemuel
+בַּר | has (lit. “son of”)
+שִׁפְטָן | Shiftan
+@ 34:25.0
+וּלְשִׁבְטָא | and to the tribe of
+דִבְנֵי | of the children of
+זְבוּלֻן | Zevulun
+רַבָּא | the great one
+@ 34:25.1
+אֱלִיצָפָן | Elitzafan
+בַּר | has (lit. “son of”)
+פַּרְנָךְ | Parnach
+@ 34:26.0
+וּלְשִׁבְטָא | and to the tribe of
+דִבְנֵי | of the children of
+יִשָּׂשכָר | Yissachar
+רַבָּא | the great one
+@ 34:26.1
+פַּלְטִיאֵל | Paltiel
+בַּר | has (lit. “son of”)
+עַזָּן | Azzan
+@ 34:27.0
+וּלְשִׁבְטָא | and to the tribe of
+דִבְנֵי | of the children of
+אָשֵׁר | Asher
+רַבָּא | the great one
+@ 34:27.1
+אֲחִיהוּד | Achihud
+בַּר | has (lit. “son of”)
+שְׁלֹּמִי | Shelomi
+@ 34:28.0
+וּלְשִׁבְטָא | and to the tribe of
+דִבְנֵי | of the children of
+נַפְתָּלִי | Naftali
+רַבָּא | the great one
+@ 34:28.1
+פְּדַהְאֵל | Pedahel
+בַּר | has (lit. “son of”)
+עַמִּיהוּד | Ammihud
+@ 34:29.0
+אִלֵּין | these
+דִּי | that, which
+פַּקִּיד | had commanded
+יְיָ | Hashem
+@ 34:29.1
+לְאַחֲסָנָא | to a possession
+יָת | (sign of the object)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+בְּאַרְעָא | in
+דִכְנָעַן | of Kenaan
+@ 35:1.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+בְּמֵישְׁרַיָּא | in the plains
+דְמוֹאָב | of Moav
+@ 35:1.1
+עַל | on, over
+יַרְדְּנָא | the Yarden
+דִירֵחוֹ | of Yericho
+לְמֵימָר | saying (lit. “to say”)
+@ 35:2.0
+פַּקֵּד | commanded
+יָת | (sign of the object)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 35:2.1
+וְיִתְּנוּן | and they shall put
+לְלֵוָאֵי | to the Levite
+מֵאַחֲסָנַת | from the portion (lit. possession) of
+אַחוּדַתְהוֹן | their possession
+קִרְוִין | cities
+לְמִתָּב | to dwell
+@ 35:2.2
+וְרֶוַח | and open land
+לְקִרְוַיָּא | to the cities
+סַחֲרָנֵיהוֹן | around them
+@ 35:2.3
+תִּתְּנוּן | you will give
+לְלֵוָאֵי | to the Levite
+@ 35:3.0
+וִיהוֹן | and they will be
+קִרְוַיָּא | the cities
+לְהוֹן | to them
+לְמִתָּב | to dwell
+@ 35:3.1
+וְרַוְחֵיהוֹן | and their open land
+יְהוֹן | they will be
+לִבְעִירְהוֹן | to their cattle
+וּלְקִנְיָנֵיהוֹן | and for their possessions
+@ 35:3.2
+וּלְכָל | and to every
+חֵיוַתְהוֹן | their animals
+@ 35:4.0
+וּרְוָחֵי | and the open land of
+קִרְוַיָּא | the cities
+@ 35:4.1
+דִּי | that, which
+תִתְּנוּן | you will give
+לְלֵוָאֵי | to the Levite
+@ 35:4.2
+מִכּוֹתֵל | from the wall of
+קַרְתָּא | a city
+וּלְבָרָא | and outward
+@ 35:4.3
+אֲלַף | a thousand
+אַמִּין | cubits
+סְחוֹר | around
+סְחוֹר | around
+@ 35:5.0
+וְתִמְשְׁחוּן | and you shall measure
+מִבָּרָא | from the field (lit. the outside)
+לְקַרְתָּא | to a city
+יָת | (sign of the object)
+רוּחַ | the spirit of
+קִדּוּמָא | an east
+תְּרֵין | two
+אַלְפִין | thousands
+בְּאַמִּין | in cubits
+וְיָת | and (sign of the object)
+רוּחַ | the spirit of
+דְּרוֹמָא | the south
+תְּרֵין | two
+אַלְפִין | thousands
+בְּאַמִּין | in cubits
+וְיָת | and (sign of the object)
+רוּחַ | the spirit of
+מַעַרְבָא | a west
+תְּרֵין | two
+אַלְפִין | thousands
+בְּאַמִּין | in cubits
+וְיָת | and (sign of the object)
+רוּחַ | the spirit of
+צִפּוּנָא | the north
+תְּרֵין | two
+אַלְפִין | thousands
+בְּאַמִּין | in cubits
+וְקַרְתָּא | and a city
+בִמְצִיעָא | in the middle
+@ 35:5.1
+דֵּין | this
+יְהֵי | will be
+לְהוֹן | to them
+@ 35:5.2
+רְוָחֵי | the open land of
+קִרְוַיָּא | the cities
+@ 35:6.0
+וְיָת | and (sign of the object)
+קִרְוַיָּא | the cities
+דִּי | that, which
+תִתְּנוּן | you will give
+לְלֵוָאֵי | to the Levite
+@ 35:6.1
+יָת | (sign of the object)
+שִׁית | six
+קִרְוֵי | the cities of
+שֵׁזָבוּתָא | refuge (lit. rescue)
+@ 35:6.2
+דִּי | that, which
+תִתְּנוּן | you will give
+@ 35:6.3
+לְמֵעֲרַק | to flee
+תַּמָּן | there
+קָטוֹלָא | the killer
+@ 35:6.4
+וַעֲלֵיהוֹן | and in addition to them
+תִּתְּנוּן | you will give
+@ 35:6.5
+אַרְבְּעִין | forty
+וְתַרְתֵּין | and two
+קִרְוִין | cities
+@ 35:7.0
+כָּל | every, all
+קִרְוַיָּא | the cities
+דִּי | that, which
+תִתְּנוּן | you will give
+לְלֵוָאֵי | to the Levite
+@ 35:7.1
+אַרְבְּעִין | forty
+וְתַמְנֵי | and eight
+קִרְוִין | cities
+@ 35:7.2
+יָתְהֶן | them
+וְיָת | and (sign of the object)
+רְוָחֵיהֶן | their open land
+@ 35:8.0
+וְקִרְוַיָּא | and the cities
+דִּי | that, which
+תִתְּנוּן | you will give
+מֵאֲחוּדַת | from a possession of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 35:8.1
+מִן | from
+סַגִּיאֵי | the many
+תַּסְגּוּן | you shall increase
+@ 35:8.2
+וּמִן | and from
+זְעִירֵי | few
+תַּזְעִירוּן | you shall decrease
+@ 35:8.3
+גְּבַר | a man
+כְּפוּם | like the opening (lit. mouth) of
+אַחֲסַנְתֵּיהּ | his possession
+דִּי | that, which
+יַחְסְנוּן | they shall inherit
+@ 35:8.4
+יִתֵּן | will give, will put
+מִקִּרְווֹהִי | from his cities
+לְלֵוָאֵי | to the Levite
+@ 35:9.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 35:10.0
+מַלֵּל | speak!
+עִם | with
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 35:10.1
+וְתֵימַר | and you will say
+לְהוֹן | to them
+@ 35:10.2
+אֲרֵי | that
+אַתּוּן | are you
+עָבְרִין | crossing, passing
+יָת | (sign of the object)
+יַרְדְּנָא | the Yarden
+לְאַרְעָא | to the earth, the land
+דִכְנָעַן | of Kenaan
+@ 35:11.0
+וּתְזַמְּנוּן | and you shall designate
+לְכוֹן | to you, for you
+קִרְוִין | cities
+@ 35:11.1
+קִרְוֵי | the cities of
+שֵׁזָבוּתָא | refuge (lit. rescue)
+יֶהֶוְיַן | may be
+לְכוֹן | to you, for you
+@ 35:11.2
+וְיֵעֲרוֹק | and shall flee
+לְתַמָּן | to there
+קָטוֹלָא | the killer
+@ 35:11.3
+דְּיִקְטוֹל | who kills
+נַפְשָׁא | creature (lit. “soul”)
+בְּשָׁלוּ | in an oversight
+@ 35:12.0
+וִיהוֹן | and they will be
+לְכוֹן | to you, for you
+קִרְוַיָּא | the cities
+לְשֵׁזָבָא | for refuge
+מִגָּאֵל | from the avenger
+דְּמָא | the blood
+@ 35:12.1
+וְלָא | and not
+יְמוּת | shall die
+קָטוֹלָא | the killer
+@ 35:12.2
+עַד | until
+דְּיֵקוּם | until stands
+קֳדָם | before
+כְּנִשְׁתָּא | the congregation
+לְדִינָא | to judgment
+@ 35:13.0
+וְקִרְוַיָּא | and the cities
+דִּי | that, which
+תִתְּנוּן | you will give
+@ 35:13.1
+שִׁית | six
+קִרְוֵי | the cities of
+שֵׁזָבוּתָא | refuge (lit. rescue)
+יֶהֶוְיַן | may be
+לְכוֹן | to you, for you
+@ 35:14.0
+יָת | (sign of the object)
+תְּלַת | three
+קִרְוַיָּא | the cities
+תִּתְּנוּן | you will give
+מֵעִבְרָא | from across
+לְיַרְדְּנָא | to the Yarden
+@ 35:14.1
+וְיָת | and (sign of the object)
+תְּלַת | three
+קִרְוַיָּא | the cities
+@ 35:14.2
+תִּתְּנוּן | you will give
+בְּאַרְעָא | in
+דִכְנָעַן | of Kenaan
+@ 35:14.3
+קִרְוֵי | the cities of
+שֵׁזָבוּתָא | refuge (lit. rescue)
+יֶהֶוְיָן | shall be
+@ 35:15.0
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+וּלְגִיּוֹרָא | and for the convert
+וּלְתוֹתָבָיָא | and for the residents
+דְבֵינֵיכוֹן | that among you
+@ 35:15.1
+יֶהֶוְיַן | may be
+שִׁית | six
+קִרְוַיָּא הָאִלֵּין | these cities
+לְשֵׁזָבָא | for refuge
+@ 35:15.2
+לְמֵעֲרוֹק | to flee
+לְתַמָּן | to there
+@ 35:15.3
+כָּל | every, all
+דְּיִקְטוֹל | who kills
+נַפְשָׁא | creature (lit. “soul”)
+בְּשָׁלוּ | in an oversight
+@ 35:16.0
+וְאִם | and if
+בְּמָאן | with an implement of
+דְפַרְזְלָא | of iron
+מְחָהִי | he struck him
+וְקָטְלֵיהּ | and killed him
+קָטוֹלָא | the killer
+הוּא | it
+@ 35:16.1
+אִתְקְטָלָא יִתְקְטֵל | surely will be put to death (lit. be put to death will be put to death)
+קָטוֹלָא | the killer
+@ 35:17.0
+וְאִם | and if
+בְּאַבְנָא | in the stone
+דְּמִתְנָסְבָא | that can be held (lit. taken)
+בִידָא | into the hand
+דְּהִיא | that she
+כְמִסַּת | enough to (lit. as the sufficiency of)
+דִּי | that, which
+יְמוּת | shall die
+בַּהּ | in it
+מְחָהִי | he struck him
+וְקָטְלֵיהּ | and killed him
+קָטוֹלָא | the killer
+@ 35:17.1
+הוּא | it
+אִתְקְטָלָא יִתְקְטֵל | surely will be put to death (lit. be put to death will be put to death)
+קָטוֹלָא | the killer
+@ 35:18.0
+אוֹ | or
+בְּמָאן | in who
+דְּעָא | of wood
+דְּמִתְנַסֵב | that can be held
+בִּידָא | into the hand
+דְּהִיא | that she
+כְמִסַּת | enough to (lit. as the sufficiency of)
+דִּי | that, which
+יְמוּת | shall die
+בֵּיהּ | in it
+מְחָהִי | he struck him
+וְקָטְלֵיהּ | and killed him
+קָטוֹלָא | the killer
+@ 35:18.1
+הוּא | it
+אִתְקְטָלָא יִתְקְטַל | surely shall be put to death (lit. be put to death shall be put to death)
+קָטוֹלָא | the killer
+@ 35:19.0
+גָּאֵל | the avenger of
+דְּמָא | the blood
+הוּא | it
+@ 35:19.1
+יִקְטוֹל | He will kill
+יָת | (sign of the object)
+קָטוֹלָא | the killer
+@ 35:19.2
+כַּד | when
+אִתְחַיַּב | would have been liable to
+לֵיהּ | to him
+מִן | from
+דִּינָא | judgment
+הוּא | it
+יִקְטְלִנֵּיהּ | shall kill him
+@ 35:20.0
+וְאִם | and if
+בְּסַנְאָה | in hatred
+דְּחָהִי | he pushed him
+@ 35:20.1
+אוֹ | or
+רְמָא | he cast
+עֲלוֹהִי | for him (lit. upon him)
+בְכַמְנָא | in ambush
+וְקָטְלֵיהּ | and killed him
+@ 35:21.0
+אוֹ | or
+בִדְבָבוּ | in hatred (lit. enmity)
+מְחָהִי | he struck him
+בִידֵיהּ | his hand
+וְקָטְלֵיהּ | and killed him
+@ 35:21.1
+אִתְקְטָלָא יִתְקְטֵל | surely will be put to death (lit. be put to death will be put to death)
+מַחֲיָא | the striker
+קָטוֹלָא | the killer
+הוּא | it
+@ 35:21.2
+גָּאֵל | the avenger of
+דְּמָא | the blood
+יִקְטוֹל | He will kill
+יָת | (sign of the object)
+קָטוֹלָא | the killer
+כַּד | when
+אִתְחַיַּב | would have been liable to
+לֵיהּ | to him
+מִן | from
+דִּינָא | judgment
+@ 35:22.0
+וְאִם | and if
+בִּתְכֵף | suddenly (lit. in an instant)
+בְּלָא | without (lit. in not)
+דְבָבוּ | hatred (lit. enmity)
+דְּחָהִי | he pushed him
+@ 35:22.1
+אוֹ | or
+רְמָא | he cast
+עֲלוֹהִי | for him (lit. upon him)
+כָּל | every, all
+מָאן | who
+בְּלָא | without (lit. in not)
+כְמַן | any implement
+לֵיהּ | to him
+@ 35:23.0
+אוֹ | or
+בְכָל | in all of
+אַבְנָא | the stone
+דְּהִיא | that she
+כְמִסַּת | enough to (lit. as the sufficiency of)
+דִּי | that, which
+יְמוּת | shall die
+בַּהּ | in it
+בְּלָא | in not
+חָזֵי | see (lit. seeing)
+@ 35:23.1
+וּרְמָא | and he cast
+עֲלוֹהִי | for him (lit. upon him)
+וְקָטְלֵיהּ | and killed him
+@ 35:23.2
+וְהוּא | and it
+לָא | not
+סָנֵי | hating
+לֵיהּ | to him
+@ 35:23.3
+וְלָא | and not
+תָבַע | seeking
+בִּישְׁתֵּיהּ | his harm
+@ 35:24.0
+וִידוּנוּן | and may they judge
+כְּנִשְׁתָּא | the congregation
+בֵּין | between
+מַחֲיָא | the slayer (lit. the one who struck)
+@ 35:24.1
+וּבֵין | and between
+גָּאֵל | the avenger of
+דְּמָא | the blood
+@ 35:24.2
+עַל | on, over
+דִּינַיָּא הָאִלֵּין | these laws (lit. judgments)
+@ 35:25.0
+וִישֵׁזְבוּן | and they shall rescue
+כְּנִשְׁתָּא | the congregation
+יָת | (sign of the object)
+קָטוֹלָא | the killer
+מִיַּד | from the hand of
+גָּאֵל | the avenger of
+דְּמָא | the blood
+@ 35:25.1
+וִיתִיבוּן | and let them dwell
+יָתֵיהּ | him
+כְּנִשְׁתָּא | the congregation
+@ 35:25.2
+לְקִרְיַת | to the city of
+שֵׁזָבוּתֵיהּ | his refuge
+דִּי | that, which
+עֲרַק | he fled
+לְתַמָּן | to there
+@ 35:25.3
+וִיתֵב | and he dwelt
+בַּהּ | in it
+עַד | until
+דִּימוּת | that shall die
+כַּהֲנָא | the priest
+רַבָּא | the great one
+@ 35:25.4
+דִּי | that, which
+רַבִּי | he has anointed (lit. raised up)
+יָתֵיהּ | him
+בִּמְשַׁח | with oil of
+קוּדְשָׁא | holiness
+@ 35:26.0
+וְאִם | and if
+מִפַּק יִפּוֹק | surely go out (lit. going out go out)
+קָטוֹלָא | the killer
+@ 35:26.1
+יָת | (sign of the object)
+תְּחוּם | the border of
+קִרְיַת | the city of
+שֵׁזָבוּתֵיהּ | his refuge
+@ 35:26.2
+דִּי | that, which
+עֲרַק | he fled
+לְתַמָּן | to there
+@ 35:27.0
+וְיַשְׁכַּח | and it finds
+יָתֵיהּ | him
+גָּאֵל | the avenger of
+דְּמָא | the blood
+@ 35:27.1
+מִבָּרָא | from the field (lit. the outside)
+לִתְחוּם | to the border of
+קִרְיַת | the city of
+שֵׁזָבוּתֵיהּ | his refuge
+@ 35:27.2
+וְיִקְטוֹל | and kills
+גָּאֵל | the avenger of
+דְּמָא | the blood
+יָת | (sign of the object)
+קָטוֹלָא | the killer
+@ 35:27.3
+לֵית | there was no one
+לֵיהּ | to him
+דְּמָא | the blood
+@ 35:28.0
+אֲרֵי | that
+בְקִרְיַת | in the town of
+שֵׁזָבוּתֵיהּ | his refuge
+יִתֵּב | he shall dwell
+@ 35:28.1
+עַד | until
+דִּימוּת | that shall die
+כַּהֲנָא | the priest
+רַבָּא | the great one
+@ 35:28.2
+וּבָתַר | and after
+דִּימוּת | that shall die
+כַּהֲנָא | the priest
+רַבָּא | the great one
+@ 35:28.3
+יְתוּב | it turns back
+קָטוֹלָא | the killer
+@ 35:28.4
+לַאֲרַע | to the land of
+אַחֲסַנְתֵּיהּ | his possession
+@ 35:29.0
+וִיהוֹן | and they will be
+אִלֵּין | these
+לְכוֹן | to you, for you
+לִגְזֵרַת דִּין | as this statute of
+לְדָרֵיכוֹן | for your generations
+@ 35:29.1
+בְּכָל | in all of
+מוֹתְבָנֵיכוֹן | your dwellings
+@ 35:30.0
+כָּל | every, all
+דְּיִקְטוֹל | who kills
+נַפְשָׁא | creature (lit. “soul”)
+לְפוּם | according to (lit. to the mouth of)
+סַהֲדִין | witnesses
+@ 35:30.1
+יִקְטוֹל | He will kill
+יָת | (sign of the object)
+קָטוֹלָא | the killer
+@ 35:30.2
+וְסָהִיד | and a witness
+חַד | one
+לָא | not
+יַסְהֵד | shall testify
+בֶּאֱנָשׁ | in a man
+לְמִקְטָל | to put to death
+@ 35:31.0
+וְלָא | and not
+תְקַבְּלוּן | you listen
+מָמוֹן | profit, money
+עַל | on, over
+אֱנַשׁ | each person (lit. a man)
+קָטוֹל | a killer
+@ 35:31.1
+דִּי | that, which
+הוּא | it
+חַיָּב | is guilty of
+לְמִקְטָל | to put to death
+@ 35:31.2
+אֲרֵי | that
+אִתְקְטָלָא יִתְקְטֵל | surely will be put to death (lit. be put to death will be put to death)
+@ 35:32.0
+וְלָא | and not
+תְקַבְּלוּן | you listen
+מָמוֹן | profit, money
+@ 35:32.1
+לְמֵעֲרוֹק | to flee
+לְקִרְיַת | to the city of
+שֵׁזָבוּתֵיהּ | his refuge
+@ 35:32.2
+לְמִתּוּב | to return
+לְמִתַּב | to dwell, to sit
+בְּאַרְעָא | in
+@ 35:32.3
+עַד | until
+דִּימוּת | that shall die
+כַּהֲנָא | the priest
+@ 35:33.0
+וְלָא | and not
+תְחַיְּבוּן | you shall make guilty (lit. condemn)
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+דִּי | that, which
+אַתּוּן | are you
+בַּהּ | in it
+@ 35:33.1
+אֲרֵי | that
+דְמָא | the blood
+הוּא | it
+מְחַיַּב | makes guilty
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+@ 35:33.2
+וּלְאַרְעָא | and to the earth, the land
+לָא | not
+מִתְכַּפֵּר | can be atoned
+עַל | on, over
+דַּם | the blood of
+זַכַּאי | righteous
+דְּאִתָּשַׁד | that was shed
+בַּהּ | in it
+@ 35:33.3
+אֶלָּהֵן | but rather
+בְּדַם | in the blood of
+אַשְׁדֵּיהּ | the one who shed it
+@ 35:34.0
+וְלָא | and not
+תְסָאֲבוּן | you shall defile
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+דִּי | that, which
+אַתּוּן | are you
+יָתְבִין | dwelling
+בַּהּ | in it
+@ 35:34.1
+דִּי | that, which
+שְׁכִינְתִּי | My Presence
+שָׁרְיָא | dwells
+בְּגַוָּהּ | within it
+@ 35:34.2
+אֲרֵי | that
+אֲנָא | I am
+יְיָ | Hashem
+@ 35:34.3
+דִּשְׁכִנְתִּי | of My Presence
+שָׁרְיָא | dwells
+בְּגוֹ | among (lit. in the midst of)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:1.0
+וְקָרִיבוּ | and they offered (lit. brought near)
+רֵישֵׁי | heads of
+אֲבָהָתָא | the fathers
+לְזַרְעִית | to the family of
+בְּנֵי | the children of
+גִּלְעָד | Gilad
+בַּר | has (lit. “son of”)
+מָכִיר | Makhir
+בַּר | has (lit. “son of”)
+מְנַשֶּׁה | Menashe
+@ 36:1.1
+מִזַּרְעֲיַת | from the families of
+בְּנֵי | the children of
+יוֹסֵף | Yosef
+@ 36:1.2
+וּמַלִּילוּ | and they spoke
+קֳדָם | before
+משֶׁה | Moshe
+וְקֳדָם | and before
+רַבְרְבַיָּא | the great
+@ 36:1.3
+רֵישֵׁי | heads of
+אֲבָהָתָא | the fathers
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:2.0
+וַאֲמָרוּ | and they said
+יָת | (sign of the object)
+רִבּוֹנִי | my master
+פַּקִּיד | had commanded
+יְיָ | Hashem
+@ 36:2.1
+לְמִתַּן | to give
+יָת | (sign of the object)
+אַרְעָא | the earth, the land
+בְּאַחֲסָנָא | in a possession
+בְּעַדְבָא | in the lot
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:2.2
+וְרִבּוֹנִי | and my master
+אִתְפַּקַּד | was commanded
+בְּמֵמְרָא | by the Word of
+דַיְיָ | of Hashem
+@ 36:2.3
+לְמִתַּן | to give
+יָת | (sign of the object)
+אַחֲסָנַת | the portion (lit. possession) of
+צְלָפְחָד | Tzelofchad
+אָחוּנָא | our brother
+לִבְנָתֵיהּ | to his daughters
+@ 36:3.0
+וִיהֶוְיַן | and may be
+לְחַד | for one
+מִבְּנֵי | from the children of
+שִׁבְטַיָּא | the tribes
+דִבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+לִנְשִׁין | to wives
+@ 36:3.1
+וְתִתְמְנַע | and will be withheld
+אַחֲסַנְתְּהוֹן | their possession
+מֵאַחֲסָנַת | from the portion (lit. possession) of
+אֲבְהָתָנָא | our fathers
+@ 36:3.2
+וְתִתּוֹסַף | and it will be added
+עַל | on, over
+אַחֲסָנַת | the portion (lit. possession) of
+שִׁבְטַיָּא | the tribes
+@ 36:3.3
+דִּי | that, which
+יֶהֶוְיָן | shall be
+לְהוֹן | to them
+@ 36:3.4
+וּמֵעֲדַב | and from the lot of
+אַחֲסַנְתָּא | the inheritance
+יִתִּמְנָע | will be withheld
+@ 36:4.0
+וְאִם | and if
+יְהֵי | will be
+יוֹבְלָא | the Jubilee
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:4.1
+וְתִתּוֹסַף | and it will be added
+אַחֲסַנְתְּהוֹן | their possession
+@ 36:4.2
+עַל | on, over
+אַחֲסָנַת | the portion (lit. possession) of
+שִׁבְטָא | the tribe of
+@ 36:4.3
+דִּי | that, which
+תְהֶוְיַן | they shall be
+לְהוֹן | to them
+@ 36:4.4
+וּמֵאַחֲסָנַת | and from the portion (lit. possession) of
+שִׁבְטָא | the tribe of
+דַאֲבְהָתָנָא | of our fathers
+@ 36:4.5
+יִתִּמְנַע | will be held back
+אַחֲסַנְתְּהֶן | their inheritance
+@ 36:5.0
+וּפַקִּיד | and he commanded
+משֶׁה | Moshe
+יָת | (sign of the object)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:5.1
+עַל | on, over
+מֵימְרָא | the Word of
+דַיְיָ | of Hashem
+לְמֵימָר | saying (lit. “to say”)
+@ 36:5.2
+יָאוּת | rightly
+שִׁבְטָא | the tribe of
+דִבְנֵי | of the children of
+יוֹסֵף | Yosef
+מְמַלְּלִין | speak
+@ 36:6.0
+דֵּין | this
+פִּתְגָּמָא | the word
+דִּי | that, which
+פַקִּיד | had commanded
+יְיָ | Hashem
+לִבְנַת | to the daughters of
+צְלָפְחָד | Tzelofchad
+לְמֵימַר | saying
+@ 36:6.1
+לִדְתַקִּין | to whoever is fitting
+בְּעֵינֵיהוֹן | in their eyes
+תְּהֶוְיַן | they shall be
+לִנְשִׁין | to wives
+@ 36:6.2
+בְּרַם | but, only
+לְזַרְעִית | to the family of
+שִׁבְטָא | the tribe of
+דַאֲבוּהֶן | of their father
+תְּהֶוְיַן | they shall be
+לִנְשִׁין | to wives
+@ 36:7.0
+וְלָא | and not
+תַסְחַר | shall turn from
+אַחֲסָנָא | a possession
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:7.1
+מִשִּׁבְטָא | from the tribe of
+לְשִׁבְטָא | of the tribe of
+@ 36:7.2
+אֲרֵי | that
+גְבַר | a man
+בְּאַחֲסָנַת | in the portion (lit. possession) of
+שִׁבְטָא | the tribe of
+דַאֲבָהָתוֹהִי | of his fathers
+@ 36:7.3
+יִדַּבְּקוּן | shall cleave
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:8.0
+וְכָל | and all
+בְּרַתָּא | a daughter
+יָרְתַת | inheriting
+אַחֲסָנָא | a possession
+מִשִּׁבְטַיָּא | from the tribes
+דִּבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:8.1
+לְחַד | for one
+מִזַּרְעִית | from the family of
+שִׁבְטָא | the tribe of
+דַאֲבוּהָא | of her father
+תְּהֵי | shall be
+לְאִנְתּוּ | as a wife
+@ 36:8.2
+בְּדִיל דִּי | so that
+יֵרְתוּן | shall inherit
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:8.3
+גְּבַר | a man
+אַחֲסָנַת | the portion (lit. possession) of
+אֲבָהָתוֹהִי | his fathers
+@ 36:9.0
+וְלָא | and not
+תַסְחַר | shall turn from
+אַחֲסָנָא | a possession
+מִשִּׁבְטָא | from the tribe of
+לְשִׁבְטָא | of the tribe of
+אוֹחֲרָנָא | another
+@ 36:9.1
+אֲרֵי | that
+גְבַר | a man
+בְּאַחֲסַנְתֵּיהּ | in his possession
+@ 36:9.2
+יִדְּבְּקוּן | shall cleave
+שִׁבְטַיָּא | the tribes
+דִּבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:10.0
+כְּמָא דִי | as
+פַּקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 36:10.1
+כֵּן | so
+עֲבָדוּ | they did, they made
+בְּנַת | the daughters of
+צְלָפְחָד | Tzelofchad
+@ 36:11.0
+וַהֲוָאָה | and they were
+מַחְלָה | Machlah
+תִרְצָה | Tirtzah
+וְחָגְלָה | and Choglah
+וּמִלְכָּה | and Milkah
+וְנֹעָה | and Noah
+בְּנַת | the daughters of
+צְלָפְחָד | Tzelofchad
+@ 36:11.1
+לִבְנֵי | to the children of
+אֲחֵי | the brothers of
+אֲבוּהֶן | their father
+לִנְשִׁין | to wives
+@ 36:12.0
+מִזַרְעֲיַת | from the families of
+בְּנֵי | the children of
+מְנַשֶּׁה | Menashe
+בַר | has (lit. “son of”)
+יוֹסֵף | Yosef
+הֲוָאָה | they were
+לִנְשִׁין | to wives
+@ 36:12.1
+וַהֲוַת | and was
+אַחֲסַנְתְּהֶן | their inheritance
+@ 36:12.2
+עַל | on, over
+שִׁבְטָא | the tribe of
+זַרְעִית | the family of
+אַבוּהֶן | their father
+@ 36:13.0
+אִלֵּין | these
+פִּקּוֹדַיָּא | the commandments
+וְדִינַיָּא | and the laws (lit. judgments)
+דִּי | that, which
+פַקִּיד | had commanded
+יְיָ | Hashem
+בִּידָא | into the hand
+דְמשֶׁה | of Moshe
+לְוָת | to
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 36:13.1
+בְּמֵישְׁרַיָּא | in the plains
+דְמוֹאָב | of Moav
+@ 36:13.2
+עַל | on, over
+יַרְדְּנָא | the Yarden
+דִירֵחוֹ | of Yericho

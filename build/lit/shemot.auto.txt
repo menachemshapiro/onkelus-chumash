@@ -1,0 +1,2214 @@
+# Draft made by lit_auto.py from the glossary. Do not edit: put corrections in shemot.txt (it wins clause by clause).
+@ 1:1.0
+וְאִלֵין | and these
+שְׁמָהַת | the names of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 1:1.1
+דְעַלוּ | that they went in
+לְמִצְרָיִם | to Mitzrayim
+@ 1:1.2
+עִם | with
+יַעֲקֹב | Yaakov
+גְבַר | a man
+וֶאֱנַשׁ | and each person (lit. a man)
+בֵּיתֵהּ | his household
+עַלוּ | they went in
+@ 1:2.0
+רְאוּבֵן | Reuven
+שִׁמְעוֹן | Shimon
+@ 1:2.1
+לֵוִי | Levi
+וִיהוּדָה | and Yehudah
+@ 1:3.0
+יִשָּׂשׂכָר | Yissachar
+זְבוּלֻן | Zevulun
+וּבִנְיָמִין | and Binyamin
+@ 1:4.0
+דָן | Dan
+וְנַפְתָּלִי | and Naftali
+גָד | Gad
+וְאָשֵׁר | and Asher
+@ 1:5.0
+וַהֲוָה | and it was
+כָּל | every, all
+נַפְשָׁתָא | the souls
+נַפְקֵי | those who went out of
+יַרְכָּא | the thigh
+דְיַעֲקֹב | of Yaakov
+שַׁבְעִין | seventy
+נַפְשָׁן | souls
+@ 1:5.1
+וְיוֹסֵף | and Yosef
+דַהֲוָה | that was
+בְּמִצְרָיִם | in Mitzrayim
+@ 1:6.0
+וּמִית | and he died
+יוֹסֵף | Yosef
+וְכָל | and all
+אַחוֹהִי | his brother
+@ 1:6.1
+וְכֹל | and all, every
+דָרָא הַהוּא | that generation
+@ 1:7.0
+וּבְנֵי | and the children of
+יִשְׂרָאֵל | Yisrael
+נְפִישׁוּ | were fruitful (lit. increased)
+וְאִתְיַלָדוּ | and they multiplied (lit. were born)
+וּסְגִיאוּ | and they increased
+וּתְקִיפוּ | and they grew strong
+לַחֲדָא | very
+לַחֲדָא | very
+@ 1:7.1
+וְאִתְמְלִיאַת | and it was filled
+אַרְעָא | the earth, the land
+מִנְהוֹן | from them
+@ 1:8.0
+וְקָם | and he rose
+מַלְכָּא | the king of
+חַדְתָּא | a new
+עַל | on, over
+מִצְרָיִם | Mitzrayim
+@ 1:8.1
+דְלָא | that not
+מְקַיֵם | uphold
+גְזֵרַת | the decrees of
+יוֹסֵף | Yosef
+@ 1:9.0
+וַאֲמַר | and he said
+לְעַמֵהּ | to his people
+@ 1:9.1
+הָא | behold
+עַמָא | the people
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 1:9.2
+סָגָן | numerous (lit. multiplying)
+וְתַקִיפִין | and mighty
+מִנָנָא | us
+@ 1:10.0
+הָבוּ | come (lit. give)
+נִתְחַכַּם | let us deal shrewdly
+לְהוֹן | to them
+@ 1:10.1
+דִלְמָא | lest
+יִסְגוּן | may they multiply
+וִיהֵי | and will be
+אֲרֵי | that
+יְעַרְעִנָנָא | befalls us
+קְרָב | war
+וְיִתּוֹסְפוּן | and they will join (lit. be added)
+אַף | also
+אִנוּן | were they
+עַל | on, over
+סַנְאָנָא | our enemies
+@ 1:10.2
+וִיגִיחוּן | and they will wage
+בָּנָא | with us
+קְרָב | war
+וְיִסְקוּן | and they will go up
+מִן | from
+אַרְעָא | the earth, the land
+@ 1:11.0
+וּמַנִיאוּ | and they appointed
+עֲלֵיהוֹן | upon them, over them
+שִׁלְטוֹנִין | officers (lit. rulers)
+מַבְאִישִׁין | who do harm
+@ 1:11.1
+בְּדִיל | for the sake of
+לְעַנוֹאֵהוֹן | to afflict them
+בְּפָלְחָנְהוֹן | in their labor
+@ 1:11.2
+וּבְנוֹ | and they built
+קִרְוֵי | the cities of
+בֵית | the house of
+אוֹצָרָא | storage
+לְפַרְעֹה | to Paroh
+@ 1:11.3
+יָת | (sign of the object)
+פִּיתוֹם | Pitom
+וְיָת | and (sign of the object)
+רַעַמְסֵס | Ra‘amses
+@ 1:12.0
+וּכְמָא | and as
+דִמְעַנַן | they afflicted
+לְהוֹן | to them
+@ 1:12.1
+כֵּן | so
+סָגָן | numerous (lit. multiplying)
+וְכֵן | and so
+תַּקְפִין | grew strong
+@ 1:12.2
+וַעֲקַת | and it distressed him
+לְמִצְרָאֵי | to the Egyptians
+מִן קֳדָם | from before
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 1:13.0
+וְאַפְלָחוּ | and they made them work
+מִצְרָאֵי | the Egyptians
+יָת | (sign of the object)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+בְּקַשְׁיוּ | harshly (lit. with hardness)
+@ 1:14.0
+וְאַמְרָרוּ | and they embittered
+יָת | (sign of the object)
+חַיֵיהוֹן | their lives
+בְּפָלְחָנָא | for the service
+קָשְׁיָא | hard
+בְּטִינָא | with clay
+וּבְלִבְנִין | and with bricks
+@ 1:14.1
+וּבְכָל | and in all of, and with all
+פָּלְחָנָא | labor
+בְּחַקְלָא | in the field
+@ 1:14.2
+יָת | (sign of the object)
+כָּל | every, all
+פָּלְחָנְהוֹן | their labor
+דְאַפְלָחוּ | that they made them work
+בְהוֹן | by them
+בְּקַשְׁיוּ | harshly (lit. with hardness)
+@ 1:15.0
+וַאֲמַר | and he said
+מַלְכָּא | the king of
+דְמִצְרַיִם | of Mitzrayim
+@ 1:15.1
+לְחַיָתָא | to the midwives
+יְהוּדַיָתָא | the Hebrew women (lit. the Jewish women)
+@ 1:15.2
+דְשׁוּם | of the name of
+חָדָא | one
+שִׁפְרָה | Shifrah
+@ 1:15.3
+וְשּׁוּם | and the name of
+תִּנְיֵתָא | the second
+פּוּעָה | Puah
+@ 1:16.0
+וַאֲמַר | and he said
+כַּד | when
+תֶּהֶוְיָן | you are
+מוֹלְדָן | delivering
+יָת | (sign of the object)
+יְהוּדַיָתָא | the Hebrew women (lit. the Jewish women)
+@ 1:16.1
+וְתֶחְזְיָן | and you see
+עַל | on, over
+מַתְבְּרָא | the birthstool
+@ 1:16.2
+אִם | if
+בַּר | has (lit. “son of”)
+הוּא | it
+תִּקְטְלַן | you shall kill
+יָתֵהּ | him
+@ 1:16.3
+וְאִם | and if
+בְּרַתָּא | a daughter
+הִיא | she
+ותְקַיְמִנַהּ | let her live
+@ 1:17.0
+וּדְחִילָא | and feared
+חַיָתָא | the midwives
+מִן קֳדָם | from before
+יְיָ | Hashem
+@ 1:17.1
+וְלָא | and not
+עֲבָדָא | do
+@ 1:17.2
+כְּמָא | as
+דְמַלִיל | that he had spoken
+עִמְהֶן | with them
+מַלְכָּא | the king of
+דְמִצְרָיִם | of Mitzrayim
+@ 1:17.3
+וְקַיָמָא | and they let live
+יָת | (sign of the object)
+בְּנַיָא | the children
+@ 1:18.0
+וּקְרָא | and he called
+מַלְכָּא | the king of
+דְמִצְרַיִם | of Mitzrayim
+לְחַיָתָא | to the midwives
+@ 1:18.1
+וַאֲמַר | and he said
+לְהֶן | them
+@ 1:18.2
+מָה | what
+דֵין | this
+עֲבַדְתּוּן | you have done
+יָת | (sign of the object)
+פִּתְגָמָא הָדֵין | this word
+@ 1:18.3
+וְקַיֵמְתּוּן | and you let live
+יָת | (sign of the object)
+בְּנַיָא | the children
+@ 1:19.0
+וַאֲמָרָא | and said
+חַיָתָא | the midwives
+לְפַרְעֹה | to Paroh
+@ 1:19.1
+אֲרֵי | that
+לָא | not
+כִנְשַׁיָא | like the women
+מִצְרְיָתָא | the Egyptian
+יְהוּדַיָתָא | the Hebrew women (lit. the Jewish women)
+@ 1:19.2
+אֲרֵי | that
+חֲכִּימָן | skilled (lit. wise)
+אִנוּן | were they
+@ 1:19.3
+עַד | until
+לָא | not
+עַלַת | has come (lit. entered)
+לְוָתְהֶן | to them
+חַיָתָא | the midwives
+וִילִידָן | and they bore
+@ 1:20.0
+וְאוֹטֵיב | and did good
+יְיָ | Hashem
+לְחַיָתָא | to the midwives
+@ 1:20.1
+וּסְגִי | and was greater
+עַמָא | the people
+וּתְקִיפוּ | and they grew strong
+לַחֲדָא | very
+@ 1:21.0
+וַהֲוָה | and it was
+כַּד | when
+דְחִילָא | they feared
+חַיָתָא | the midwives
+מִן קֳדָם | from before
+יְיָ | Hashem
+@ 1:21.1
+וַעֲבַד | and he made
+לְהוֹן | to them
+בָּתִּין | houses
+@ 1:22.0
+וּפַקִיד | and he commanded
+פַּרְעֹה | Paroh
+@ 1:22.1
+לְכָל | to all of
+עַמֵהּ | his people
+לְמֵימָר | saying (lit. “to say”)
+@ 1:22.2
+כָּל | every, all
+בְּרָא | son (lit. the son)
+דְיִתְיְלִיד | that is born
+לִיהוּדָאֵי | to the Jews
+בְּנַהֲרָא | in the river
+תִּרְמֻנֵהּ | you shall throw him
+@ 1:22.3
+וְכָל | and all
+בְּרַתָּא | a daughter
+תְּקַיְמוּן | you shall let live
+@ 2:1.0
+וַאֲזַל | and he went
+גַבְרָא | a man
+מִדְבֵית | from the house of
+לֵוִי | Levi
+@ 2:1.1
+וּנְסִיב | and he took
+יָת | (sign of the object)
+בַּת | the daughter of
+לֵוִי | Levi
+@ 2:2.0
+וְעַדִיאַת | and she conceived
+אִתְּתָא | the woman
+וִילִידַת | and she bore
+בָּר | a son
+@ 2:2.1
+וַחֲזַת | and she saw
+יָתֵהּ | him
+אֲרֵי | that
+טַב | good
+הוּא | it
+@ 2:2.2
+וְאַטְמַרְתֵּהּ | and she hid him
+תְּלָתָא | three
+יַרְחִין | months
+@ 2:3.0
+וְלָא | and not
+יְכֵילַת | she could
+עוֹד | again
+לְאַטְמָרוּתֵהּ | to hide him
+@ 2:3.1
+וּנְסֵיבַת | and she took
+לֵהּ | for him
+תֵּבוּתָא | a basket
+דְגוֹמֶא | of papyrus
+@ 2:3.2
+וְחַפָּתַהּ | and she coated it
+בְּחֵמָרָא | with clay
+וּבְזִפְתָּא | and with pitch
+@ 2:3.3
+וְשַׁוִיאַת | and she placed
+בַּהּ | in it
+יָת | (sign of the object)
+רַבְיָא | the child, the boy
+@ 2:3.4
+וְשַׁוִיתַהּ | and she placed it
+בְּיַעֲרָא | in the reeds
+עַל | on, over
+כֵּיף | the shore of
+נַהֲרָא | the river
+@ 2:4.0
+וְאִתְעַתָּדַת | and stationed herself
+אֲחָתֵהּ | his sister
+מֵרָחִיק | from afar
+@ 2:4.1
+לְמִידַע | to know
+מָה | what
+יִתְעֲבֵד | shall be done, shall be made
+לֵהּ | for him
+@ 2:5.0
+וּנְחָתַת | and she went down
+בַּת | the daughter of
+פַּרְעֹה | Paroh
+לְמִסְחֵי | to bathe
+עַל | on, over
+נַהֲרָא | the river
+@ 2:5.1
+וְעוּלֵימָתָהָא | and her maidens
+מְהַלְכָן | walking
+עַל | on, over
+כֵּיף | the shore of
+נַהֲרָא | the river
+@ 2:5.2
+וַחֲזַת | and she saw
+יָת | (sign of the object)
+תֵּבוּתָא | a basket
+בְּגוֹ | among (lit. in the midst of)
+יַעֲרָא | the reeds
+@ 2:5.3
+וְאוֹשֵׁטַת | and she stretched out
+יָת | (sign of the object)
+אַמְתַהּ | her maidservant
+וּנְסֵבְתַהּ | and she took it
+@ 2:6.0
+וּפְתָחַת | and she opened
+וַחֲזַת | and she saw
+יָת | (sign of the object)
+רַבְיָא | the child, the boy
+@ 2:6.1
+וְהָא | and behold
+עוּלֵימָא | a young man
+בָּכֵי | crying
+@ 2:6.2
+וְחָסַת | and she had pity
+עֲלוֹהִי | for him (lit. upon him)
+@ 2:6.3
+וַאֲמֶרֶת | and she said
+מִבְּנֵי | from the children of
+יְהוּדָאֵי | the Jews
+הוּא | it
+דֵין | this
+@ 2:7.0
+וַאֲמֶרֶת | and she said
+אֲחָתֵהּ | his sister
+לְבַת | to the daughter of
+פַרְעֹה | Paroh
+@ 2:7.1
+הַאֵיזִיל | shall I go
+וְאִקְרֵי | and call
+לִיךְ | for you
+אִתְּתָא | the woman
+מֵינִקְתָּא | nursing
+@ 2:7.2
+מִן | from
+יְהוּדַיָתָא | the Hebrew women (lit. the Jewish women)
+@ 2:7.3
+וְתוֹנִיק | and she will nurse
+לִיךְ | for you
+יָת | (sign of the object)
+רַבְיָא | the child, the boy
+@ 2:8.0
+וַאֲמֶרֶת | and she said
+לַהּ | to her
+בַּת | the daughter of
+פַּרְעֹה | Paroh
+אֵיזִילִי | go
+@ 2:8.1
+וַאֲזָלַת | and she went
+עוּלֶמְתָּא | the young woman
+@ 2:8.2
+וּקְרַת | and she called
+יָת | (sign of the object)
+אִמֵהּ | the mother of (lit. his mother)
+דְרַבְיָא | of the child
+@ 2:9.0
+וַאֲמֶרֶת | and she said
+לַהּ | to her
+בַּת | the daughter of
+פַּרְעֹה | Paroh
+אוֹבִילִי | take (lit. carry)
+יָת | (sign of the object)
+רַבְיָא הָדֵין | this child, the boy
+וְאוֹנְקִיהִי | and nurse him
+לִי | to me
+@ 2:9.1
+וַאֲנָא | and I am
+אֶתֵּן | I will give
+יָת | (sign of the object)
+אַגְרָךְ | your reward
+@ 2:9.2
+וּנְסֵיבַת | and she took
+אִתְּתָא | the woman
+יָת | (sign of the object)
+רַבְיָא | the child, the boy
+וְאוֹנִקְתֵּהּ | and she nursed him
+@ 2:10.0
+וּרְבָא | and he grew
+רַבְיָא | the child, the boy
+וְאַיְתִיתֵהּ | and she brought him
+לְבַת | to the daughter of
+פַּרְעֹה | Paroh
+@ 2:10.1
+וַהֲוָה | and it was
+לָהּ | to her
+לְבָר | to a son
+@ 2:10.2
+וּקְרַת | and she called
+שְׁמֵהּ | its name
+משֶׁה | Moshe
+@ 2:10.3
+וַאֲמֶרֶת | and she said
+אֲרֵי | that
+מִן | from
+מַיָא | the water
+שְׁחַלְתֵּהּ | I drew him out
+@ 2:11.0
+וַהֲוָה | and it was
+בְּיוֹמַיָא הָאִנוּן | in those days
+וּרְבָא | and he grew
+משֶׁה | Moshe
+וּנְפַק | and he went out
+לְוָת | to
+אַחוֹהִי | his brother
+@ 2:11.1
+וַחֲזָא | and he saw
+בְּפָלְחַנְהוֹן | at their labor
+@ 2:11.2
+וַחֲזָא | and he saw
+גְבַר | a man
+מִצְרִי | Egyptian
+@ 2:11.3
+מָחֵי | striking
+לִגְבַר | to a man
+יְהוּדִי | Jewish
+מֵאַחוֹהִי | from his brother
+@ 2:12.0
+וְאִתְפְּנֵי | and I will turn
+לְכָא | this way
+וּלְכָא | and that way
+@ 2:12.1
+וַחֲזָא | and he saw
+אֲרֵי | that
+לֵית | there was no one
+גַבְרָא | a man
+@ 2:12.2
+וּמְחָא | and he struck
+יָת | (sign of the object)
+מִצְרָאָה | an Egyptian
+@ 2:12.3
+וְטַמְרֵהּ | and he hid him
+בְּחָלָא | in the sand
+@ 2:13.0
+וּנְפַק | and he went out
+בְּיוֹמָא | on the day
+תִנְיָנָא | the second
+@ 2:13.1
+וְהָא | and behold
+תְּרֵין | two
+גֻבְרִין | men
+יְהוּדָאִין | Jewish
+נָצָן | withered
+@ 2:13.2
+וַאֲמַר | and he said
+לְחַיָבָא | to the wicked
+@ 2:13.3
+לְמָא | why
+אַתְּ | are you
+מָחֵי | striking
+לְחַבְרָךְ | your fellow
+@ 2:14.0
+וַאֲמַר | and he said
+מָן | who
+שַׁוְיָךְ | made you
+לִגְבַר | to a man
+רַב | the chief of
+וְדַיָן | and judge
+עֲלָנָא | to us (lit. upon us)
+@ 2:14.1
+הַלְמִקְטְלִי | to kill me
+אַתְּ | are you
+אָמַר | saying
+@ 2:14.2
+כְּמָא | as
+דִקְטַלְתָּ | as you killed
+יָת | (sign of the object)
+מִצְרָאָה | an Egyptian
+@ 2:14.3
+וּדְחִיל | and he was afraid
+משֶׁה | Moshe
+וַאֲמַר | and he said
+@ 2:14.4
+בְּקוּשְׁטָא | truly (lit. in truth)
+אִתְיְדַע | it was known
+פִּתְגָמָא | the word
+@ 2:15.0
+וּשְׁמַע | and he heard
+פַּרְעֹה | Paroh
+יָת | (sign of the object)
+פִּתְגָמָא הָדֵין | this word
+@ 2:15.1
+וּבְעָא | and he wanted (lit. sought)
+לְמִקְטַל | to kill
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 2:15.2
+וַעֲרַק | and he fled
+משֶׁה | Moshe
+מִן קֳדָם | from before
+פַּרְעֹה | Paroh
+@ 2:15.3
+וִיתֵיב | and he dwelt
+בְּאַרְעָא | in
+דְמִדְיָן | of Midyan
+וִיתֵיב | and he dwelt
+עַל | on, over
+בֵּירָא | a well
+@ 2:16.0
+וּלְרַבָּא | and to the great one
+דְמִדְיָן | of Midyan
+שְׁבַע | seven
+בְּנָן | daughters
+@ 2:16.1
+וְאָתָאָה | and they came
+וּדְלָאָה | and they drew
+וּמְלָאָה | and they filled
+יָת | (sign of the object)
+רְהָטַיָא | the troughs
+@ 2:16.2
+לְאַשְׁקָאָה | to water
+עֲנָא | the flock
+דַאֲבוּהֵן | of their father
+@ 2:17.0
+וַאֲתוֹ | and they came
+רָעַיָא | the shepherds
+וּטְרָדוּנוּן | and they drove them away
+@ 2:17.1
+וְקָם | and he rose
+משֶׁה | Moshe
+וּפְרָקִנוּן | and rescued them
+@ 2:17.2
+וְאַשְׁקֵי | and it watered
+יָת | (sign of the object)
+עַנְהֵן | their flock
+@ 2:18.0
+וַאֲתָאָה | and they came
+לְוַת | to
+רְעוּאֵל | Re‘uel
+אֲבוּהֵן | their father
+@ 2:18.1
+וַאֲמַר | and he said
+מָה | what
+דֵין | this
+אוֹחִיתוּן | have you hurried
+לְמֵיתֵי | to come
+יוֹמָא דֵין | this day
+@ 2:19.0
+וַאֲמָרָא | and said
+גַבְרָא | a man
+מִצְרָאָה | an Egyptian
+@ 2:19.1
+שֵׁזְבָנָא | he rescued us
+מִיַד | from the hand of
+רָעַיָא | the shepherds
+@ 2:19.2
+וְאַף | and also
+מִדְלָא דְלָא | surely drew (lit. drew drew)
+לָנָא | for us
+@ 2:19.3
+וְאַשְׁקֵי | and it watered
+יָת | (sign of the object)
+עָנָא | sheep, flock
+@ 2:20.0
+וַאֲמַר | and he said
+לִבְנָתֵיהּ | to his daughters
+וְאָן | and where
+הוּא | it
+@ 2:20.1
+לְמָא דְנַן | why is this
+שְׁבַקְתִּין | you left
+יָת | (sign of the object)
+גַבְרָא | a man
+@ 2:20.2
+קְרַן | call
+לֵהּ | for him
+וְיֵכוּל | and he will eat
+לַחְמָא | bread
+@ 2:21.0
+וּצְבִי | and agreed (lit. wanted)
+משֶׁה | Moshe
+לְמִיתַב | to dwell
+עִם | with
+גַבְרָא | a man
+@ 2:21.1
+וִיהַב | and he set
+יָת | (sign of the object)
+צִפּוֹרָה | Tzipporah
+בְרַתֵּהּ | his daughter
+לְמשֶׁה | to Moshe
+@ 2:22.0
+וִילִדַת | and she bore
+בַּר | has (lit. “son of”)
+@ 2:22.1
+וּקְרָא | and he called
+יָת | (sign of the object)
+שְׁמֵהּ | its name
+גֵרְשֹׁם | Gershom
+@ 2:22.2
+אֲרֵי | that
+אֲמַר | he said
+@ 2:22.3
+דַיָר | a stranger
+הֲוֵיתִי | I was
+@ 2:22.4
+בְּאַרַע | in the land of
+נוּכְרָאָה | foreign
+@ 2:23.0
+וַהֲוָה | and it was
+בְּיוֹמַיָא | in the days
+סַגִיאַיָא | many
+הָאִנוּן | those
+וּמִית | and he died
+מַלְכָּא | the king of
+דְמִצְרַיִם | of Mitzrayim
+@ 2:23.1
+וְאִתְנָחוּ | and they groaned
+בְנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+מִן | from
+פָּלְחָנָא | labor
+דַהֲוָה | that was
+קְשֵׁי | was hard, stiff
+עֲלֵיהוֹן | upon them, over them
+וּזְעִיקוּ | and they cried out
+@ 2:23.2
+וּסְלֵיקָת | and went up
+קְבֶלְתְּהוֹן | their outcry
+לָקֳדָם | to before
+יְיָ | Hashem
+מִן | from
+פָּלְחָנָא | labor
+@ 2:24.0
+וּשְׁמִיעַ | and it was heard
+קֳדָם | before
+יְיָ | Hashem
+יָת | (sign of the object)
+קְבֶלְתְּהוֹן | their outcry
+@ 2:24.1
+וּדְכִיר | and he remembered
+יְיָ | Hashem
+יָת | (sign of the object)
+קַיָמֵהּ | his covenant
+@ 2:24.2
+דְעִם | that with
+אַבְרָהָם | Avraham
+דְעִם | that with
+יִצְחָק | Yitzchak
+וּדְעִם | and that with
+יַעֲקֹב | Yaakov
+@ 2:25.0
+וּגְלִי | and it is revealed
+קְדָם | before
+יְיָ | Hashem
+שִׁעְבּוּדָא | the servitude
+דִבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+@ 2:25.1
+וַאֲמַר | and he said
+בְּמֵימְרֵהּ | in His Word
+לְמִפְרַקְהוֹן | to redeem them
+יְיָ | Hashem
+@ 3:1.0
+וּמשֶׁה | and Moshe
+הֲוָה | was
+רָעֵי | a shepherd of (lit. tending)
+יָת | (sign of the object)
+עָנָא | sheep, flock
+דְיִתְרוֹ | of Yitro
+חֲמוֹהִי | his father-in-law
+רַבָּא | the great one
+דְמִדְיָן | of Midyan
+@ 3:1.1
+וּדְבַר | and he took
+יָת | (sign of the object)
+עָנָא | sheep, flock
+לְבָתַר | after (lit. to after)
+שְׁפַר | the best of
+רַעֲיָא | pasture
+לְמַדְבְּרָא | to the wilderness
+@ 3:1.2
+וְאָתָא | and he came
+לְטוּרָא | to the mountain
+דְאִתְגְלִי | Who had revealed Himself
+עֲלוֹהִי | for him (lit. upon him)
+יְקָרָא | the Glory
+דַיְיָ | of Hashem
+לְחוֹרֵב | to Chorev
+@ 3:2.0
+וְאִתְגְלִי | and revealed Himself
+מַלְאָכָא | an angel
+דַיְיָ | of Hashem
+לֵהּ | for him
+בְּשַׁלְהוֹבִית | in a flame of
+אֶשָׁתָא | the fire
+מִגוֹ | from the midst of
+אַסָנָא | the thornbush
+@ 3:2.1
+וַחֲזָא | and he saw
+וְהָא | and behold
+אַסָנָא | the thornbush
+בָּעֵר | burning
+בְּאֶשְָׁתָא | in fire
+@ 3:2.2
+וַאֲסָנָא | and the thornbush
+לֵיתוֹהִי | is not
+מִתְאָכִיל | consumed (lit. being eaten)
+@ 3:3.0
+וַאֲמַר | and he said
+משֶׁה | Moshe
+@ 3:3.1
+אִתְפְּנֵי | let me turn aside
+כְעַן | now
+וְאֶחֱזֵי | and I will see
+@ 3:3.2
+יָת | (sign of the object)
+חָזְוָנָא | sight, vision
+רַבָּא | the great one
+הָדֵין | this
+@ 3:3.3
+מָא | why
+דֵין | this
+לָא | not
+מִתּוֹקַד | is burned
+אַסָנָא | the thornbush
+@ 3:4.0
+וַחֲזָא | and he saw
+יְיָ | Hashem
+אֲרֵי | that
+אִתְפְּנֵי | turned aside
+לְמֶחֱזֵי | to look at
+@ 3:4.1
+וּקְרָא | and he called
+לֵהּ | for him
+יְיָ | Hashem
+מִגוֹ | from the midst of
+אַסָנָא | the thornbush
+וַאֲמַר | and he said
+משֶׁה | Moshe
+משֶׁה | Moshe
+וַאֲמַר | and he said
+הָא | behold
+אֲנָא | I am
+@ 3:5.0
+וַאֲמַר | and he said
+לָא | not
+תִקְרַב | you come near
+הַלְכָא | here
+@ 3:5.1
+שְׁרִי | remove (lit. loosen)
+סֵינָךְ | your shoes
+מֵעַל | from upon
+רִגְלָךְ | your feet
+@ 3:5.2
+אֲרֵי | that
+אַתְרָא | the place
+דְאַתְּ | that are you
+קָאִים | standing
+עֲלוֹהִי | for him (lit. upon him)
+@ 3:5.3
+אֲתַר | the place of
+קַדִישׁ | holy
+הוּא | it
+@ 3:6.0
+וַאֲמַר | and he said
+אֲנָא | I am
+אֱלָהָא | the God
+דְאָבוּךְ | of your father
+@ 3:6.1
+אֱלָהָא | the God
+דְאַבְרָהָם | of Avraham
+אֱלָהָא | the God
+דְיִצְחָק | of Yitzchak
+וֵאלָהָא | and the God
+דְיַעֲקֹב | of Yaakov
+@ 3:6.2
+וּכְבֵשִׁנּוּן | and turned away (lit. pressed down)
+משֶׁה | Moshe
+לְאַפּוֹהִי | to his face
+@ 3:6.3
+אֲרֵי | that
+דָחִיל | he was afraid (lit. fearing)
+@ 3:6.4
+מִלְאִסְתַּכָּלָא | from looking
+בְּצֵית | toward (lit. in the direction of)
+יְקָרָא | the Glory
+דַיְיָ | of Hashem
+@ 3:7.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+@ 3:7.1
+מִגְלָא גְלִי | surely it is revealed (lit. revealed it is revealed)
+קֳדָמַי | before Me
+יָת | (sign of the object)
+שִׁעְבּוּד | the servitude of
+עַמִי | my people
+דִי | that, which
+בְמִצְרָיִם | in Mitzrayim
+@ 3:7.2
+וְיָת | and (sign of the object)
+קְבֶלְתְּהוֹן | their outcry
+שְׁמִיעַ | it has been heard
+קֳדָמַי | before Me
+מִן קֳדָם | from before
+מַפְלְחֵיהוֹן | their taskmasters (lit. those who make them work)
+@ 3:7.3
+אֲרֵי | that
+גְלֵי | it is revealed
+קָדָמַי | before me
+יָת | (sign of the object)
+כֵּיבֵיהוֹן | their pains
+@ 3:8.0
+וְאִתְגְלֵיתִי | and I have revealed Myself
+לְשֵׁזָבוּתְהוֹן | to rescue them
+מִידָא | from the hand of
+דְמִצְרָאֵי | of the Egyptians
+וּלְאַסָקוּתְהוֹן | and to bring them up
+מִן | from
+אַרְעָא הַהִיא | that earth, the land
+@ 3:8.1
+לְאַרְעָא | to the earth, the land
+טָבָא | good
+וּפַתְיָא | and wide
+@ 3:8.2
+לְאַרְעָא | to the earth, the land
+עָבְדָא | producing
+חֲלָב | milk
+וּדְבָשׁ | and honey
+@ 3:8.3
+לַאֲתַר | to one place
+כְּנַעֲנָאֵי | the Canaanites
+וְחִתָּאֵי | and the Hittites
+@ 3:8.4
+וֶאֱמוֹרָאֵי | and the Emorim
+וּפְרִזָאֵי | and the Perizzites
+@ 3:8.5
+וְחִוָאֵי | and the Chivim
+וִיבוּסָאֵי | and the Yevusim
+@ 3:9.0
+וּכְעַן | and now
+הָא | behold
+קְבֵילַת | the outcry of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+עָלַת | has come
+קֳדָמָי | before Me
+@ 3:9.1
+וְאַף | and also
+גְלֵי | it is revealed
+קֳדָמַי | before Me
+יָת | (sign of the object)
+דוֹחֲקָא | the oppression
+@ 3:9.2
+דִי | that, which
+מִצְרָאֵי | the Egyptians
+דָחֲקִין | oppress
+לְהוֹן | to them
+@ 3:10.0
+וּכְעַן | and now
+אִיתָא | come
+@ 3:10.1
+וַאֲשַׁלְחִנָּךְ | and I will send you
+לְוַת | to
+פַּרְעֹה | Paroh
+@ 3:10.2
+וְאַפֵּיק | and bring out
+יָת | (sign of the object)
+עַמִי | my people
+בְנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+מִמִצְרָיִם | from Mitzrayim
+@ 3:11.0
+וַאֲמַר | and he said
+משֶׁה | Moshe
+קֳדָם | before
+יְיָ | Hashem
+@ 3:11.1
+מָן | who
+אֲנָא | I am
+@ 3:11.2
+אֲרֵי | that
+אֵזִיל | I should go
+לְוָת | to
+פַּרְעֹה | Paroh
+@ 3:11.3
+וַאֲרֵי | and that
+אַפֵּיק | bring out
+יָת | (sign of the object)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+מִמִצְרָיִם | from Mitzrayim
+@ 3:12.0
+וַאֲמַר | and he said
+אֲרֵי | that
+יְהֵי | will be
+מֵימְרִי | My Word
+בְסַעְדָךְ | with you (lit. in your support)
+@ 3:12.1
+וְדֵין | and this
+לָךְ | to you
+אָתָא | a sign
+@ 3:12.2
+אֲרֵי | that
+אֲנָא | I am
+שְׁלַחְתָּךְ | I have sent you
+@ 3:12.3
+בְּאַפָּקוּתָךְ | when you bring out
+יָת | (sign of the object)
+עַמָא | the people
+מִמִצְרַיִם | from Mitzrayim
+@ 3:12.4
+תִּפְלְחוּן | you will serve
+קֳדָם | before
+יְיָ | Hashem
+@ 3:12.5
+עַל | on, over
+טוּרָא הָדֵין | this mountain
+@ 3:13.0
+וַאֲמַר | and he said
+משֶׁה | Moshe
+קֳדָם | before
+יְיָ | Hashem
+הָא | behold
+אֲנָא | I am
+אָתֵי | is coming
+לְוָת | to
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:13.1
+וְאֵימַר | and I will say
+לְהוֹן | to them
+@ 3:13.2
+אֱלָהָא | the God
+דְאַבְהַתְכוֹן | of your fathers
+שַׁלְחַנִי | send me away
+לְוָתְכוֹן | to you
+@ 3:13.3
+וְיֵימְרוּן | and they will say
+לִי | to me
+מָא | why
+שְׁמֵהּ | its name
+@ 3:13.4
+מָא | why
+אֵימַר | I will say
+לְהוֹן | to them
+@ 3:14.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לְמשֶׁה | to Moshe
+@ 3:14.1
+אֶהְיֶה | Ehyeh
+אֲשֶׁר | asher
+אֶהְיֶה | Ehyeh
+@ 3:14.2
+וַאֲמַר | and he said
+כִּדְנַן | thus (lit. like this)
+תֵּימַר | you will say
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:14.3
+אֶהְיֶה | Ehyeh
+שַׁלְחַנִי | send me away
+לְוָתְכוֹן | to you
+@ 3:15.0
+וַאֲמַר | and he said
+עוֹד | again
+יְיָ | Hashem
+לְמשֶׁה | to Moshe
+כִּדְנַן | thus (lit. like this)
+תֵּימַר | you will say
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:15.1
+יְיָ | Hashem
+אֱלָהָא | the God
+דְאַבְהַתְכוֹן | of your fathers
+אֱלָהֵהּ | the God of
+דְאַבְרָהָם | of Avraham
+אֱלָהֵהּ | the God of
+דְיִצְחָק | of Yitzchak
+וֵאלָהֵהּ | and the God of
+דְיַעֲקֹב | of Yaakov
+שַׁלְחַנִי | send me away
+לְוָתְכוֹן | to you
+@ 3:15.2
+דֵין | this
+שְׁמִי | my name
+לְעָלַם | forever
+@ 3:15.3
+וְדֵין | and this
+דָכְרָנִי | my remembrance
+לְכָל | to all of
+דָר | lived
+וְדָר | and generation
+@ 3:16.0
+אִזֵיל | go
+וְתִכְנוֹשׁ | and you shall gather
+יָת | (sign of the object)
+סָבֵי | the elders of
+יִשְׂרָאֵל | Yisrael
+וְתֵימַר | and you will say
+לְהוֹן | to them
+יְיָ | Hashem
+אֱלָהָא | the God
+דְאַבְהַתְכוֹן | of your fathers
+אִתְגְלֵי | revealed Himself
+לִי | to me
+@ 3:16.1
+אֱלָהֵהּ | the God of
+דְאַבְרָהָם | of Avraham
+יִצְחָק | Yitzchak
+וְיַעֲקֹב | and Yaakov
+לְמֵימָר | saying (lit. “to say”)
+@ 3:16.2
+מִדְכַּר דְכִירְנָא | surely I have remembered (lit. I am remembering) (lit. remember I have remembered (lit. I am remembering))
+יַתְכוֹן | you
+@ 3:16.3
+וְיָת | and (sign of the object)
+דְאִתְעֲבַד | what has been done
+לְכוֹן | to you, for you
+בְּמִצְרַיִם | in Mitzrayim
+@ 3:17.0
+וַאֲמָרִית | and I said
+אַסֵיק | I will bring up
+יָתְכוֹן | you
+מִשִׁעְבּוּד | from the servitude of
+מִצְרָאֵי | the Egyptians
+@ 3:17.1
+לַאֲרַע | to the land of
+כְּנַעֲנָאֵי | the Canaanites
+וְחִתָּאֵי | and the Hittites
+@ 3:17.2
+וֶאֱמוֹרָאֵי | and the Emorim
+וּפְרִזָאֵי | and the Perizzites
+@ 3:17.3
+וְחִוָאֵי | and the Chivim
+וִיבוּסָאֵי | and the Yevusim
+@ 3:17.4
+לְאַרְעָא | to the earth, the land
+עַבְדָא | producing
+חֲלָב | milk
+וּדְבָשׁ | and honey
+@ 3:18.0
+וִיקַבְּלוּן | and they will listen
+לְמֵימְרָךְ | to Your Word
+@ 3:18.1
+וְתֵיתֵי | and you will come
+אַתְּ | are you
+וְסָבֵי | and the elders of
+יִשְׂרָאֵל | Yisrael
+לְוָת | to
+מַלְכָּא | the king of
+דְמִצְרַיִם | of Mitzrayim
+וְתֵימְרוּן | and you shall say
+לֵהּ | for him
+יְיָ | Hashem
+אֱלָהָא | the God
+דִיהוּדָאֵי | of the Jews
+אִתְקְרֵי | has appeared (lit. was called)
+עֲלָנָא | to us (lit. upon us)
+@ 3:18.2
+וּכְעַן | and now
+נֵזֵיל | let us go
+כְּעַן | now
+מַהֲלַךְ | a journey of
+תְּלָתָא | three
+יוֹמִין | days
+בְּמַדְבְּרָא | in the wilderness
+@ 3:18.3
+וּנְדַבַּח | and let us sacrifice
+קֳדָם | before
+יְיָ | Hashem
+אֱלָהָנָא | our God
+@ 3:19.0
+וּקְדָמַי | and before Me
+גְלֵי | it is revealed
+@ 3:19.1
+אֲרֵי | that
+לָא | not
+יִשְׁבּוֹק | shall leave
+יָתְכוֹן | you
+מַלְכָּא | the king of
+דְמִצְרַיִם | of Mitzrayim
+לְמֵיזָל | to go
+@ 3:19.2
+וְלָא | and not
+מִן קֳדָם | from before
+דְחֵילֵהּ | because his strength
+תַּקִיף | strong, mighty
+@ 3:20.0
+וָאֲשַׁלַח | and I will send
+פּוֹן | a little
+יָת | (sign of the object)
+מְחַת | the blow of
+גְבֻרְתִּי | my might
+וְאֶמְחֵי | and I will strike
+יָת | (sign of the object)
+מִצְרָאֵי | the Egyptians
+@ 3:20.1
+בְּכֹל | in all, every
+פְּרִשְׁוָתִי | my wonders
+@ 3:20.2
+דִי | that, which
+אַעְבֵּד | I will do
+בֵּינֵיהוֹן | among them
+@ 3:20.3
+וּבָתַר כֵּן | and afterwards
+יְשַׁלַח | he will send you out
+יָתְכוֹן | you
+@ 3:21.0
+וְאֶתֵּן | and I will give
+יָת | (sign of the object)
+עַמָא הָדֵין | this people
+לְרַחֲמִין | to favour (lit. mercy)
+בְּעֵינֵי | in the eyes of
+מִצְרָאֵי | the Egyptians
+@ 3:21.1
+וִיהֵי | and will be
+אֲרֵי | that
+תְהָכוּן | you go
+@ 3:21.2
+לָא | not
+תְהָכוּן | you go
+רֵיקָנִין | empty-handed
+@ 3:22.0
+וְתִשְׁאַל | and will ask
+אִתְּתָא | the woman
+מִשְׁבַבְתַּהּ | from her neighbor
+וּמִקְרִיבַת | and from who lives near
+בֵּיתַהּ | her household
+@ 3:22.1
+מָנִין | vessels, articles
+דִכְסַף | of silver
+וּמָנִין | and vessels
+דִדְהַב | of gold
+וּלְבוּשִׁין | and garments
+@ 3:22.2
+וּתְשַׁווּן | and you shall put
+עַל | on, over
+בְּנֵיכוֹן | your children
+וְעַל | and on
+בְּנָתֵיכוֹן | your daughters
+@ 3:22.3
+וּתְרוֹקִנוּן | and you will empty
+יָת | (sign of the object)
+מִצְרָיִם | Mitzrayim
+@ 4:1.0
+וַאֲתֵיב | and he answered (lit. returned)
+משֶׁה | Moshe
+וַאֲמַר | and he said
+@ 4:1.1
+וְהָא | and behold
+לָא | not
+יְהֵמְנוּן | they will believe
+לִי | to me
+@ 4:1.2
+וְלָא | and not
+יְקַבְּלוּן | they will accept
+מִנִי | from Me
+@ 4:1.3
+אֲרֵי | that
+יֵימְרוּן | they will say
+@ 4:1.4
+לָא | not
+אִתְגְלֵי | revealed Himself
+לָךְ | to you
+יְיָ | Hashem
+@ 4:2.0
+וַאֲמַר | and he said
+לֵהּ | for him
+יְיָ | Hashem
+מָא | why
+דֵין | this
+בִּידָךְ | in your hand
+@ 4:2.1
+וַאֲמַר | and he said
+חוּטְרָא | a staff
+@ 4:3.0
+וַאֲמַר | and he said
+רְמִיהִי | throw it
+לְאַרְעָא | to the earth, the land
+@ 4:3.1
+וּרְמָהִי | and he threw it
+לְאַרְעָא | to the earth, the land
+וַהֲוָה | and it was
+לְחִוֵי | into a snake
+@ 4:3.2
+וַעֲרַק | and he fled
+משֶׁה | Moshe
+מִן | from
+קֳדָמוֹהִי | before Him
+@ 4:4.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לְמשֶׁה | to Moshe
+@ 4:4.1
+אוֹשִׁט | stretch out
+יְדָךְ | your hand
+@ 4:4.2
+וְאֵחוֹד | and grab
+בְּזַנְבֵהּ | by its tail
+@ 4:4.3
+וְאוֹשֵׁיט | and he stretched out
+יְדֵהּ | his hand
+וְאַתְקֵף | and he grasped (lit. held strongly)
+בֵּהּ | in it
+@ 4:4.4
+וַהֲוָה | and it was
+לְחוּטְרָא | to a staff
+בִּידֵהּ | in his hand
+@ 4:5.0
+בְּדִיל | for the sake of
+דִיהֵמְנוּן | that they will believe
+@ 4:5.1
+אֲרֵי | that
+אִתְגְלִי | I will reveal Myself
+לָךְ | to you
+יְיָ | Hashem
+אֱלָהָא | the God
+דְאַבְהַתְהוֹן | of their fathers
+@ 4:5.2
+אֱלָהֵהּ | the God of
+דְאַבְרָהָם | of Avraham
+אֱלָהֵהּ | the God of
+דְיִצְחָק | of Yitzchak
+וֵאֵלָהֵהּ | and the God of
+דְיַעֲקֹב | of Yaakov
+@ 4:6.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לֵהּ | for him
+עוֹד | again
+אָעֵיל | bring
+כְּעַן | now
+יְדָךְ | your hand
+בְּעִטְפָךְ | into your bosom
+@ 4:6.1
+וְאָעֵיל | and he brought in
+יְדֵהּ | his hand
+בְּעִטְפֵהּ | into his bosom
+@ 4:6.2
+וְאַפְקַהּ | and he took it out
+וְהָא | and behold
+יְדֵהּ | his hand
+חַוְרָא | white
+כְתַלְגָא | like snow
+@ 4:7.0
+וַאֲמַר | and he said
+אָתֵיב | I bring back
+יְדָךְ | your hand
+לְעִטְפָךְ | to your bosom
+@ 4:7.1
+וַאֲתֵיב | and he put back
+יְדֵהּ | his hand
+לְעִטְפֵהּ | to his bosom
+@ 4:7.2
+וְאַפְקַהּ | and he took it out
+מֵעִטְפֵהּ | from his bosom
+@ 4:7.3
+וְהָא | and behold
+תָבַת | it returned
+הֲוַת | was
+כְּבִשְׂרֵהּ | like his flesh
+@ 4:8.0
+וִיהֵי | and will be
+אִם | if
+לָא | not
+יְהֵמְנוּן | they will believe
+לָךְ | to you
+@ 4:8.1
+וְלָא | and not
+יְקַבְּלוּן | they will accept
+@ 4:8.2
+לְקַל | to the voice of
+אָתָא | a sign
+קַדְמָאָה | the first
+@ 4:8.3
+וִיהֵמְנוּן | and they will believe
+לְקַל | to the voice of
+אָתָא | a sign
+בַתְרָאָה | the latter
+@ 4:9.0
+וִיהֵי | and will be
+אִם | if
+לָא | not
+יְהֵמְנוּן | they will believe
+אַף | also
+לִתְרֵין | to two
+אָתַיָא הָאִלֵּין | these signs
+וְלָא | and not
+יְקַבְּלוּן | they will accept
+מִנָךְ | from you
+@ 4:9.1
+וְתִסַב | and you shall take
+מִמַיָא | from the water
+דִבְנַהֲרָא | that are in the river
+@ 4:9.2
+וְתֵשׁוֹד | and pour
+לְיַבֶּשְׁתָּא | to the dry land
+@ 4:9.3
+וִיהוֹן | and they will be
+מַיָא | the water
+דִי | that, which
+תִסַב | you shall take
+מִן | from
+נַהֲרָא | the river
+@ 4:9.4
+וִיהוֹן | and they will be
+לִדְמָא | into blood
+בְּיַבֶּשְׁתָּא | in the dry land
+@ 4:10.0
+וַאֲמַר | and he said
+משֶׁה | Moshe
+קֳדָם | before
+יְיָ | Hashem
+בְּבָעוּ | please (lit. in request)
+יְיָ | Hashem
+@ 4:10.1
+לָא | not
+גְבַר | a man
+דְמִלוּל | of speech
+אֲנָא | I am
+אַף | also
+מִתְּמַלִי | from yesterday
+אַף | also
+מִדְקָמוֹהִי | from the day before
+@ 4:10.2
+אַף | also
+מֵעִדַן | from a time
+דְמַלֶלְתָּא | that you spoke
+עִם | with
+עַבְדָךְ | your servant
+@ 4:10.3
+אֲרֵי | that
+יַקִיר | honored
+מַמְלָל | speech
+וְעַמִיק | and heavy (lit. deep)
+לִישָׁן | a language
+אֲנָא | I am
+@ 4:11.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לֵהּ | for him
+מָן | who
+שַׁוִי | he put
+פּוּמָא | the mouth of
+לַאֲנָשָׁא | to mankind
+@ 4:11.1
+אוֹ | or
+מָן | who
+שַׁוִי | he put
+אִלְמָא | the mute
+@ 4:11.2
+אוֹ | or
+חֵרְשָׁא | the deaf
+@ 4:11.3
+אוֹ | or
+פִקְחָא | the seeing
+אוֹ | or
+עַוִירָא | the blind
+@ 4:11.4
+הֲלָא | surely (lit. is it not)
+אֲנָא | I am
+יְיָ | Hashem
+@ 4:12.0
+וּכְעַן | and now
+אֱזֵיל | I will go
+@ 4:12.1
+וּמֵימְרִי | and My Word
+יְהֵא | will be
+עִם | with
+פּוּמָךְ | your mouth
+@ 4:12.2
+וְאַלֵפִנָךְ | and I will teach you
+דִי | that, which
+תְמַלֵל | you shall speak
+@ 4:13.0
+וַאֲמַר | and he said
+בְּבָעוּ | please (lit. in request)
+יְיָ | Hashem
+@ 4:13.1
+שְׁלַח | sent
+כְּעַן | now
+בְּיַד | into the hand of
+מָן | who
+דְכָשַׁר | that is fit
+דְתִשְׁלַח | whom you would send
+@ 4:14.0
+וּתְקֵיף | and it grew strong
+רוּגְזָא | the anger
+דַיְיָ | of Hashem
+בְּמשֶׁה | in Moshe
+וַאֲמַר | and he said
+הֲלָא | surely (lit. is it not)
+אַהֲרֹן | Aharon
+אָחוּךְ | your brother
+לֵוָאֵי | the Levite
+@ 4:14.1
+גְלֵי | it is revealed
+קֳדָמַי | before Me
+אֲרֵי | that
+מַלָלָא יְמַלֵל | surely speak (lit. speak speak)
+הוּא | it
+@ 4:14.2
+וְאַף | and also
+הָא | behold
+הוּא | it
+נָפֵק | going out
+לְקַדָמוּתָךְ | to meet you
+@ 4:14.3
+וְיֶחֱזִנָךְ | and he will see you
+וְיֶחְדֵי | and he will rejoice
+בְלִבֵּהּ | in his heart
+@ 4:15.0
+וּתְמַלֵל | and you shall speak
+עִמֵהּ | with him
+@ 4:15.1
+וּתְשַׁוִי | and you shall put
+יָת | (sign of the object)
+פִּתְגָמַיָא | the events (lit. words)
+בְּפוּמֵהּ | in his mouth
+@ 4:15.2
+וּמֵימְרִי | and My Word
+יְהֵי | will be
+עִם | with
+פּוּמָךְ | your mouth
+וְעִם | and with
+פּוּמֵהּ | his mouth
+@ 4:15.3
+וְאַלֵיף | and I will teach
+יָתְכוֹן | you
+@ 4:15.4
+יָת | (sign of the object)
+דִי | that, which
+תַעְבְּדוּן | you shall do
+@ 4:16.0
+וִימַלֵל | and he will speak
+הוּא | it
+לָךְ | to you
+לְעַמָא | to the people
+@ 4:16.1
+וִיהֵי | and will be
+הוּא | it
+יְהֵי | will be
+לָךְ | to you
+לִמְתֻרְגְמָן | to an interpreter
+@ 4:16.2
+וְאַתְּ | and you
+תְּהֵי | shall be
+לֵהּ | for him
+לְרָב | as a master
+@ 4:17.0
+וְיָת | and (sign of the object)
+חֻטְרָא הָדֵין | this staff
+תִּסַב | you shall take
+בִּידָךְ | in your hand
+@ 4:17.1
+דְתַעְבֵּד | that you shall make
+בֵּהּ | in it
+יָת | (sign of the object)
+אָתַיָא | the signs
+@ 4:18.0
+וַאֲזַל | and he went
+משֶׁה | Moshe
+וְתָב | and returned
+לְוָת | to
+יֶתֶר | Yeter
+חֲמוֹהִי | his father-in-law
+וַאֲמַר | and he said
+לֵהּ | for him
+אֵיזִיל | I will go
+כְּעַן | now
+וְאֵיתוּב | and I will return
+לְוָת | to
+אַחַי | my brothers
+דִי | that, which
+בְמִצְרַיִם | in Mitzrayim
+@ 4:18.1
+וְאֶחֱזֵי | and I will see
+הַעַד | is he still
+כְּעַן | now
+קַיָמִין | are alive
+@ 4:18.2
+וַאֲמַר | and he said
+יִתְרוֹ | Yitro
+לְמשֶׁה | to Moshe
+אֱזֵיל | I will go
+לִשְׁלָם | peaceably (lit. for peace)
+@ 4:19.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לְמשֶׁה | to Moshe
+בְּמִדְיָן | in Midyan
+@ 4:19.1
+אֱזֵיל | I will go
+תּוּב | return
+לְמִצְרָיִם | to Mitzrayim
+@ 4:19.2
+אֲרֵי | that
+מִיתוּ | they died
+כָּל | every, all
+גֻבְרַיָא | the men
+@ 4:19.3
+דִבְעוֹ | who sought
+לְמִקְטְלָךְ | to kill you
+@ 4:20.0
+וּדְבַר | and he took
+משֶׁה | Moshe
+יָת | (sign of the object)
+אִתְּתֵהּ | his wife
+וְיָת | and (sign of the object)
+בְּנוֹהִי | his sons
+וְאַרְכְּבִנוּן | and he set them
+עַל | on, over
+חֲמָרָא | the donkey
+@ 4:20.1
+וְתָב | and returned
+לְאַרְעָא | to the earth, the land
+דְמִצְרָיִם | of Mitzrayim
+@ 4:20.2
+וּנְסִיב | and he took
+משֶׁה | Moshe
+יָת | (sign of the object)
+חוּטְרָא | a staff
+דְאִתְעֲבִידוּ | were done
+בֵּהּ | in it
+נִסִין | miracles
+מִן קֳדָם | from before
+יְיָ | Hashem
+בִּידֵהּ | in his hand
+@ 4:21.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לְמשֶׁה | to Moshe
+@ 4:21.1
+בִּמְהָכָךְ | when you go
+לְמִתּוּב | to return
+לְמִצְרַיִם | to Mitzrayim
+@ 4:21.2
+חֲזֵי | see
+כָּל | every, all
+מוֹפְתַיָא | the wonders
+דִי | that, which
+שַׁוֵיתִי | I have set up
+בִידָךְ | in your hand
+@ 4:21.3
+וְתַעְבְּדִנוּן | and you shall perform them
+קֳדָם | before
+פַּרְעֹה | Paroh
+@ 4:21.4
+וַאֲנָא | and I am
+אַתְקֵיף | I will harden (lit. strengthen)
+יָת | (sign of the object)
+לִבֵּהּ | his heart
+@ 4:21.5
+וְלָא | and not
+יְשַּׁלַח | he will send out
+יָת | (sign of the object)
+עַמָא | the people
+@ 4:22.0
+וְתֵימַר | and you will say
+לְוָת | to
+פַּרְעֹה | Paroh
+@ 4:22.1
+כִּדְנַן | thus (lit. like this)
+אֲמַר | he said
+יְיָ | Hashem
+@ 4:22.2
+בְּרִי | my son
+בוּכְרִי | my firstborn
+יִשְׂרָאֵל | Yisrael
+@ 4:23.0
+וַאֲמָרִית | and I said
+לָךְ | to you
+שַׁלַח | to send (lit. he sent)
+יָת | (sign of the object)
+בְּרִי | my son
+וְיִפְלַח | that he may serve
+קֳדָמַי | before Me
+@ 4:23.1
+וְאִם | and if
+סָרִיב | refuse
+אַתְּ | are you
+לְשַׁלָחוּתֵהּ | to send him
+@ 4:23.2
+הָא | behold
+אֲנָא | I am
+קָטִיל | who kills
+@ 4:23.3
+יָת | (sign of the object)
+בְּרָךְ | your son
+בּוּכְרָךְ | your firstborn
+@ 4:24.0
+וַהֲוָה | and it was
+בְאָרְחָא | on the way
+בְּבֵית | in the house of
+מְבָתָא | the lodging
+@ 4:24.1
+וַעֲרַע | and he came upon
+בֵּהּ | in it
+מַלְאֲכָא | the angel
+דַיְיָ | of Hashem
+@ 4:24.2
+וּבְעָא | and he wanted (lit. sought)
+לְמִקְטְלֵהּ | to kill him
+@ 4:25.0
+וּנְסֵיבַת | and she took
+צִפּוֹרָה | Tzipporah
+טִנָרָא | a flint
+וּגְזָרַת | and she cut off
+יָת | (sign of the object)
+עָרְלַת | the foreskin of
+בְּרַהּ | her son
+@ 4:25.1
+וּקְרִיבַת | and came near
+לָקֳדָמוֹהִי | to before Him
+@ 4:25.2
+וַאֲמֶרֶת | and she said
+אֲרֵי | that
+בִדְמָא | in the blood
+דִמְהֻלְתָּא הָדֵין | of this circumcision
+אִתְיְהֵב | has been given
+חַתְנָא | a son-in-law
+לָנָא | for us
+@ 4:26.0
+וְנָח | and let go (lit. rested)
+מִנֵהּ | from him, from it
+@ 4:26.1
+בְּכֵן | therefore (lit. thus)
+אֲמֶרֶת | she said
+@ 4:26.2
+אִלוּלֵי | were it not for
+דְמָא | the blood
+דִמְהֻלְתָּא הָדֵין | of this circumcision
+אִתְחַיַב | would have been liable to
+חַתְנָא | a son-in-law
+קְטוֹל | killing
+@ 4:27.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לְאַהֲרֹן | to Aharon
+@ 4:27.1
+אֱזֵיל | I will go
+לְקַדָמוּת | to meet
+משֶׁה | Moshe
+לְמַדְבְּרָא | to the wilderness
+@ 4:27.2
+וַאֲזַל | and he went
+וְעַרְעֵהּ | and he met him
+בְּטוּרָא | on the mountain
+דְאִתְגְלֵי | that revealed Himself
+עֲלוֹהִי | for him (lit. upon him)
+יְקָרָא | the Glory
+דַיְיָ | of Hashem
+וּנְשַׁק | and kiss
+לֵהּ | for him
+@ 4:28.0
+וְחַוִי | and he told
+משֶׁה | Moshe
+לְאַהֲרֹן | to Aharon
+@ 4:28.1
+יָת | (sign of the object)
+כָּל | every, all
+פִּתְגָמַיָא | the events (lit. words)
+דַיְיָ | of Hashem
+דִי | that, which
+שַׁלְחֵהּ | sent him
+@ 4:28.2
+וְיָת | and (sign of the object)
+כָּל | every, all
+אָתַיָא | the signs
+דִי | that, which
+פַקְדֵהּ | commanded him
+@ 4:29.0
+וַאֲזַל | and he went
+משֶׁה | Moshe
+וְאַהֲרֹן | and Aharon
+@ 4:29.1
+וּכְנָשׁוּ | and they gathered
+יָת | (sign of the object)
+כָּל | every, all
+סָבֵי | the elders of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 4:30.0
+וּמַלִיל | and he spoke
+אַהֲרֹן | Aharon
+@ 4:30.1
+יָת | (sign of the object)
+כָּל | every, all
+פִּתְגָמַיָא | the events (lit. words)
+@ 4:30.2
+דִי | that, which
+מַלִיל | he had spoken
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+@ 4:30.3
+וַעֲבַד | and he made
+אָתַיָא | the signs
+לְעֵינֵי | to the eyes of
+עַמָא | the people
+@ 4:31.0
+וְהֵימִן | and believed
+עַמָא | the people
+@ 4:31.1
+וּשְׁמָעוּ | and they heard
+אֲרֵי | that
+דְכִיר | remembering
+יְיָ | Hashem
+יָת | (sign of the object)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+וַאֲרֵי | and that
+גְלֵי | it is revealed
+קֳדָמוֹהִי | before Him
+יָת | (sign of the object)
+שִׁעְבּוּדְהוֹן | their servitude
+@ 4:31.2
+וּכְרָעוּ | and they bowed (lit. knelt)
+וּסְגִידוּ | and they bowed
+@ 5:1.0
+וּבָתַר כֵּן | and afterwards
+עַלוּ | they went in
+משֶׁה | Moshe
+וְאַהֲרֹן | and Aharon
+@ 5:1.1
+וַאֲמָרוּ | and they said
+לְפַרְעֹה | to Paroh
+@ 5:1.2
+כִּדְנַן | thus (lit. like this)
+אֲמַר | he said
+יְיָ | Hashem
+אֱלָהָא | the God
+דְיִשְׂרָאֵל | of Yisrael
+@ 5:1.3
+שַׁלַח | to send (lit. he sent)
+יָת | (sign of the object)
+עַמִי | my people
+@ 5:1.4
+וִיחַגוּן | that they may celebrate a festival
+קֳדָמַי | before Me
+בְּמַדְבְּרָא | in the wilderness
+@ 5:2.0
+וַאֲמַר | and he said
+פַּרְעֹה | Paroh
+@ 5:2.1
+שְׁמָא | the name
+דַיְיָ | of Hashem
+לָא | not
+אִתְגְלִי | I will reveal Myself
+לִי | to me
+דִי | that, which
+אֲקַבֵּל | that I should accept
+לְמֵמְרֵהּ | His word
+@ 5:2.2
+לְשַׁלָחָא | to send away
+יָת | (sign of the object)
+יִשְׂרָאֵל | Yisrael
+@ 5:2.3
+לָא | not
+אִתְגְלִי | I will reveal Myself
+לִי | to me
+שְׁמָא | the name
+דַיְיָ | of Hashem
+@ 5:2.4
+וְאַף | and also
+יָת | (sign of the object)
+יִשְׂרָאֵל | Yisrael
+לָא | not
+אֲשַׁלַח | I will send
+@ 5:3.0
+וַאֲמָרוּ | and they said
+אֱלָהָא | the God
+דִיהוּדָאֵי | of the Jews
+אִתְגְלִי | I will reveal Myself
+עֲלָנָא | to us (lit. upon us)
+@ 5:3.1
+נֵיזֵיל | let us go
+כְּעַן | now
+מַהֲלַךְ | a journey of
+תְּלָתָא | three
+יוֹמִין | days
+בְּמַדְבְּרָא | in the wilderness
+וּנְדַבַּח | and let us sacrifice
+קֳדָם | before
+יְיָ | Hashem
+אֱלָהָנָא | our God
+@ 5:3.2
+דִלְמָא | lest
+יְעַרְעִנָנָא | befalls us
+בְּמוֹתָא | the death
+אוֹ | or
+בִקְטוֹל | in killing
+@ 5:4.0
+וַאֲמַר | and he said
+לְהוֹן | to them
+מַלְכָּא | the king of
+דְמִצְרַיִם | of Mitzrayim
+@ 5:4.1
+לְמָא | why
+משֶׁה | Moshe
+וְאַהֲרֹן | and Aharon
+@ 5:4.2
+תְּבַטְלוּן | do you make idle (lit. cease)
+יָת | (sign of the object)
+עַמָא | the people
+מֵעוֹבָדֵהוֹן | from their work
+@ 5:4.3
+אֱזִילוּ | go!
+לְפָלְחָנְכוֹן | to your labor
+@ 5:5.0
+וַאֲמַר | and he said
+פַּרְעֹה | Paroh
+@ 5:5.1
+הָא | behold
+סַגִיאִין | many
+כְּעַן | now
+עַמָא | the people
+דְאַרְעָא | of the earth
+@ 5:5.2
+וּתְבַטְלוּן | and you would make them stop
+יָתְהוֹן | them
+מִפָּלְחָנְהוֹן | from their labor
+@ 5:6.0
+וּפַקִיד | and he commanded
+פַּרְעֹה | Paroh
+בְּיוֹמָא הַהוּא | on that day
+@ 5:6.1
+יָת | (sign of the object)
+שִׁלְטוֹנִין | officers (lit. rulers)
+דְעַמָא | of the people
+@ 5:6.2
+וְיָת | and (sign of the object)
+סָרְכוֹהִי | his officers
+לְמֵימָר | saying (lit. “to say”)
+@ 5:7.0
+לָא | not
+תוֹסְפוּן | you will again
+לְמִיתַּן | to give
+תִּבְנָא | straw
+לְעַמָא | to the people
+לְמִרְמֵי | to make (lit. cast)
+לִבְנִין | bricks
+כְּמִתְּמַלֵי | as the past (lit. as from yesterday)
+וּמִדְקָמוֹהִי | and from the day before
+@ 5:7.1
+אִנוּן | were they
+יְהָכוּן | let them go
+@ 5:7.2
+וִיגַבְּבוּן | and let them gather
+לְהוֹן | to them
+תִּבְנָא | straw
+@ 5:8.0
+וְיָת | and (sign of the object)
+סְכוֹם | the quota (lit. sum) of
+לְבֵנַיָא | the bricks
+דִי | that, which
+אִנוּן | were they
+עָבְדִין | doing
+מִתְּמַלֵי | yesterday
+וּמִדְקָמוֹהִי | and from the day before
+תְּמַנוּן | you shall impose (lit. appoint)
+עֲלֵיהוֹן | upon them, over them
+@ 5:8.1
+לָא | not
+תִמְנְעוּן | you shall reduce (lit. hold back)
+מִנֵהּ | from him, from it
+@ 5:8.2
+אֲרֵי | that
+בַטְלָנִין | idle
+אִנוּן | were they
+@ 5:8.3
+עַל כֵּן | therefore
+אִנוּן | were they
+צָוְחִין | cry out
+לְמֵימַר | saying
+@ 5:8.4
+נֵיזֵיל | let us go
+נְדַבַּח | let us sacrifice
+קֳדָם | before
+אֱלָהָנָא | our God
+@ 5:9.0
+תִּתָּקַף | let be heavy (lit. strong)
+פָּלְחָנָא | labor
+עַל | on, over
+גֻבְרַיָא | the men
+וְיִתְעַסְקוּן | and let them be busy
+בַּהּ | in it
+@ 5:9.1
+וְלָא | and not
+יִתְעַסְקוּן | let them be occupied
+בְּפִתְגָמִין | with words
+בְּטֵלִין | vain (lit. idle)
+@ 5:10.0
+וּנְפָקוּ | and they went out
+שִׁלְטוֹנֵי | the officers of
+עַמָא | the people
+וְסָרְכוֹהִי | and his officers
+@ 5:10.1
+וַאֲמָרוּ | and they said
+לְעַמָא | to the people
+לְמֵימָר | saying (lit. “to say”)
+@ 5:10.2
+כִּדְנַן | thus (lit. like this)
+אֲמַר | he said
+פַּרְעֹה | Paroh
+@ 5:10.3
+לֵית | there was no one
+אֲנָא | I am
+יָהֵב | am giving
+לְכוֹן | to you, for you
+תִּבְנָא | straw
+@ 5:11.0
+אַתּוּן | are you
+אֱזִילוּ | go!
+סִיבוּ | they were old
+לְכוֹן | to you, for you
+תִּבְנָא | straw
+@ 5:11.1
+מֵאֲתַר | from the place of
+דְתַשְׁכְּחוּן | that you find
+@ 5:11.2
+אֲרֵי | that
+לָא | not
+יִתִּמְנַע | will be held back
+מִפָּלְחָנְכוֹן | from your labor
+מִדָעַם | anything
+@ 5:12.0
+וְאִתְבַּדַר | and scattered
+עַמָא | the people
+בְּכָל | in all of
+אַרְעָא | the earth, the land
+דְמִצְרָיִם | of Mitzrayim
+@ 5:12.1
+לְגַבָּבָא | to gather
+גִילֵי | stubble
+לְתִבְנָא | to straw
+@ 5:13.0
+וְשִׁלְטוֹנַיָא | and the officers
+דָחֲקִין | oppress
+לְמֵימָר | saying (lit. “to say”)
+@ 5:13.1
+אַשְׁלִימוּ | complete!
+עוֹבָדֵיכוֹן | your occupation (lit. deeds)
+פִּתְגַם | the matter of
+יוֹם | day
+בְּיוֹמֵהּ | on its day
+@ 5:13.2
+כְּמָא | as
+דַהֲוֵיתוּן | you were
+עָבְדִין | doing
+כַּד | when
+אִתְיְהֵב | has been given
+לְכוֹן | to you, for you
+תִּבְנָא | straw
+@ 5:14.0
+וּלְקוֹ | and they were beaten
+סָרְכֵי | the officers of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 5:14.1
+דִי | that, which
+מַנִיאוּ | they appointed
+עֲלֵיהוֹן | upon them, over them
+@ 5:14.2
+שִׁלְטוֹנֵי | the officers of
+פַרְעֹה | Paroh
+לְמֵימָר | saying (lit. “to say”)
+@ 5:14.3
+מָא | why
+דֵין | this
+לָא | not
+אַשְׁלֶמְתּוּן | have you repaid
+גְזֵרָתְכוֹן | your quota (lit. decree)
+לְמִרְמֵי | to make (lit. cast)
+כְּמֵאִתְמַלֵי | as it was yesterday
+וּמִדְקָמוֹהִי | and from the day before
+@ 5:14.4
+אַף | also
+תְּמַלֵי | yesterday
+אַף | also
+יוֹמָא דֵין | this day
+@ 5:15.0
+וַאֲתוֹ | and they came
+סָרְכֵי | the officers of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 5:15.1
+וּצְוָחוּ | and they cried out
+לְפַרְעֹה | to Paroh
+לְמֵימָר | saying (lit. “to say”)
+@ 5:15.2
+לְמָא | why
+תַעְבֵּד | you shall make
+כְּדֵין | so
+לְעַבְדָיךְ | to your servants
+@ 5:16.0
+תִּבְנָא | straw
+לָא | not
+מִתְיְהֵב | is given
+לְעַבְדָיךְ | to your servants
+@ 5:16.1
+וּלְבֵנַיָא | and the bricks
+אָמְרִין | saying
+לָנָא | for us
+עִבִידוּ | make!
+@ 5:16.2
+וְהָא | and behold
+עַבְדָיךְ | your servants
+לָקָן | are being beaten
+וְחָטָן | and wrong them (lit. sin)
+עֲלֵיהוֹן | upon them, over them
+עַמָךְ | your people
+@ 5:17.0
+וַאֲמַר | and he said
+בַּטְלָנִין | idle
+אַתּוּן | are you
+בַּטְלָנִין | idle
+@ 5:17.1
+עַל כֵּן | therefore
+אַתּוּן | are you
+אָמְרִין | saying
+@ 5:17.2
+נֵזֵיל | let us go
+נְדַבַּח | let us sacrifice
+קֳדָם | before
+יְיָ | Hashem
+@ 5:18.0
+וּכְעַן | and now
+אֱזִילוּ | go!
+פְלָחוּ | they served
+@ 5:18.1
+וְתִבְנָא | and straw
+לָא | not
+יִתְיְהֵב | will be given
+לְכוֹן | to you, for you
+@ 5:18.2
+וּסְכוֹם | and the quota (lit. sum) of
+לְבֵינַיָא | the bricks
+תִּתְּנוּן | you will give
+@ 5:19.0
+וַחֲזוֹ | and they saw
+סָרְכֵי | the officers of
+בְנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+יָתְהוֹן | them
+בְּבִישׁ | in evil
+לְמֵימָר | saying (lit. “to say”)
+@ 5:19.1
+לָא | not
+תִמְנְעוּן | you shall reduce (lit. hold back)
+מִלִבְנֵיכוֹן | from your bricks
+פִּתְגַם | the matter of
+יוֹם | day
+בְּיוֹמֵהּ | on its day
+@ 5:20.0
+וַעֲרָעוּ | and met
+יָת | (sign of the object)
+משֶׁה | Moshe
+וְיָת | and (sign of the object)
+אַהֲרֹן | Aharon
+@ 5:20.1
+קָיְמִין | standing
+לְקַדָמוּתְהוֹן | to meet them
+@ 5:20.2
+בְּמִפַּקְהוֹן | as they went out
+מִקֳדָם | from before
+פַּרְעֹה | Paroh
+@ 5:21.0
+וַאֲמָרוּ | and they said
+לְהוֹן | to them
+@ 5:21.1
+יִתְגְלֵי | may reveal Himself
+יְיָ | Hashem
+עֲלֵיכוֹן | upon you
+וְיִתְפְּרַע | and will be exacted
+@ 5:21.2
+דִי | that, which
+אַבְאֶשְׁתּוּן | did you do harm
+יָת | (sign of the object)
+רֵיחָנָא | our scent
+בְּעֵינֵי | in the eyes of
+פַרְעֹה | Paroh
+וּבְעֵינֵי | and in the eyes of
+עַבְדוֹהִי | his servants
+@ 5:21.3
+לְמִתַּן | to give
+חַרְבָּא | the sword
+בִּידֵיהוֹן | in their hands
+לְקַטָלוּתָנָא | to kill us
+@ 5:22.0
+וְתָב | and returned
+משֶׁה | Moshe
+קֳדָם | before
+יְיָ | Hashem
+וַאֲמַר | and he said
+@ 5:22.1
+יְיָ | Hashem
+לְמָא | why
+אַבְאֵשְׁתָּא | have You done harm
+לְעַמָא הָדֵין | to this people
+@ 5:22.2
+וּלְמָא דְנַן | and why is this
+שְׁלַחְתָּנִי | have You sent me
+@ 5:23.0
+וּמֵעִדַן | and from a time
+עַלִית | I came
+לְוָת | to
+פַּרְעֹה | Paroh
+לְמַלָלָא | speaking
+בִשְׁמָךְ | in your name
+@ 5:23.1
+אַבְאֵשׁ | he has done harm
+לְעַמָּא הָדֵין | to this people
+@ 5:23.2
+וְשֵׁזָבָא | and saving
+לָא | not
+שֵׁזַבְתָּא | You have saved
+יָת | (sign of the object)
+עַמָךְ | your people
+@ 6:1.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לְמשֶׁה | to Moshe
+@ 6:1.1
+כְּעַן | now
+תֶּחֱזֵי | you will see
+@ 6:1.2
+דְאֶעְבֵּד | that I will do
+לְפַרְעֹה | to Paroh
+@ 6:1.3
+אֲרֵי | that
+בִידָא | into the hand
+תַקִיפָא | the mighty one
+יְשַׁלְחִנוּן | he will send them away
+@ 6:1.4
+וּבִידָא | and the hand of
+תַקִיפָא | the mighty one
+@ 6:1.5
+יְתָרֵכִנוּן | he will drive them out
+מֵאַרְעֵהּ | from his land

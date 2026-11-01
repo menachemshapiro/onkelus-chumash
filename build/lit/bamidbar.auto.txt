@@ -1,0 +1,2279 @@
+# Draft made by lit_auto.py from the glossary. Do not edit: put corrections in bamidbar.txt (it wins clause by clause).
+@ 1:1.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+בְּמַדְבְּרָא | in the wilderness
+דְסִינַי | of Sinai
+בְּמַשְׁכַּן | in the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 1:1.1
+בְּחַד | on the first (lit. on one)
+לְיַרְחָא | of the month
+תִנְיָנָא | the second
+בְּשַׁתָּא | in the year
+תִנְיֵתָא | the second
+לְמִפַּקְהוֹן | of their going out
+מֵאַרְעָא | from the earth, the land
+דְמִצְרַיִם | of Mitzrayim
+לְמֵימָר | saying (lit. “to say”)
+@ 1:2.0
+קַבִּילוּ | take
+יָת | (sign of the object)
+חֻשְׁבַּן | the count (lit. reckoning) of
+כָּל | every, all
+כְּנִשְׁתָּא | the congregation
+דִבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+@ 1:2.1
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:2.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+@ 1:2.3
+כָּל | every, all
+דְּכוּרָא | male
+לְגֻלְגְּלַתְהוֹן | by their heads
+@ 1:3.0
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:3.1
+כָּל | every, all
+נָפֵק | going out
+חֵילָא | the power
+בְּיִשְׂרָאֵל | in Yisrael
+@ 1:3.2
+תִּמְנוּן | you shall count
+יָתְהוֹן | them
+לְחֵילֵיהוֹן | to their hosts
+אַתְּ | are you
+וְאַהֲרֹן | and Aharon
+@ 1:4.0
+וְעִמְּכוֹן | and with you
+יְהוֹן | they will be
+@ 1:4.1
+גַּבְרָא | a man
+גַבְרָא | a man
+לְשִׁבְטָא | of the tribe of
+@ 1:4.2
+גְּבַר | a man
+רֵישׁ | the beginning of (lit. the head of)
+לְבֵית | to the house of
+אֲבָהָתוֹהִי | his fathers
+הוּא | it
+@ 1:5.0
+וְאִלֵּין | and these
+שְׁמָהַת | the names of
+גֻּבְרַיָּא | the men
+@ 1:5.1
+דִּי | that, which
+יְקוּמוּן | who shall stand
+עִמְּכוֹן | with you
+@ 1:5.2
+לִרְאוּבֵן | to Reuven
+אֱלִיצוּר | Elitzur
+בַּר | has (lit. “son of”)
+שְׁדֵיאוּר | Shedeur
+@ 1:6.0
+לְשִׁמְעוֹן | to Shimon
+שְׁלֻמִיאֵל | Shelumiel
+בַּר | has (lit. “son of”)
+צוּרִישַׁדָּי | Tzurishaddai
+@ 1:7.0
+לִיהוּדָה | to Yehudah
+נַחְשׁוֹן | Nachshon
+בַּר | has (lit. “son of”)
+עַמִּינָדָב | Amminadav
+@ 1:8.0
+לְיִשָּׂשכָר | to Yissachar
+נְתַנְאֵל | Netanel
+בַּר | has (lit. “son of”)
+צוּעָר | Tzuar
+@ 1:9.0
+לִזְבוּלֻן | to Zevulun
+אֱלִיאָב | Eliav
+בַּר | has (lit. “son of”)
+חֵלֹּן | Chelon
+@ 1:10.0
+לִבְנֵי | to the children of
+יוֹסֵף | Yosef
+@ 1:10.1
+לְאֶפְרַיִם | to Efrayim
+אֱלִישָׁמָע | Elishama
+בַּר | has (lit. “son of”)
+עַמִּיהוּד | Ammihud
+@ 1:10.2
+לִמְנַשֶּׁה | to Menashe
+גַּמְלִיאֵל | Gamliel
+בַּר | has (lit. “son of”)
+פְּדָהצוּר | Pedahtzur
+@ 1:11.0
+לְבִנְיָמִן | to Binyamin
+אֲבִידָן | Avidan
+בַּר | has (lit. “son of”)
+גִּדְעֹנִי | Gidoni
+@ 1:12.0
+לְדָן | to Dan
+אֲחִיעֶזֶר | Achiezer
+בַּר | has (lit. “son of”)
+עַמִּישַׁדָּי | Ammishaddai
+@ 1:13.0
+לְאָשֵׁר | to Asher
+פַּגְעִיאֵל | Pagiel
+בַּר | has (lit. “son of”)
+עָכְרָן | Ochran
+@ 1:14.0
+לְגָד | to Gad
+אֶלְיָסָף | Elyasaf
+בַּר | has (lit. “son of”)
+דְּעוּאֵל | Deuel
+@ 1:15.0
+לְנַפְתָּלִי | to Naftali
+אֲחִירַע | Achira
+בַּר | has (lit. “son of”)
+עֵינָן | Enan
+@ 1:16.0
+אִלֵּין | these
+מְעַרְעֵי | the called ones of
+כְנִשְׁתָּא | the congregation
+רַבְרְבֵי | the nobles of (lit. great ones of)
+@ 1:16.1
+שִׁבְטֵי | the tribes of
+אֲבָהַתְהוֹן | their fathers
+@ 1:16.2
+רֵישֵׁי | heads of
+אַלְפַיָּא | the thousands
+דְיִשְׂרָאֵל | of Yisrael
+אִנּוּן | were they
+@ 1:17.0
+וּנְסֵב | and he took
+משֶׁה | Moshe
+וְאַהֲרֹן | and Aharon
+@ 1:17.1
+יָת | (sign of the object)
+גֻּבְרַיָּא הָאִלֵּין | these men
+@ 1:17.2
+דִּי | that, which
+אִתְפָּרָשׁוּ | who were designated (lit. specified)
+בִּשְׁמָהָן | in names
+@ 1:18.0
+וְיָת | and (sign of the object)
+כָּל | every, all
+כְּנִשְׁתָּא | the congregation
+אַכְנָשׁוּ | they gathered
+בְּחַד | on the first (lit. on one)
+לְיַרְחָא | of the month
+תִנְיָנָא | the second
+@ 1:18.1
+וְאִתְיַחֲסוּ | and they registered their lineage
+עַל | on, over
+זַרְעֲיַתְהוֹן | their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:18.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+לְגֻלְגְּלַתְהוֹן | by their heads
+@ 1:19.0
+כְּמָא דִי | as
+פַקֵּיד | he commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 1:19.1
+וּמְנִנּוּן | and he counted them
+בְּמַדְבְּרָא | in the wilderness
+דְסִינָי | of Sinai
+@ 1:20.0
+וַהֲווֹ | and they were
+בְנֵי | the children of
+רְאוּבֵן | Reuven
+בּוּכְרָא | the firstborn
+דְיִשְׂרָאֵל | of Yisrael
+@ 1:20.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:20.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+לְגֻלְגְּלַתְהוֹן | by their heads
+@ 1:20.3
+כָּל | every, all
+דְּכוּרָא | male
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:20.4
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:21.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דִרְאוּבֵן | of Reuven
+@ 1:21.1
+אַרְבְּעִין | forty
+וְשִׁתָּא | and six
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 1:22.0
+לִבְנֵי | to the children of
+שִׁמְעוֹן | Shimon
+@ 1:22.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:22.2
+מִנְיָנוֹהִי | its numbers
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+לְגֻלְגְּלַתְהוֹן | by their heads
+@ 1:22.3
+כָּל | every, all
+דְּכוּרָא | male
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:22.4
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:23.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דְשִׁמְעוֹן | of Shimon
+@ 1:23.1
+חַמְשִׁין | fifty
+וְתִשְׁעָה | and nine
+אַלְפִין | thousands
+וּתְלַת | and three
+מְאָה | a hundred
+@ 1:24.0
+לִבְנֵי | to the children of
+גָד | Gad
+@ 1:24.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:24.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:24.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:25.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דְגָד | of Gad
+@ 1:25.1
+אַרְבְּעִין | forty
+וְחַמְשָׁא | and five
+אַלְפִין | thousands
+וְשִׁית | and six
+מְאָה | a hundred
+וְחַמְשִׁין | and fifty
+@ 1:26.0
+לִבְנֵי | to the children of
+יְהוּדָה | Yehudah
+@ 1:26.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:26.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:26.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:27.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דִיהוּדָה | of Yehudah
+@ 1:27.1
+שַׁבְעִין | seventy
+וְאַרְבְּעָא | and four
+אַלְפִין | thousands
+וְשִׁית | and six
+מְאָה | a hundred
+@ 1:28.0
+לִבְנֵי | to the children of
+יִשָּׂשכָר | Yissachar
+@ 1:28.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:28.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:28.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:29.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דְיִשָּׂשכָר | of Yissachar
+@ 1:29.1
+חַמְשִׁין | fifty
+וְאַרְבְּעָא | and four
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+@ 1:30.0
+לִבְנֵי | to the children of
+זְבוּלֻן | Zevulun
+@ 1:30.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:30.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:30.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:31.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דִזְבוּלֻן | of Zevulun
+@ 1:31.1
+חַמְשִׁין | fifty
+וּשְׁבַע | and seven
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+@ 1:32.0
+לִבְנֵי | to the children of
+יוֹסֵף | Yosef
+לִבְנֵי | to the children of
+אֶפְרַיִם | Efrayim
+@ 1:32.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:32.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:32.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:33.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דְאֶפְרָיִם | of Efrayim
+@ 1:33.1
+אַרְבְּעִין | forty
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 1:34.0
+לִבְנֵי | to the children of
+מְנַשֶּׁה | Menashe
+@ 1:34.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:34.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:34.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:35.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דִמְנַשֶּׁה | of Menashe
+@ 1:35.1
+תְּלָתִין | thirty
+וּתְרֵין | and two
+אַלְפִין | thousands
+וּמָאתָן | and two hundred
+@ 1:36.0
+לִבְנֵי | to the children of
+בִנְיָמִן | Binyamin
+@ 1:36.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:36.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:36.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:37.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דְבִנְיָמִן | of Binyamin
+@ 1:37.1
+תְּלָתִין | thirty
+וְחַמְשָׁא | and five
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+@ 1:38.0
+לִבְנֵי | to the children of
+דָן | Dan
+@ 1:38.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:38.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:38.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:39.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דְדָן | Dedan
+@ 1:39.1
+שִׁתִּין | sixty
+וּתְרֵין | and two
+אַלְפִין | thousands
+וּשְׁבַע | and seven
+מְאָה | a hundred
+@ 1:40.0
+לִבְנֵי | to the children of
+אָשֵׁר | Asher
+@ 1:40.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהֲתְהוֹן | their fathers
+@ 1:40.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:40.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:41.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דְאָשֵׁר | of Asher
+@ 1:41.1
+אַרְבְּעִין | forty
+וְחַד | and one
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 1:42.0
+בְּנֵי | the children of
+נַפְתָּלִי | Naftali
+@ 1:42.1
+תּוּלְדַתְהוֹן | their descendants
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:42.2
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:42.3
+כֹּל | all, every
+נָפֵק | going out
+חֵילָא | the power
+@ 1:43.0
+מִנְיָנֵיהוֹן | their numbers
+לְשִׁבְטָא | of the tribe of
+דְנַפְתָּלִי | of Naftali
+@ 1:43.1
+חַמְשִׁין | fifty
+וּתְלַת | and three
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+@ 1:44.0
+אִלֵּין | these
+מִנְיָנַיָּא | the counted ones
+דִּי | that, which
+מְנָא | he counted
+משֶׁה | Moshe
+וְאַהֲרֹן | and Aharon
+וְרַבְרְבֵי | and the nobles of (lit. great ones of)
+יִשְׂרָאֵל | Yisrael
+@ 1:44.1
+תְּרֵין | two
+עֲשַׂר | ten
+גֻּבְרִין | men
+@ 1:44.2
+גַּבְרָא | a man
+חַד | one
+לְבֵית | to the house of
+אֲבָהָתוֹהִי | his fathers
+הֲווֹ | were
+@ 1:45.0
+וַהֲווֹ | and they were
+כָּל | every, all
+מִנְיָנֵי | the accounts of
+בְנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 1:45.1
+מִבַּר | from (lit. from a son of)
+עַשְׂרִין | twenty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 1:45.2
+כָּל | every, all
+נָפֵק | going out
+חֵילָא | the power
+בְּיִשְׂרָאֵל | in Yisrael
+@ 1:46.0
+וַהֲווֹ | and they were
+כָּל | every, all
+מִנְיָנַיָּא | the counted ones
+@ 1:46.1
+שִׁית | six
+מְאָה | a hundred
+וּתְלָתָא | and three
+אַלְפִין | thousands
+@ 1:46.2
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+וְחַמְשִׁין | and fifty
+@ 1:47.0
+וְלֵוָאֵי | and the Levite
+לְשִׁבְטָא | of the tribe of
+דַאֲבָהַתְהוֹן | of their fathers
+@ 1:47.1
+לָא | not
+אִתְמְנִיאוּ | were counted
+בֵּינֵיהוֹן | among them
+@ 1:48.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 1:49.0
+בְּרַם | but, only
+יָת | (sign of the object)
+שִׁבְטָא | the tribe of
+דְלֵוִי | of Levi
+לָא | not
+תִמְנֵי | you count
+@ 1:49.1
+וְיָת | and (sign of the object)
+חֻשְׁבַּנְהוֹן | their count (lit. reckoning)
+לָא | not
+תְקַבֵּל | you shall take
+@ 1:49.2
+בְּגוֹ | among (lit. in the midst of)
+בְּנֵי | the children of
+יִשְׂראֵל | Yisrael
+@ 1:50.0
+וְאַתְּ | and you
+מַנִּי | appoint
+יָת | (sign of the object)
+לֵוָאֵי | the Levite
+עַל | on, over
+מַשְׁכְּנָא | the tent
+דְסַהֲדוּתָא | of the Testimony
+וְעַל | and on
+כָּל | every, all
+מָנוֹהִי | its vessels
+וְעַל | and on
+כָּל | every, all
+דִּי | that, which
+לֵיהּ | to him
+אִנּוּן | were they
+@ 1:50.1
+יִטְּלוּן | shall carry
+יָת | (sign of the object)
+מַשְׁכְּנָא | the tent
+וְיָת | and (sign of the object)
+כָּל | every, all
+מָנוֹהִי | its vessels
+@ 1:50.2
+וְאִנּוּן | and they
+יְשַׁמְּשֻׁנֵּיהּ | shall serve it
+@ 1:50.3
+וּסְחוֹר | and around
+סְחוֹר | around
+לְמַשְׁכְּנָא | to the tent
+יִשְׁרוּן | shall encamp
+@ 1:51.0
+וּבְמִטַּל | and when journeys (lit. is lifted)
+מַשְׁכְּנָא | the tent
+יְפָרְקוּן | shall take apart
+יָתֵיהּ | him
+לֵוָאֵי | the Levite
+@ 1:51.1
+וּבְמִשְׁרֵי | and when encamps
+מַשְׁכְּנָא | the tent
+@ 1:51.2
+יְקִימוּן | shall set up
+יָתֵיהּ | him
+לֵוָאֵי | the Levite
+@ 1:51.3
+וְחִלּוֹנַי | and an outsider
+דְּיִקְרַב | who comes near
+יִתְקְטָל | shall be put to death
+@ 1:52.0
+וְיִשְׁרוּן | and let them encamp
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 1:52.1
+גְּבַר | a man
+עַל | on, over
+מַשְׁרוֹהִי | his camp
+וּגְבַר | and a man
+עַל | on, over
+טִקְסֵיהּ | his banner
+לְחֵילֵיהוֹן | to their hosts
+@ 1:53.0
+וְלֵוָאֵי | and the Levite
+יִשְׁרוּן | shall encamp
+סְחוֹר | around
+סְחוֹר | around
+לְמַשְׁכְּנָא | to the tent
+דְסַהֲדוּתָא | of the Testimony
+@ 1:53.1
+וְלָא | and not
+יְהֵי | will be
+רוּגְזָא | the anger
+@ 1:53.2
+עַל | on, over
+כְּנִשְׁתָּא | the congregation
+דִבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+@ 1:53.3
+וְיִטְּרוּן | and they will keep
+לֵוָאֵי | the Levite
+@ 1:53.4
+יָת | (sign of the object)
+מַטְּרַת | the charge of
+מַשְׁכְּנָא | the tent
+דְסַהֲדוּתָא | of the Testimony
+@ 1:54.0
+וַעֲבָדוּ | and they made
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 1:54.1
+כְּכֹל | like all, every
+דִּי | that, which
+פַקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+כֵּן | so
+עֲבָדוּ | they did, they made
+@ 2:1.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+@ 2:1.1
+עִם | with
+משֶׁה | Moshe
+וְעִם | and with
+אַהֲרֹן | Aharon
+לְמֵימָר | saying (lit. “to say”)
+@ 2:2.0
+גְּבַר | a man
+עַל | on, over
+טִקְסֵיהּ | his banner
+בְּאַתְוָן | by the signs
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 2:2.1
+יִשְׁרוּן | shall encamp
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 2:2.2
+מִלָּקֳבֵל | opposite
+סְחוֹר | around
+סְחוֹר | around
+לְמַשְׁכַּן | to the Tent of
+זִמְנָא | Meeting (lit. appointment)
+יִשְׁרוּן | shall encamp
+@ 2:3.0
+וְדִי | and that, which
+שְׁרַן | they encamp
+קִדּוּמָא | an east
+מַדִּינְחָא | the east
+@ 2:3.1
+טֵקַס | the banner of
+מַשְׁרִית | the camp of
+יְהוּדָה | Yehudah
+לְחֵילֵיהוֹן | to their hosts
+@ 2:3.2
+וְרַבָּא | and the prince (lit. the great one)
+לִבְנֵי | to the children of
+יְהוּדָה | Yehudah
+@ 2:3.3
+נַחְשׁוֹן | Nachshon
+בַּר | has (lit. “son of”)
+עַמִּינָדָב | Amminadav
+@ 2:4.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנֵיהוֹן | and their numbers
+@ 2:4.1
+שַׁבְעִין | seventy
+וְאַרְבְּעָא | and four
+אַלְפִין | thousands
+וְשִׁית | and six
+מְאָה | a hundred
+@ 2:5.0
+וְדִי | and that, which
+שְׁרַן | they encamp
+סְמִיכִין | adjacent (lit. leaning)
+עֲלוֹהִי | for him (lit. upon him)
+שִׁבְטָא | the tribe of
+דְיִשָּׂשכָר | of Yissachar
+@ 2:5.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+יִשָּׂשכָר | Yissachar
+@ 2:5.2
+נְתַנְאֵל | Netanel
+בַּר | has (lit. “son of”)
+צוּעָר | Tzuar
+@ 2:6.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנוֹהִי | and its numbers
+@ 2:6.1
+חַמְשִׁין | fifty
+וְאַרְבְּעָא | and four
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+@ 2:7.0
+שִׁבְטָא | the tribe of
+דִּזְבוּלֻן | of Zevulun
+@ 2:7.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+זְבוּלֻן | Zevulun
+@ 2:7.2
+אֱלִיאָב | Eliav
+בַּר | has (lit. “son of”)
+חֵלוֹן | Chelon
+@ 2:8.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנוֹהִי | and its numbers
+@ 2:8.1
+חַמְשִׁין | fifty
+וְשִׁבְעָא | and seven
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+@ 2:9.0
+כָּל | every, all
+מִנְיָנַיָּא | the counted ones
+לְמַשְׁרִית | of the camp of
+יְהוּדָה | Yehudah
+מְאָה | a hundred
+וּתְמָנָן | and eighty
+וְשִׁתָּא | and six
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+לְחֵילֵיהוֹן | to their hosts
+@ 2:9.1
+בְּקַדְמֵיתָא | at first
+נָטְלִין | carrying
+@ 2:10.0
+טֵקַס | the banner of
+מַשְׁרִית | the camp of
+רְאוּבֵן | Reuven
+דָּרוֹמָא | the south
+לְחֵילֵיהוֹן | to their hosts
+@ 2:10.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+רְאוּבֵן | Reuven
+@ 2:10.2
+אֱלִיצוּר | Elitzur
+בַּר | has (lit. “son of”)
+שְׁדֵיאוּר | Shedeur
+@ 2:11.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנוֹהִי | and its numbers
+@ 2:11.1
+אַרְבְּעִין | forty
+וְשִׁתָּא | and six
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 2:12.0
+וְדִי | and that, which
+שְׁרַן | they encamp
+סְמִיכִין | adjacent (lit. leaning)
+עֲלוֹהִי | for him (lit. upon him)
+שִׁבְטָא | the tribe of
+דְשִׁמְעוֹן | of Shimon
+@ 2:12.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+שִׁמְעוֹן | Shimon
+@ 2:12.2
+שְׁלֻמִיאֵל | Shelumiel
+בַּר | has (lit. “son of”)
+צוּרִישַׁדָּי | Tzurishaddai
+@ 2:13.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנֵיהוֹן | and their numbers
+@ 2:13.1
+חַמְשִׁין | fifty
+וּתְשַׁע | and nine
+אַלְפִין | thousands
+וּתְלַת | and three
+מְאָה | a hundred
+@ 2:14.0
+וְשִׁבְטָא | and the tribe of
+דְּגָד | of Gad
+@ 2:14.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+גָד | Gad
+@ 2:14.2
+אֶלְיָסָף | Elyasaf
+בַּר | has (lit. “son of”)
+רְעוּאֵל | Re‘uel
+@ 2:15.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנֵיהוֹן | and their numbers
+@ 2:15.1
+אַרְבְּעִין | forty
+וְחַמְשָׁא | and five
+אַלְפִין | thousands
+וְשִׁית | and six
+מְאָה | a hundred
+וְחַמְשִׁין | and fifty
+@ 2:16.0
+כָּל | every, all
+מִנְיָנַיָּא | the counted ones
+לְמַשְׁרִית | of the camp of
+רְאוּבֵן | Reuven
+מְאָה | a hundred
+וְחַמְשִׁין | and fifty
+וְחַד | and one
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+וְחַמְשִׁין | and fifty
+לְחֵילֵיהוֹן | to their hosts
+@ 2:16.1
+בְּתִנְיֵתָא | in the second
+נָטְלִין | carrying
+@ 2:17.0
+וְנָטֵל | and journeying
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+מַשְׁרִית | the camp of
+לֵוָאֵי | the Levite
+בְּגוֹ | among (lit. in the midst of)
+מַשְׁרְיָתָא | the camps
+@ 2:17.1
+כְּמָא | as
+דְשָׁרַן | as they encamp
+כֵּן | so
+נָטְלִין | carrying
+@ 2:17.2
+גְּבַר | a man
+עַל | on, over
+אַתְרֵיהּ | his place
+לְטִקְסֵיהוֹן | by their banners
+@ 2:18.0
+טֵקַס | the banner of
+מַשְׁרִית | the camp of
+אֶפְרַיִם | Efrayim
+לְחֵילֵיהוֹן | to their hosts
+מַעַרְבָא | a west
+@ 2:18.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+אֶפְרַיִם | Efrayim
+@ 2:18.2
+אֱלִישָׁמָע | Elishama
+בַּר | has (lit. “son of”)
+עַמִּיהוּד | Ammihud
+@ 2:19.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנֵיהוֹן | and their numbers
+@ 2:19.1
+אַרְבְּעִין | forty
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 2:20.0
+וְדִסְמִיכִין | and those adjacent
+עֲלוֹהִי | for him (lit. upon him)
+שִׁבְטָא | the tribe of
+דִמְנַשֶּׁה | of Menashe
+@ 2:20.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+מְנַשֶּׁה | Menashe
+@ 2:20.2
+גַּמְלִיאֵל | Gamliel
+בַּר | has (lit. “son of”)
+פְּדָהצוּר | Pedahtzur
+@ 2:21.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנֵיהוֹן | and their numbers
+@ 2:21.1
+תְּלָתִין | thirty
+וּתְרֵין | and two
+אַלְפִין | thousands
+וּמָאתָן | and two hundred
+@ 2:22.0
+וְשִׁבְטָא | and the tribe of
+דְּבִנְיָמִן | of Binyamin
+@ 2:22.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+בִנְיָמִן | Binyamin
+@ 2:22.2
+אֲבִידָן | Avidan
+בַּר | has (lit. “son of”)
+גִּדְעוֹנִי | Gidoni
+@ 2:23.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנֵיהוֹן | and their numbers
+@ 2:23.1
+תְּלָתִין | thirty
+וְחַמְשָׁא | and five
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+@ 2:24.0
+כָּל | every, all
+מִנְיָנַיָּא | the counted ones
+לְמַשְׁרִית | of the camp of
+אֶפְרַיִם | Efrayim
+מְאָה | a hundred
+וְתַמְנֵי | and eight
+אַלְפִין | thousands
+וּמְאָה | and a hundred
+לְחֵילֵיהוֹן | to their hosts
+@ 2:24.1
+בִּתְלִיתֵתָא | in the third
+נָטְלִין | carrying
+@ 2:25.0
+טֵקַס | the banner of
+מַשְׁרִית | the camp of
+דָּן | Dan
+צִפּוּנָא | the north
+לְחֵילֵיהוֹן | to their hosts
+@ 2:25.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+דָן | Dan
+@ 2:25.2
+אֲחִיעֶזֶר | Achiezer
+בַּר | has (lit. “son of”)
+עַמִּישַׁדָּי | Ammishaddai
+@ 2:26.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנֵיהוֹן | and their numbers
+@ 2:26.1
+שִׁתִּין | sixty
+וּתְרֵין | and two
+אַלְפִין | thousands
+וּשְׁבַע | and seven
+מְאָה | a hundred
+@ 2:27.0
+וְדִי | and that, which
+שְׁרַן | they encamp
+סְמִיכִין | adjacent (lit. leaning)
+עֲלוֹהִי | for him (lit. upon him)
+שִׁבְטָא | the tribe of
+דְאָשֵׁר | of Asher
+@ 2:27.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+אָשֵׁר | Asher
+@ 2:27.2
+פַּגְעִיאֵל | Pagiel
+בַּר | has (lit. “son of”)
+עָכְרָן | Ochran
+@ 2:28.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנֵיהוֹן | and their numbers
+@ 2:28.1
+אַרְבְּעִין | forty
+וְחַד | and one
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 2:29.0
+וְשִׁבְטָא | and the tribe of
+דְּנַפְתָּלִי | of Naftali
+@ 2:29.1
+וְרַבָּא | and the great one
+לִבְנֵי | to the children of
+נַפְתָּלִי | Naftali
+@ 2:29.2
+אֲחִירַע | Achira
+בַּר | has (lit. “son of”)
+עֵינָן | Enan
+@ 2:30.0
+וְחֵילֵיהּ | and his army
+וּמִנְיָנֵיהוֹן | and their numbers
+@ 2:30.1
+חַמְשִׁין | fifty
+וּתְלָתָא | and three
+אַלְפִין | thousands
+וְאַרְבַּע | and four
+מְאָה | a hundred
+@ 2:31.0
+כָּל | every, all
+מִנְיָנַיָּא | the counted ones
+לְמַשְׁרִית | of the camp of
+דָּן | Dan
+@ 2:31.1
+מְאָה | a hundred
+וְחַמְשִׁין | and fifty
+וְשִׁבְעָא | and seven
+אַלְפִין | thousands
+וְשִׁית | and six
+מְאָה | a hundred
+@ 2:31.2
+בְּבַתְרֵתָא | at the end (lit. in the last)
+נָטְלִין | carrying
+לְטִקְסֵיהוֹן | by their banners
+@ 2:32.0
+אִלֵּין | these
+מִנְיָנֵי | the accounts of
+בְנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 2:32.1
+כָּל | every, all
+מִנְיָנֵי | the accounts of
+מַשְׁרְיָתָא | the camps
+לְחֵילֵיהוֹן | to their hosts
+@ 2:32.2
+שִׁית | six
+מְאָה | a hundred
+וּתְלָתָא | and three
+אַלְפִין | thousands
+@ 2:32.3
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+וְחַמְשִׁין | and fifty
+@ 2:33.0
+וְלֵוָאֵי | and the Levite
+לָא | not
+אִתְמְנִיאוּ | were counted
+@ 2:33.1
+בְּגוֹ | among (lit. in the midst of)
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 2:33.2
+כְּמָא דִי | as
+פַקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 2:34.0
+וַעֲבָדוּ | and they made
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 2:34.1
+כְּכֹל | like all, every
+דִּי | that, which
+פַקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+כֵּן | so
+שָׁרַן | they encamped
+לְטִקְסֵיהוֹן | by their banners
+וְכֵן | and so
+נָטְלִין | carrying
+@ 2:34.2
+גְּבַר | a man
+לְזַרְעֲיַתְהוֹן | by their families
+עַל | on, over
+בֵּית | the house of
+אֲבָהָתוֹהִי | his fathers
+@ 3:1.0
+וְאִלֵּין | and these
+תּוּלְדַת | the history of
+אַהֲרֹן | Aharon
+וּמשֶׁה | and Moshe
+@ 3:1.1
+בְּיוֹמָא | on the day
+דְּמַלִּיל | that he had spoken
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+בְּטוּרָא | on the mountain
+דְסִינָי | of Sinai
+@ 3:2.0
+וְאִלֵּין | and these
+שְׁמָהַת | the names of
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+בּוּכְרָא | the firstborn
+נָדָב | Nadav
+@ 3:2.1
+וַאֲבִיהוּא | and Avihu
+אֶלְעָזָר | Elazar
+וְאִיתָמָר | and Itamar
+@ 3:3.0
+אִלֵּין | these
+שְׁמָהַת | the names of
+בְּנֵי | the children of
+אַהֲרֹן | Aharon
+@ 3:3.1
+כָּהֲנַיָּא | the priests
+דְּאִתְרַבִּיאוּ | who were anointed (lit. made great)
+@ 3:3.2
+דִּי | that, which
+אִתְקָרַב | he consecrated
+קֻרְבַּנְהוֹן | their offering
+לְשַׁמָּשָׁא | to minister
+@ 3:4.0
+וּמִית | and he died
+נָדָב | Nadav
+וַאֲבִיהוּא | and Avihu
+קֳדָם | before
+יְיָ | Hashem
+בְּקָרוֹבֵיהוֹן | when they brought near (lit. in their bringing near)
+אֶשָּׁתָא | the fire
+נוּכְרֵיתָא | strange
+קֳדָם | before
+יְיָ | Hashem
+בְּמַדְבְּרָא | in the wilderness
+דְסִינַי | of Sinai
+@ 3:4.1
+וּבְנִין | and children
+לָא | not
+הֲווֹ | were
+לְהוֹן | to them
+@ 3:4.2
+וְשַׁמֵּשׁ | and he served
+אֶלְעָזָר | Elazar
+וְאִיתָמָר | and Itamar
+@ 3:4.3
+עַל אַפֵּי | over the face of
+אַהֲרֹן | Aharon
+אֲבוּהוֹן | their father
+@ 3:5.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 3:6.0
+קָרֵב | bring near
+יָת | (sign of the object)
+שִׁבְטָא | the tribe of
+דְלֵוִי | of Levi
+@ 3:6.1
+וּתְקֵים | and you shall stand
+יָתֵיהּ | him
+@ 3:6.2
+קֳדָם | before
+אַהֲרֹן | Aharon
+כַּהֲנָא | the priest
+@ 3:6.3
+וִישַׁמְּשׁוּן | and they shall minister
+יָתֵיהּ | him
+@ 3:7.0
+וְיִטְּרוּן | and they will keep
+יָת | (sign of the object)
+מַטַּרְתֵּיהּ | his charge
+וְיָת | and (sign of the object)
+מַטְּרַת | the charge of
+כָּל | every, all
+כְּנִשְׁתָּא | the congregation
+@ 3:7.1
+קֳדָם | before
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 3:7.2
+לְמִפְלַח | to work, to serve
+יָת | (sign of the object)
+פָּלְחַן | the labor of
+מַשְׁכְּנָא | the tent
+@ 3:8.0
+וְיִטְּרוּן | and they will keep
+יָת | (sign of the object)
+כָּל | every, all
+מָאנֵי | the vessels of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 3:8.1
+וְיָת | and (sign of the object)
+מַטְּרַת | the charge of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:8.2
+לְמִפְלַח | to work, to serve
+יָת | (sign of the object)
+פָּלְחַן | the labor of
+מַשְׁכְּנָא | the tent
+@ 3:9.0
+וְתִתֵּן | and you shall give
+יָת | (sign of the object)
+לֵוָאֵי | the Levite
+@ 3:9.1
+לְאַהֲרֹן | to Aharon
+וְלִבְנוֹהִי | and to his sons
+@ 3:9.2
+מְסִירִין | handed over
+יְהִיבִין | given
+אִנּוּן | were they
+לֵיהּ | to him
+@ 3:9.3
+מִן | from
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:10.0
+וְיָת | and (sign of the object)
+אַהֲרֹן | Aharon
+וְיָת | and (sign of the object)
+בְּנוֹהִי | his sons
+תְּמַנֵּי | you shall appoint
+@ 3:10.1
+וְיִטְּרוּן | and they will keep
+יָת | (sign of the object)
+כְּהֻנַּתְהוֹן | their priesthood
+@ 3:10.2
+וְחִלּוֹנַי | and an outsider
+דְּיִקְרַב | who comes near
+יִתְקְטָל | shall be put to death
+@ 3:11.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 3:12.0
+וַאֲנָא | and I am
+הָא | behold
+קָרֵבִית | I have brought near
+יָת | (sign of the object)
+לֵוָאֵי | the Levite
+מִגּוֹ | from the midst of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:12.1
+חֲלַף | in place of
+כָּל | every, all
+בּוּכְרָא | the firstborn
+פָּתַח | the opening of
+וַלְדָּא | a child, offspring
+מִבְּנֵי | from the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:12.2
+וִיהוֹן | and they will be
+מְשַׁמְּשִׁין | they shall be ministering
+קֳדָמַי | before Me
+לֵוָאֵי | the Levite
+@ 3:13.0
+אֲרֵי | that
+דִילִי | mine
+כָּל | every, all
+בּוּכְרָא | the firstborn
+@ 3:13.1
+בְּיוֹמָא | on the day
+דִקְטָלִית | that I have killed
+כָּל | every, all
+בּוּכְרָא | the firstborn
+בְּאַרְעָא | in
+דְמִצְרַיִם | of Mitzrayim
+אַקְדֵּשִׁית | I consecrated
+קֳדָמַי | before Me
+כָּל | every, all
+בּוּכְרָא | the firstborn
+בְּיִשְׂרָאֵל | in Yisrael
+@ 3:13.2
+מֵאֱנָשָׁא | from mankind
+עַד | until
+בְּעִירָא | the cattle
+@ 3:13.3
+דִּילִי | mine
+יְהוֹן | they will be
+אֲנָא | I am
+יְיָ | Hashem
+@ 3:14.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+@ 3:14.1
+בְּמַדְבְּרָא | in the wilderness
+דְסִינַי | of Sinai
+לְמֵימָר | saying (lit. “to say”)
+@ 3:15.0
+מְנֵי | count
+יָת | (sign of the object)
+בְּנֵי | the children of
+לֵוִי | Levi
+@ 3:15.1
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+לְזַרְעֲיַתְהוֹן | by their families
+@ 3:15.2
+כָּל | every, all
+דְּכוּרָא | male
+מִבַּר | from (lit. from a son of)
+יַרְחָא | the month
+וּלְעֵלָּא | and upward
+תִּמְנִנּוּן | you shall count them
+@ 3:16.0
+וּמְנָא | and he counted
+יָתְהוֹן | them
+משֶׁה | Moshe
+עַל | on, over
+מֵימְרָא | the Word of
+דַיְיָ | of Hashem
+@ 3:16.1
+כְּמָא | as
+דְּאִתְפַּקָּד | as he was commanded
+@ 3:17.0
+וַהֲווֹ | and they were
+אִלֵּין | these
+בְּנֵי | the children of
+לֵוִי | Levi
+בִּשְׁמָהַתְהוֹן | by their names
+@ 3:17.1
+גֵּרְשׁוֹן | Gershon
+וּקְהָת | and Kehat
+וּמְרָרִי | and Merari
+@ 3:18.0
+וְאִלֵּין | and these
+שְׁמָהַת | the names of
+בְּנֵי | the children of
+גֵרְשׁוֹן | Gershon
+לְזַרְעֲיַתְהוֹן | by their families
+@ 3:18.1
+לִבְנִי | Livni
+וְשִׁמְעִי | and Shim‘i
+@ 3:19.0
+וּבְנֵי | and the children of
+קְהָת | Kehat
+לְזַרְעֲיַתְהוֹן | by their families
+@ 3:19.1
+עַמְרָם | Amram
+וְיִצְהָר | and Yitzhar
+@ 3:19.2
+חֶבְרוֹן | Chevron
+וְעֻזִּיאֵל | and Uzziel
+@ 3:20.0
+וּבְנֵי | and the children of
+מְרָרִי | Merari
+לְזַרְעֲיַתְהוֹן | by their families
+מַחְלִי | Machli
+וּמוּשִׁי | and Mushi
+@ 3:20.1
+אִלֵּין | these
+אִנּוּן | were they
+זַרְעֲיַת | the families of
+לֵוָאֵי | the Levite
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 3:21.0
+לְגֵרְשׁוֹן | to Gershon
+זַרְעִית | the family of
+לִבְנִי | Livni
+@ 3:21.1
+וְזַרְעִית | and the family of
+שִׁמְעִי | Shimi
+@ 3:21.2
+אִלֵּין | these
+אִנּוּן | were they
+זַרְעֲיַת | the families of
+גֵּרְשׁוֹן | Gershon
+@ 3:22.0
+מִנְיָנֵיהוֹן | their numbers
+בְּמִנְיַן | by the number of
+כָּל | every, all
+דְּכוּרָא | male
+@ 3:22.1
+מִבַּר | from (lit. from a son of)
+יַרְחָא | the month
+וּלְעֵלָּא | and upward
+@ 3:22.2
+מִנְיָנֵיהוֹן | their numbers
+שַׁבְעָא | seven
+אַלְפִין | thousands
+וַחֲמֵשׁ | and five
+מְאָה | a hundred
+@ 3:23.0
+זַרְעֲיַת | the families of
+גֵּרְשׁוֹן | Gershon
+@ 3:23.1
+אֲחוֹרֵי | after (lit. behind)
+מַשְׁכְּנָא | the tent
+יִשְׁרוּן | shall encamp
+מַעַרְבָא | a west
+@ 3:24.0
+וְרַב | and the chief of
+בֵּית | the house of
+אַבָּא | my father
+לְבֵית | to the house of
+גֵּרְשׁוֹן | Gershon
+@ 3:24.1
+אֶלְיָסָף | Elyasaf
+בַּר | has (lit. “son of”)
+לָאֵל | Lael
+@ 3:25.0
+וּמַטְּרַת | and the charge of
+בְּנֵי | the children of
+גֵרְשׁוֹן | Gershon
+בְּמַשְׁכַּן | in the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 3:25.1
+מַשְׁכְּנָא | the tent
+וּפְרָסָא | and a screen
+@ 3:25.2
+חוֹפָאֵיהּ | its cover
+וּפְרָסָא | and a screen
+@ 3:25.3
+דִּתְרַע | of the gate of
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 3:26.0
+וּסְרָדֵי | and the hangings of
+דְדַרְתָּא | of the courtyard
+וְיָת | and (sign of the object)
+פְּרָסָא | a screen
+דִּתְרַע | of the gate of
+דַּרְתָּא | the courtyard
+@ 3:26.1
+דִּי | that, which
+עַל | on, over
+מַשְׁכְּנָא | the tent
+וְעַל | and on
+מַדְבְּחָא | an altar
+סְחוֹר | around
+סְחוֹר | around
+@ 3:26.2
+וְיָת | and (sign of the object)
+אַטּוּנוֹהִי | its cords
+@ 3:26.3
+לְכֹל | to all, every
+פּוּלְחָנֵיהּ | its service
+@ 3:27.0
+וְלִקְהָת | and to Kehat
+זַרְעִית | the family of
+עַמְרָם | Amram
+וְזַרְעִית | and the family of
+יִצְהָר | Yitzhar
+@ 3:27.1
+וְזַרְעִית | and the family of
+חֶבְרוֹן | Chevron
+@ 3:27.2
+וְזַרְעִית | and the family of
+עֻזִּיאֵל | Uzziel
+@ 3:27.3
+אִלֵּין | these
+אִנּוּן | were they
+זַרְעֲיַת | the families of
+קְהָת | Kehat
+@ 3:28.0
+בְּמִנְיַן | by the number of
+כָּל | every, all
+דְּכוּרָא | male
+@ 3:28.1
+מִבַּר | from (lit. from a son of)
+יַרְחָא | the month
+וּלְעֵלָּא | and upward
+@ 3:28.2
+תְּמַנְיָא | eight
+אַלְפִין | thousands
+וְשִׁית | and six
+מְאָה | a hundred
+@ 3:28.3
+נָטְרֵי | keepers of
+מַטַּרְתָּא | the charge
+דְקוּדְשָׁא | of holiness
+@ 3:29.0
+זַרְעֲיַת | the families of
+בְּנֵי | the children of
+קְהָת | Kehat
+יִשְׁרוּן | shall encamp
+@ 3:29.1
+עַל | on, over
+צִדָּא | the side
+דְמַשְׁכְּנָא | of the tent
+דָּרוֹמָא | the south
+@ 3:30.0
+וְרַב | and the chief of
+בֵּית | the house of
+אַבָּא | my father
+לְזַרְעֲיַת | to the families of
+קְהָת | Kehat
+@ 3:30.1
+אֱלִיצָפָן | Elitzafan
+בַּר | has (lit. “son of”)
+עֻזִּיאֵל | Uzziel
+@ 3:31.0
+וּמַטַּרְתְּהוֹן | and their charge
+אֲרוֹנָא | the Ark
+וּפָתוֹרָא | and the table
+וּמְנַרְתָּא | and the menorah
+וּמַדְבְּחָא | and an altar
+@ 3:31.1
+וּמָנֵי | and the things of
+קוּדְשָׁא | holiness
+@ 3:31.2
+דִּי | that, which
+יְשַׁמְּשׁוּן | they minister
+בְּהוֹן | by them
+@ 3:31.3
+וּפְרָסָא | and a screen
+וְכֹל | and all, every
+פָּלְחָנֵיהּ | its service
+@ 3:32.0
+וַאֲמַרְכְּלָא | and the officer
+דִּמְמַנָּא | that is appointed
+עַל | on, over
+רַבְרְבֵי | the nobles of (lit. great ones of)
+לֵוָאֵי | the Levite
+@ 3:32.1
+אֶלְעָזָר | Elazar
+בַּר | has (lit. “son of”)
+אַהֲרֹן | Aharon
+כַּהֲנָא | the priest
+@ 3:32.2
+דְּמִתְּחוֹת | that from under
+יְדוֹהִי | his hands
+מְמַנָּן | appointed
+נָטְרֵי | keepers of
+מַטְּרַת | the charge of
+קוּדְשָׁא | holiness
+@ 3:33.0
+לִמְרָרִי | to Merari
+זַרְעִית | the family of
+מַחְלִי | Machli
+@ 3:33.1
+וְזַרְעִית | and the family of
+מוּשִׁי | Mushi
+@ 3:33.2
+אִלֵּין | these
+אִנּוּן | were they
+זַרְעֲיַת | the families of
+מְרָרִי | Merari
+@ 3:34.0
+וּמִנְיָנֵיהוֹן | and their numbers
+בְּמִנְיַן | by the number of
+כָּל | every, all
+דְּכוּרָא | male
+@ 3:34.1
+מִבַּר | from (lit. from a son of)
+יַרְחָא | the month
+וּלְעֵלָּא | and upward
+@ 3:34.2
+שִׁתָּא | six
+אַלְפִין | thousands
+וּמָאתָן | and two hundred
+@ 3:35.0
+וְרַב | and the chief of
+בֵּית | the house of
+אַבָּא | my father
+לְזַרְעֲיַת | to the families of
+מְרָרִי | Merari
+@ 3:35.1
+צוּרִיאֵל | Tzuriel
+בַּר | has (lit. “son of”)
+אֲבִיחָיִל | Avichayil
+@ 3:35.2
+עַל | on, over
+צִדָּא | the side
+דְמַשְׁכְּנָא | of the tent
+יִשְׁרוּן | shall encamp
+צִפּוּנָא | the north
+@ 3:36.0
+וְדִי | and that, which
+מְסִיר | entrusted (lit. handed over)
+לְמַטְּרַת | to the charge of
+בְּנֵי | the children of
+מְרָרִי | Merari
+@ 3:36.1
+דַּפֵּי | the boards of
+מַשְׁכְּנָא | the tent
+@ 3:36.2
+וְעַבְרוֹהִי | and its bars
+וְעַמּוּדוֹהִי | and its pillars
+וְסַמְכוֹהִי | and its sockets
+@ 3:36.3
+וְכָל | and all
+מָנוֹהִי | its vessels
+וְכֹל | and all, every
+פּוּלְחָנֵיהּ | its service
+@ 3:37.0
+וְעַמּוּדֵי | and pillars of
+דְדַרְתָּא | of the courtyard
+סְחוֹר | around
+סְחוֹר | around
+וְסַמְכֵיהוֹן | and their sockets
+@ 3:37.1
+וְסִכֵּיהוֹן | and their pegs
+וְאַטּוּנֵיהוֹן | and their cords
+@ 3:38.0
+וְדִי | and that, which
+שְׁרַן | they encamp
+קֳדָם | before
+מַשְׁכְּנָא | the tent
+קִדּוּמָא | an east
+קֳדָם | before
+מַשְׁכַּן | the Tent of
+זִמְנָא | Meeting (lit. appointment)
+מַדִּינְחָא | the east
+משֶׁה | Moshe
+וְאַהֲרֹן | and Aharon
+וּבְנוֹהִי | and his sons
+נָטְרִין | keeping
+מַטְּרַת | the charge of
+מַקְדְּשָׁא | the Sanctuary
+@ 3:38.1
+לְמַטְּרַת | to the charge of
+בְּנֵי | the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:38.2
+וְחִלּוֹנַי | and an outsider
+דְּיִקְרַב | who comes near
+יִתְקְטָל | shall be put to death
+@ 3:39.0
+כָּל | every, all
+מִנְיָנֵי | the accounts of
+לֵוָאֵי | the Levite
+דִּי | that, which
+מְנָא | he counted
+משֶׁה | Moshe
+וְאַהֲרֹן | and Aharon
+עַל | on, over
+מֵימְרָא | the Word of
+דַיְיָ | of Hashem
+לְזַרְעֲיַתְהוֹן | by their families
+@ 3:39.1
+כָּל | every, all
+דְּכוּרָא | male
+מִבַּר | from (lit. from a son of)
+יַרְחָא | the month
+וּלְעֵלָּא | and upward
+@ 3:39.2
+עַשְׂרִין | twenty
+וּתְרֵין | and two
+אַלְפִין | thousands
+@ 3:40.0
+וַאֲמַר | and he said
+יְיָ | Hashem
+לְמשֶׁה | to Moshe
+מְנֵי | count
+כָּל | every, all
+בּוּכְרַיָּא | the firstborn
+דִכְרַיָּא | the males
+לִבְנֵי | to the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:40.1
+מִבַּר | from (lit. from a son of)
+יַרְחָא | the month
+וּלְעֵלָּא | and upward
+@ 3:40.2
+וְקַבֵּל | and he accepted
+יָת | (sign of the object)
+מִנְיַן | the number of
+שְׁמָהַתְהוֹן | their names
+@ 3:41.0
+וּתְקָרֵב | and you shall bring near
+יָת | (sign of the object)
+לֵוָאֵי | the Levite
+קֳדָמַי | before Me
+אֲנָא | I am
+יְיָ | Hashem
+@ 3:41.1
+חֲלַף | in place of
+כָּל | every, all
+בּוּכְרָא | the firstborn
+בִּבְנֵי | in the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:41.2
+וְיָת | and (sign of the object)
+בְּעִירָא | the cattle
+דְלֵוָאֵי | of the Levite
+@ 3:41.3
+חֲלַף | in place of
+כָּל | every, all
+בּוּכְרָא | the firstborn
+@ 3:41.4
+בִּבְעִירָא | in the cattle
+דִּבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:42.0
+וּמְנָא | and he counted
+משֶׁה | Moshe
+@ 3:42.1
+כְּמָא דִי | as
+פַּקִיד | had commanded
+יְיָ | Hashem
+יָתֵיהּ | him
+@ 3:42.2
+יָת | (sign of the object)
+כָּל | every, all
+בּוּכְרָא | the firstborn
+בִּבְנֵי | in the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:43.0
+וַהֲווֹ | and they were
+כָל | all of
+בּוּכְרַיָּא | the firstborn
+דִכְרַיָּא | the males
+בְּמִנְיַן | by the number of
+שְׁמָהָן | names
+מִבַּר | from (lit. from a son of)
+יַרְחָא | the month
+וּלְעֵלָּא | and upward
+לְמִנְיָנֵיהוֹן | by their numbers
+@ 3:43.1
+עַשְׂרִין | twenty
+וּתְרֵין | and two
+אַלְפִין | thousands
+@ 3:43.2
+מָאתָן | two hundred
+וְשַׁבְעִין | and seventy
+וּתְלָתָא | and three
+@ 3:44.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+עִם | with
+משֶׁה | Moshe
+לְמֵימָר | saying (lit. “to say”)
+@ 3:45.0
+קָרֵב | bring near
+יָת | (sign of the object)
+לֵוָאֵי | the Levite
+חֲלַף | in place of
+כָּל | every, all
+בּוּכְרָא | the firstborn
+בִּבְנֵי | in the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:45.1
+וְיָת | and (sign of the object)
+בְּעִירָא | the cattle
+דְלֵוָאֵי | of the Levite
+חֲלַף | in place of
+בְּעִירְהוֹן | their cattle
+@ 3:45.2
+וִיהוֹן | and they will be
+מְשַׁמְּשִׁין | they shall be ministering
+קֳדָמַי | before Me
+לֵוָאֵי | the Levite
+אֲנָא | I am
+יְיָ | Hashem
+@ 3:46.0
+וְיָת | and (sign of the object)
+פֻּרְקַן | a redemption for
+מָאתָן | two hundred
+וְשַׁבְעִין | and seventy
+וּתְלָתָא | and three
+@ 3:46.1
+דְּיַתִּירִין | who are in excess (lit. extra)
+עַל | on, over
+לֵוָאֵי | the Levite
+@ 3:46.2
+מִבּוּכְרַיָּא | of the firstborn
+דִּבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+@ 3:47.0
+וְתִסַּב | and you shall take
+חָמֵשׁ | five
+חָמֵשׁ | five
+סִלְעִין | shekels
+לְגֻלְגַּלְתָּא | per head
+@ 3:47.1
+בְּסִלְעֵי | by the sela of
+קוּדְשָׁא | holiness
+תִּסַּב | you shall take
+@ 3:47.2
+עַשְׂרִין | twenty
+מָעִין | ma'ahs
+סִלְעָא | a sela
+@ 3:48.0
+וְתִתֵּן | and you shall give
+כַּסְפָּא | money
+@ 3:48.1
+לְאַהֲרֹן | to Aharon
+וְלִבְנוֹהִי | and to his sons
+@ 3:48.2
+פֻּרְקַן | a redemption for
+דְּיַתִּירִין | who are in excess (lit. extra)
+בְּהוֹן | by them
+@ 3:49.0
+וּנְסֵיב | and he took
+משֶׁה | Moshe
+@ 3:49.1
+יָת | (sign of the object)
+כְּסַף | the money of
+פֻּרְקַנְהוֹן | their redemption
+@ 3:49.2
+מִן | from
+דְּיַתִּירִין | who are in excess (lit. extra)
+@ 3:49.3
+עַל | on, over
+פְּרִיקֵי | those redeemed by
+לֵוָאֵי | the Levite
+@ 3:50.0
+מִן | from
+בּוּכְרַיָּא | the firstborn
+דִּבְנֵי | of the children of
+יִשְׂרָאֵל | Yisrael
+נְסִיב | has taken
+יָת | (sign of the object)
+כַּסְפָּא | money
+@ 3:50.1
+אֲלַף | a thousand
+וּתְלַת | and three
+מְאָה | a hundred
+וְשִׁתִּין | and sixty
+וְחָמֵשׁ | and five
+סִלְעִין | shekels
+בְּסִלְעֵי | by the sela of
+קוּדְשָׁא | holiness
+@ 3:51.0
+וִיהַב | and he set
+משֶׁה | Moshe
+יָת | (sign of the object)
+כְּסַף | the money of
+פְּרִיקַיָּא | the redeemed
+לְאַהֲרֹן | to Aharon
+וְלִבְנוֹהִי | and to his sons
+עַל | on, over
+מֵימְרָא | the Word of
+דַיְיָ | of Hashem
+@ 3:51.1
+כְּמָא דִי | as
+פַקִּיד | had commanded
+יְיָ | Hashem
+יָת | (sign of the object)
+משֶׁה | Moshe
+@ 4:1.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+@ 4:1.1
+עִם | with
+משֶׁה | Moshe
+וְעִם | and with
+אַהֲרֹן | Aharon
+לְמֵימָר | saying (lit. “to say”)
+@ 4:2.0
+קַבִּילוּ | they accepted
+יָת | (sign of the object)
+חֻשְׁבַּן | the count (lit. reckoning) of
+בְּנֵי | the children of
+קְהָת | Kehat
+@ 4:2.1
+מִגּוֹ | from the midst of
+בְּנֵי | the children of
+לֵוִי | Levi
+@ 4:2.2
+לְזַרְעֲיַתְהוֹן | by their families
+לְבֵית | to the house of
+אֲבָהַתְהוֹן | their fathers
+@ 4:3.0
+מִבַּר | from (lit. from a son of)
+תְּלָתִין | thirty
+שְׁנִין | years
+וּלְעֵלָּא | and upward
+@ 4:3.1
+וְעַד | and until
+בַּר | has (lit. “son of”)
+חַמְשִׁין | fifty
+שְׁנִין | years
+@ 4:3.2
+כָּל | every, all
+דְּאָתֵי | that is coming
+לְחֵילָא | into the host
+@ 4:3.3
+לְמֶעְבַּד | to make
+עִבִדְתָּא | work
+בְּמַשְׁכַּן | in the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:4.0
+דֵּין | this
+פּוּלְחַן | the service of
+בְּנֵי | the children of
+קְהָת | Kehat
+בְּמַשְׁכַּן | in the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:4.1
+קֹדֶשׁ | the holy
+קוּדְשַׁיָּא | the holies
+@ 4:5.0
+וְיֵעוֹל | and he comes in
+אַהֲרֹן | Aharon
+וּבְנוֹהִי | and his sons
+בְּמִטַּל | when carrying
+מַשְׁרִיתָא | a camp
+@ 4:5.1
+וִיפָרְקוּן | and they shall take down
+יָת | (sign of the object)
+פָּרֻכְתָּא | the dividing curtain
+דִפְרָסָא | of a screen
+@ 4:5.2
+וִיכַסּוּן | and they shall cover
+בַּהּ | in it
+יָת | (sign of the object)
+אֲרוֹנָא | the Ark
+דְסַהֲדוּתָא | of the Testimony
+@ 4:6.0
+וְיִתְּנוּן | and they shall put
+עֲלוֹהִי | for him (lit. upon him)
+חוֹפָאָה | the covering
+דִּמְשַׁךְ | of the skin of
+סַסְגּוֹנָא | tachash
+@ 4:6.1
+וְיִפְרְסוּן | and they shall spread
+לְבוּשׁ | a garment
+גְּמִיר | entirely (lit. complete)
+תִּכְלָא | blue wool
+מִלְעֵלָּא | from above
+@ 4:6.2
+וִישַׁוּוּן | and they shall put
+אֲרִיחוֹהִי | its poles
+@ 4:7.0
+וְעַל | and on
+פָּתוֹרָא | the table
+דִלְחֵם | of bread
+אַפַּיָּא | their faces
+יִפְרְסוּן | they shall spread
+לְבוּשׁ | a garment
+תִּכְלָא | blue wool
+@ 4:7.1
+וְיִתְּנוּן | and they shall put
+עֲלוֹהִי | for him (lit. upon him)
+יָת | (sign of the object)
+מָגִיסַיָּא | the dishes
+וְיָת | and (sign of the object)
+בָּזִיכַיָּא | the spoons
+וְיָת | and (sign of the object)
+מְכִילָתָא | the measuring bowls
+@ 4:7.2
+וְיָת | and (sign of the object)
+קַסְווֹת | the jugs of
+נִסּוּכָא | the libation
+@ 4:7.3
+וּלְחֵם | and bread
+תְּדִירָא | continually
+עֲלוֹהִי | for him (lit. upon him)
+יְהֵי | will be
+@ 4:8.0
+וְיִפְרְסוּן | and they shall spread
+עֲלֵיהוֹן | upon them, over them
+לְבוּשׁ | a garment
+צְבַע | dyed (lit. the dye of)
+זְהוֹרִי | scarlet
+@ 4:8.1
+וִיכַסּוּן | and they shall cover
+יָתֵיהּ | him
+@ 4:8.2
+בְּחוֹפָאָה | in the covering
+דִּמְשַׁךְ | of the skin of
+סַסְגּוֹנָא | tachash
+@ 4:8.3
+וִישַׁוּוּן | and they shall put
+יָת | (sign of the object)
+אֲרִיחוֹהִי | its poles
+@ 4:9.0
+וְיִסְּבוּן | and let them take
+לְבוּשׁ | a garment
+תִּכְלָא | blue wool
+וִיכַסּוּן | and they shall cover
+יָת | (sign of the object)
+מְנַרְתָּא | the menorah
+דְאַנְהוֹרֵי | of the lighting
+וְיָת | and (sign of the object)
+בּוֹצִינָהָא | its lamps
+@ 4:9.1
+וְיָת | and (sign of the object)
+צִבְתָהָא | its tongs
+וְיָת | and (sign of the object)
+מַחְתְּיתָהָא | its fire pans
+@ 4:9.2
+וְיָת | and (sign of the object)
+כָּל | every, all
+מָנֵי | the things of
+מִשְׁחָא | oil
+@ 4:9.3
+דִּי | that, which
+יְשַׁמְּשׁוּן | they minister
+לֵיהּ | to him
+בְּהוֹן | by them
+@ 4:10.0
+וְיִתְּנוּן | and they shall put
+יָתַהּ | it
+וְיָת | and (sign of the object)
+כָּל | every, all
+מָנָהָא | its vessels
+@ 4:10.1
+לְחוֹפָאָה | to the covering
+דִּמְשַׁךְ | of the skin of
+סַסְגּוֹנָא | tachash
+@ 4:10.2
+וְיִתְּנוּן | and they shall put
+עַל | on, over
+אֲרִיחָא | the carrying pole
+@ 4:11.0
+וְעַל | and on
+מַדְבְּחָא | an altar
+דְדַהֲבָא | of gold
+יִפְרְסוּן | they shall spread
+לְבוּשׁ | a garment
+תִּכְלָא | blue wool
+@ 4:11.1
+וִיכַסּוּן | and they shall cover
+יָתֵיהּ | him
+@ 4:11.2
+בְּחוֹפָאָה | in the covering
+דִּמְשַׁךְ | of the skin of
+סַסְגּוֹנָא | tachash
+@ 4:11.3
+וִישַׁוּוּן | and they shall put
+יָת | (sign of the object)
+אֲרִיחוֹהִי | its poles
+@ 4:12.0
+וְיִסְּבוּן | and let them take
+יָת | (sign of the object)
+כָּל | every, all
+מָנֵי | the things of
+שִׁמּוּשָׁא | the service
+דִּי | that, which
+יְשַׁמְּשׁוּן | they minister
+בְּהוֹן | by them
+בְּקוּדְשָׁא | in holiness
+וְיִתְּנוּן | and they shall put
+לִלְבוּשׁ | to a garment
+תִּכְלָא | blue wool
+@ 4:12.1
+וִיכַסּוּן | and they shall cover
+יָתְהוֹן | them
+@ 4:12.2
+בְּחוֹפָאָה | in the covering
+דִּמְשַׁךְ | of the skin of
+סַסְגּוֹנָא | tachash
+@ 4:12.3
+וְיִתְּנוּן | and they shall put
+עַל | on, over
+אֲרִיחָא | the carrying pole
+@ 4:13.0
+וְיִסְּפוּן | and they shall clear away
+יָת | (sign of the object)
+קִטְמָא | the ashes
+דְמַדְבְּחָא | of the altar
+@ 4:13.1
+וְיִפְרְסוּן | and they shall spread
+עֲלוֹהִי | for him (lit. upon him)
+@ 4:13.2
+לְבוּשׁ | a garment
+אַרְגְּוָן | purple
+@ 4:14.0
+וְיִתְּנוּן | and they shall put
+עֲלוֹהִי | for him (lit. upon him)
+יָת | (sign of the object)
+כָּל | every, all
+מָנוֹהִי | its vessels
+דִּי | that, which
+יְשַׁמְּשׁוּן | they minister
+עֲלוֹהִי | for him (lit. upon him)
+בְהוֹן | by them
+יָת | (sign of the object)
+מַחְתְּיָתָא | the fire pans
+וְיָת | and (sign of the object)
+צִנּוֹרְיָתָא | the forks
+וְיָת | and (sign of the object)
+מַגְרוֹפְיָתָא | the shovels
+וְיָת | and (sign of the object)
+מִזְרְקַיָּא | the basins
+@ 4:14.1
+כֹּל | all, every
+מָנֵי | the things of
+מַדְבְּחָא | an altar
+@ 4:14.2
+וְיִפְרְסוּן | and they shall spread
+עֲלוֹהִי | for him (lit. upon him)
+חוֹפָאָה | the covering
+דִּמְשַׁךְ | of the skin of
+סַסְגּוֹנָא | tachash
+וִישַׁווּן | and they shall put
+אֲרִיחוֹהִי | its poles
+@ 4:15.0
+וִישֵׁיצֵי | and will destroy
+אַהֲרֹן | Aharon
+וּבְנוֹהִי | and his sons
+לְכַסָּאָה | to cover
+יָת | (sign of the object)
+קוּדְשָׁא | holiness
+וְיָת | and (sign of the object)
+כָּל | every, all
+מָנֵי | the things of
+קוּדְשָׁא | holiness
+בְּמִטַּל | when carrying
+מַשְׁרִיתָא | a camp
+@ 4:15.1
+וּבָתַר כֵּן | and afterwards
+יֵעֲלוּן | they shall come in
+בְּנֵי | the children of
+קְהָת | Kehat
+לְמִטַּל | to carry
+@ 4:15.2
+וְלָא | and not
+יִקְרְבוּן | they will come near
+לְקוּדְשָׁא | to holiness
+וְלָא | and not
+יְמוּתוּן | they die
+@ 4:15.3
+אִלֵּין | these
+מַטּוּל | the burden of
+בְּנֵי | the children of
+קְהָת | Kehat
+בְּמַשְׁכַּן | in the Tent of
+זִמְנָא | Meeting (lit. appointment)
+@ 4:16.0
+וְדִי | and that, which
+מְסִיר | entrusted (lit. handed over)
+לְאֶלְעָזָר | to Elazar
+בַּר | has (lit. “son of”)
+אַהֲרֹן | Aharon
+כַּהֲנָא | the priest
+מִשְׁחָא | oil
+דְאַנְהָרוּתָא | of the lighting
+וּקְטֹרֶת | and incense
+בּוּסְמַיָּא | spices
+@ 4:16.1
+וּמִנְחָתָא | and a meal offering
+תְדִירָא | continually
+וּמִשְׁחָא | and oil
+דִרְבוּתָא | of anointing
+@ 4:16.2
+מַטְרַת | the charge of
+כָּל | every, all
+מַשְׁכְּנָא | the tent
+וְכָל | and all
+דִּי | that, which
+בֵיהּ | in it
+@ 4:16.3
+בְּקוּדְשָׁא | in holiness
+וּבְמָנוֹהִי | and in its vessels
+@ 4:17.0
+וּמַלִּיל | and he spoke
+יְיָ | Hashem
+@ 4:17.1
+עִם | with
+משֶׁה | Moshe
+וְעִם | and with
+אַהֲרֹן | Aharon
+לְמֵימָר | saying (lit. “to say”)
+@ 4:18.0
+לָא | not
+תְשֵׁיצוּן | you shall cause to be destroyed (lit. finish off)
+יָת | (sign of the object)
+שִׁבְטָא | the tribe of
+זַרְעֲיַת | the families of
+קְהָת | Kehat
+@ 4:18.1
+מִגּוֹ | from the midst of
+לֵוָאֵי | the Levite
+@ 4:19.0
+וְדָא | and this one
+עִבִידוּ | make!
+לְהוֹן | to them
+וְיֵחוּן | and they shall live
+וְלָא | and not
+יְמוּתוּן | they die
+@ 4:19.1
+בְּמִקְרַבְהוֹן | when they approach (lit. in their coming near)
+לְקֹדֶשׁ | to the holy
+קוּדְשַׁיָּא | the holies
+@ 4:19.2
+אַהֲרֹן | Aharon
+וּבְנוֹהִי | and his sons
+יֵעֲלוּן | they shall come in
+@ 4:19.3
+וִימַנּוּן | and they shall appoint
+יָתְהוֹן | them
+גְּבַר | a man
+גְּבַר | a man
+עַל | on, over
+פּוּלְחָנֵיהּ | its service
+וּלְמַטּוּלֵיהּ | and to his burden
+@ 4:20.0
+וְלָא | and not
+יֵעֲלוּן | they shall come in
+לְמֶחֱזֵי | to look at
+כַּד | when
+מְכַסָּן | they cover
+יָת | (sign of the object)
+מָנֵי | the things of
+קוּדְשָׁא | holiness
+וְלָא | and not
+יְמוּתוּן | they die
