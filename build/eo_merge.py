@@ -31,5 +31,4 @@ def merge(verbose=True):
                     if t is not None and t != v['t'][j]: v['t'][j] = t; changed = True
         if changed: json.dump(d, open(pf, 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
     if verbose: print('eo: ', n, 'pesukim with Onkelos-only English')
-    import lit_merge; lit_merge.merge(verbose)   # exact English for the word-by-word table
 if __name__ == '__main__': merge()

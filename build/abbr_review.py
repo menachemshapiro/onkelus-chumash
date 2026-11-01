@@ -1,6 +1,6 @@
 """abbr_review.py : abbreviations the pop-up entries use that are not in Jastrow's List of Abbreviations -> abbr-review.md"""
 import json, glob, re, html, collections, unicodedata as u
-SP = '/home/claude/work/'
+SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 exec(open(SP + 'build/jas_abbr.py').read().split("json.dump(")[0])     # HE, EN, ADDED
 J = {}
 for f in glob.glob(SP + 'j/[A-Z].json'): J.update(json.load(open(f, encoding='utf8')))

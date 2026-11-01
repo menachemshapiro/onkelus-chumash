@@ -1,7 +1,7 @@
 """heb_check.py : every Hebrew pasuk on the page must match the Sefaria source (Tanach with Ta'amei Hamikra) letter for letter,
 vowel for vowel and mark for mark. Only the petucha/setuma signs and line splits may differ. Prints any difference; exit 1 if any."""
 import json, glob, re, sys, unicodedata as u, collections
-SP = '/home/claude/work/'
+SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 U = '/root/.claude/uploads/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/'
 order = re.findall(r'"(\w+)": \[', re.search(r'\{"bereishit": \[\d[^}]*\}', open(SP + 'bereishit-onkelos.html', encoding='utf8').read()).group(0))
 BOOK, bk = {}, 'Genesis'

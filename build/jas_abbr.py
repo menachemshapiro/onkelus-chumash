@@ -3,7 +3,7 @@ from the 2018 Sefaria-Data XML -> j/abbr.json {"en": [[abbr, meaning], ...]}. Th
 Also Jastrow's "Hebrew or Aramaic Abbreviations" list (he) and a few pairs read as one (x: h. text, i.e., e.g., h. a. ch.).
 ADDED (common ones missing from the list) is kept here for review only (abbr-review.md lists what the entries use that the list lacks)."""
 import re, json, html, os
-SP = '/home/claude/work/'
+SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 X = open(SP + 'jastrow/full/Jastrow-full-2017.xml', encoding='utf8').read()
 front = X[:X.index('<body>')]
 he_start = front.index('Hebrew or Aramaic Abbreviations'); en_start = front.index('List of Abbreviations.')

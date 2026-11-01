@@ -2,7 +2,7 @@
 glossary meaning) and the English as printed, as the worksheet for writing eo-align/<parsha>.txt in the M: format."""
 import json, re, sys, runpy, unicodedata as u
 N = lambda s: u.normalize('NFC', s)
-SP = '/home/claude/work/'
+SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 sys.argv, ARGS = ['gloss_build.py', 'todo', 'none'], sys.argv[1:]
 G = runpy.run_path('gloss_build.py', run_name='bt')
 pid = ARGS[0]; rng = ARGS[1] if len(ARGS) > 1 else None

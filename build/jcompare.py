@@ -1,6 +1,6 @@
 # Compare our Sefaria-API Jastrow entries with the 2018 Sefaria-Data XML, entry by entry (same ids).
 import json, re, unicodedata, difflib, collections, html
-SP='/home/claude/work/'
+SP='/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 API={}
 for f in ['jastrow-lookups.json','jastrow-lookups-2.json']:
     API.update(json.load(open(SP+'jastrow/'+f))['entries'])

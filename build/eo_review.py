@@ -1,7 +1,7 @@
 """eo_review.py ALIGNFILE PARSHA TITLE OUT.html : a readable review page of a word-by-word alignment."""
 import json, re, sys, html, unicodedata as u
 N = lambda s: u.normalize('NFC', s)
-SP = '/home/claude/work/'
+SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 path, pid, title, out = sys.argv[1:5]
 P = {f"{v['c']}:{v['v']}": v for v in json.load(open(SP + f'p/{pid}.json', encoding='utf8'))['V']}
 verses, cur = {}, None

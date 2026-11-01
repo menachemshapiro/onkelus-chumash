@@ -1,7 +1,7 @@
 """og_image.py OUT.png : the link-preview picture (1200x630) shown when the page is shared in WhatsApp, iMessage etc."""
 import sys
 from PIL import Image, ImageDraw, ImageFont
-SP = '/home/claude/work/'
+SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 VB = SP + 'fonts-src/Mekorot (LPPL)/Vilna/Mekorot-Vilna-Bold.ttf'
 VR = SP + 'fonts-src/Mekorot (LPPL)/Vilna/Mekorot-Vilna.ttf'
 SER = '/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf'

@@ -3,7 +3,7 @@ into the same shape as the entries we download from Sefaria's API, so the build 
 Writes jastrow/jastrow-2018.json {rid: entry} and jastrow/targ-o-cites.json [[rid, book, chapter, verse, onkelos_only]].
 The 2018 text is used only where Sefaria's current text has not been downloaded (see jas_build.py)."""
 import re, json, html, unicodedata as u
-SP = '/home/claude/work/'
+SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 X = open(SP + 'jastrow/full/Jastrow-full-2017.xml', encoding='utf8').read()
 BOOK = {'Gen': 'Genesis', 'Ex': 'Exodus', 'Lev': 'Leviticus', 'Num': 'Numbers', 'Deut': 'Deuteronomy'}
 ROM = {'I': 1, 'V': 5, 'X': 10, 'L': 50}

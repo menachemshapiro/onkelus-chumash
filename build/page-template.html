@@ -199,7 +199,6 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .wbw-on .wbx { display: block; font-size: 1rem; line-height: 1.4; }
 .wbw-on .wbd { display: block; }
 .wbw-on .wbn { display: block; }
-.wbd .wu { color: var(--muted); font-style: italic; }
 .wbd { margin-top: 8px; font-weight: 400; font-family: var(--f-ui); font-size: .85rem; direction: ltr; text-align: left; }
 .wbd summary { cursor: pointer; color: var(--targum); font-size: .82rem; }
 .wbd summary span { color: var(--muted); }
@@ -379,7 +378,7 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
   <div class="rep-act"><button type="button" id="rep-na-ok" class="pri">OK</button></div>
 </div></div>
 <div class="rep-pop help-pop" id="help" hidden dir="ltr" lang="en"><div class="rep-card help-card" role="dialog" aria-modal="true" aria-labelledby="help-t">
-  <div class="rep-h"><b id="help-t">How to use this page <small style="font-weight:400;opacity:.6">· v30 Oct b</small></b><button type="button" id="help-x" class="help-x" aria-label="Close">×</button></div>
+  <div class="rep-h"><b id="help-t">How to use this page</b><button type="button" id="help-x" class="help-x" aria-label="Close">×</button></div>
   <div class="help-body">
     <p>Each pasuk is split into short clauses. Each clause shows the Hebrew, Targum Onkelos and the English side by side (stacked on a phone), so you can see which Aramaic words translate which Hebrew words. Rashi follows each pasuk.</p>
     <h3>Getting around</h3>
@@ -588,16 +587,6 @@ function wbdHTML(v, j){
 async function fillWbd(det){
   const body = det.querySelector(".wbd-body"); if (body.dataset.done) return;
   const sec = det.closest(".verse"), v = VERSES[+sec.dataset.i], j = +det.dataset.j, a = v.ea && v.ea[j];
-  const el = v.el && v.el[j];
-  if (el) {   // exact English for each word or group of words read together; the English used in the translation in parentheses when different
-    const nrm = s => s.toLowerCase().replace(/<[^>]+>/g, "").replace(/[^a-z' ]+/g, " ").split(/\s+/).filter(w => w && !["the", "a", "an", "and"].includes(w)).join(" ");
-    const ws = a ? a.map.flatMap(([w]) => w.split(" ")) : v.t[j].replace(/<[^>]+>|\([^)]*\)|[:׃,.;]/g, " ").split(/\s+/).filter(Boolean);
-    let k = 0;
-    const rows = el.map(([n, ex, used = null]) => { const w = ws.slice(k, k += n).join(" "); return `<tr><td class="a">${escH(w)}</td><td>${escH(ex)}${used === null ? "" : !used ? ' <span class="nt">(not in the translation)</span>' : nrm(used).split(" ").every(w => nrm(ex).split(" ").includes(w)) ? "" : ` <span class="wu">(${escH(used)})</span>`}</td></tr>`; }).join("")
-      + (a ? a.plus : []).map(p => `<tr class="plus"><td class="a">—</td><td><span class="wu">(${escH(p)})</span> <span class="nt">English only</span></td></tr>`).join("");
-    body.innerHTML = `<div class="tw-wrap"><table><thead><tr><th>Targum</th><th>Exact meaning${a ? ' <span class="nt">(as translated)</span>' : ""}</th></tr></thead><tbody>${rows}</tbody></table></div>`;
-    body.dataset.done = 1; return;
-  }
   if (a) {
     const rows = a.map.map(([w, e]) => `<tr><td class="a">${escH(w)}</td><td>${e ? escH(e) : '<span class="nt">not translated</span>'}</td></tr>`).join("")
       + a.plus.map(p => `<tr class="plus"><td class="a">—</td><td>${escH(p)} <span class="nt">English only</span></td></tr>`).join("");
